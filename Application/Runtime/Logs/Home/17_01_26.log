@@ -1,0 +1,3215 @@
+[ 2017-01-26T12:45:59+08:00 ] ::1 /weblog/index.php/Home/Blog/getaccount?jsonpCallback=jQuery191015468957661916538_1485358856086&account=root&_=1485358856092
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000817s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001276s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001341s ]
+SQL: select * from wb_user where account = "root" [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001777s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001834s ]
+
+[ 2017-01-26T12:46:01+08:00 ] ::1 /weblog/index.php/Home/Blog/getaccount?jsonpCallback=jQuery191015468957661916538_1485358856086&account=root&_=1485358856093
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000359s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000530s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000564s ]
+SQL: select * from wb_user where account = "root" [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000766s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000808s ]
+
+[ 2017-01-26T12:46:09+08:00 ] ::1 /weblog/index.php/Home/Blog/getaccount?jsonpCallback=jQuery191015468957661916538_1485358856086&account=root2&_=1485358856094
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000498s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000600s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000643s ]
+SQL: select * from wb_user where account = "root2" [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000728s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000767s ]
+
+[ 2017-01-26T12:46:09+08:00 ] ::1 /weblog/index.php/Home/Blog/getaccount?jsonpCallback=jQuery191015468957661916538_1485358856095&account=root2&_=1485358856096
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000442s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000895s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000942s ]
+SQL: select * from wb_user where account = "root2" [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000929s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000971s ]
+
+[ 2017-01-26T12:46:11+08:00 ] ::1 /weblog/index.php/Home/Blog/getaccount?jsonpCallback=jQuery191015468957661916538_1485358856095&account=root2&_=1485358856097
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000353s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000638s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000687s ]
+SQL: select * from wb_user where account = "root2" [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000745s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000785s ]
+
+[ 2017-01-26T12:46:14+08:00 ] ::1 /weblog/index.php/Home/Blog/getaccount?jsonpCallback=jQuery191015468957661916538_1485358856095&account=root2&_=1485358856098
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000320s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000556s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000590s ]
+SQL: select * from wb_user where account = "root2" [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000734s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000774s ]
+
+[ 2017-01-26T12:46:17+08:00 ] ::1 /weblog/index.php/Home/Blog/getaccount?jsonpCallback=jQuery191015468957661916538_1485358856095&account=root25656&_=1485358856099
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000317s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000565s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000600s ]
+SQL: select * from wb_user where account = "root25656" [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000696s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000731s ]
+
+[ 2017-01-26T12:46:24+08:00 ] ::1 /weblog/index.php/Home/Blog/getaccount?jsonpCallback=jQuery191015468957661916538_1485358856095&account=root&_=1485358856100
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000333s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000601s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000641s ]
+SQL: select * from wb_user where account = "root" [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000705s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000744s ]
+
+[ 2017-01-26T12:46:51+08:00 ] ::1 /weblog/index.php/Home/Blog/getaccount?jsonpCallback=jQuery191015468957661916538_1485358856095&account=root&_=1485358856101
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000368s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000924s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000987s ]
+SQL: select * from wb_user where account = "root" [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000668s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000704s ]
+
+[ 2017-01-26T12:46:52+08:00 ] ::1 /weblog/index.php/Home/Blog/getaccount?jsonpCallback=jQuery191015468957661916538_1485358856095&account=root&_=1485358856102
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000347s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000569s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000614s ]
+SQL: select * from wb_user where account = "root" [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000759s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000798s ]
+
+[ 2017-01-26T13:03:55+08:00 ] ::1 /weblog/index.php/Home/Blog/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000567s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000887s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000940s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001075s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001139s ]
+
+[ 2017-01-26T13:24:25+08:00 ] ::1 /weblog/index.php/Home/Blog/getaccount?jsonpCallback=jQuery19106982442450187745_1485408260714&account=root&_=1485408260715
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000423s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000855s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000893s ]
+SQL: select * from wb_user where account = "root" [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000886s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000934s ]
+
+[ 2017-01-26T13:24:30+08:00 ] ::1 /weblog/index.php/Home/Blog/login?jsonpCallback=jQuery19106982442450187745_1485408260714&account=root&password=root&_=1485408260716
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000383s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000660s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000704s ]
+SQL: select * from wb_user where account = "root" [ RunTime:0.0003s ]
+NOTIC: [8] Undefined index: password C:\xampp\htdocs\weblog\Application\Home\Controller\BlogController.class.php 第 31 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000784s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000826s ]
+
+[ 2017-01-26T13:24:32+08:00 ] ::1 /weblog/index.php/Home/Blog/login?jsonpCallback=jQuery19106982442450187745_1485408260714&account=root&password=root&_=1485408260717
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000380s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000654s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000699s ]
+SQL: select * from wb_user where account = "root" [ RunTime:0.0003s ]
+NOTIC: [8] Undefined index: password C:\xampp\htdocs\weblog\Application\Home\Controller\BlogController.class.php 第 31 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000763s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000804s ]
+
+[ 2017-01-26T13:24:33+08:00 ] ::1 /weblog/index.php/Home/Blog/login?jsonpCallback=jQuery19106982442450187745_1485408260714&account=root&password=root&_=1485408260718
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000382s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000734s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000788s ]
+SQL: select * from wb_user where account = "root" [ RunTime:0.0003s ]
+NOTIC: [8] Undefined index: password C:\xampp\htdocs\weblog\Application\Home\Controller\BlogController.class.php 第 31 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000736s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000773s ]
+
+[ 2017-01-26T13:24:35+08:00 ] ::1 /weblog/index.php/Home/Blog/login?jsonpCallback=jQuery19106982442450187745_1485408260714&account=root&password=root&_=1485408260719
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000388s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000722s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000770s ]
+SQL: select * from wb_user where account = "root" [ RunTime:0.0004s ]
+NOTIC: [8] Undefined index: password C:\xampp\htdocs\weblog\Application\Home\Controller\BlogController.class.php 第 31 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000872s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000919s ]
+
+[ 2017-01-26T13:24:40+08:00 ] ::1 /weblog/index.php/Home/Blog/login?jsonpCallback=jQuery19106982442450187745_1485408260714&account=root&password=root&_=1485408260720
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000382s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000652s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000696s ]
+SQL: select * from wb_user where account = "root" [ RunTime:0.0003s ]
+NOTIC: [8] Undefined index: password C:\xampp\htdocs\weblog\Application\Home\Controller\BlogController.class.php 第 31 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000778s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000818s ]
+
+[ 2017-01-26T13:24:42+08:00 ] ::1 /weblog/index.php/Home/Blog/login?jsonpCallback=jQuery19106982442450187745_1485408260714&account=root&password=root&_=1485408260721
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000398s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000661s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000705s ]
+SQL: select * from wb_user where account = "root" [ RunTime:0.0003s ]
+NOTIC: [8] Undefined index: password C:\xampp\htdocs\weblog\Application\Home\Controller\BlogController.class.php 第 31 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000818s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000874s ]
+
+[ 2017-01-26T13:24:43+08:00 ] ::1 /weblog/index.php/Home/Blog/login?jsonpCallback=jQuery19106982442450187745_1485408260714&account=root&password=root&_=1485408260722
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000384s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000718s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000774s ]
+SQL: select * from wb_user where account = "root" [ RunTime:0.0003s ]
+NOTIC: [8] Undefined index: password C:\xampp\htdocs\weblog\Application\Home\Controller\BlogController.class.php 第 31 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000779s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000819s ]
+
+[ 2017-01-26T13:24:45+08:00 ] ::1 /weblog/index.php/Home/Blog/login?jsonpCallback=jQuery19106982442450187745_1485408260714&account=root&password=root&_=1485408260723
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000376s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000565s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000604s ]
+SQL: select * from wb_user where account = "root" [ RunTime:0.0003s ]
+NOTIC: [8] Undefined index: password C:\xampp\htdocs\weblog\Application\Home\Controller\BlogController.class.php 第 31 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000780s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000820s ]
+
+[ 2017-01-26T13:24:58+08:00 ] ::1 /weblog/index.php/Home/Blog/login?jsonpCallback=jQuery19106982442450187745_1485408260714&account=root&password=root&_=1485408260724
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000409s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000698s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000750s ]
+SQL: select * from wb_user where account = "root" [ RunTime:0.0004s ]
+NOTIC: [8] Undefined index: password C:\xampp\htdocs\weblog\Application\Home\Controller\BlogController.class.php 第 31 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001311s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001389s ]
+
+[ 2017-01-26T13:27:28+08:00 ] ::1 /weblog/index.php/Home/Blog/getaccount?jsonpCallback=jQuery19107043967252295575_1485408440453&account=root&_=1485408440454
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000437s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000843s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000881s ]
+SQL: select * from wb_user where account = "root" [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000920s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000955s ]
+
+[ 2017-01-26T13:27:32+08:00 ] ::1 /weblog/index.php/Home/Blog/login?jsonpCallback=jQuery19107043967252295575_1485408440453&account=root&password=root&_=1485408440455
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000315s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000573s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000611s ]
+SQL: select * from wb_user where account = "root" [ RunTime:0.0003s ]
+NOTIC: [8] Undefined index: password C:\xampp\htdocs\weblog\Application\Home\Controller\BlogController.class.php 第 31 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000751s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000789s ]
+
+[ 2017-01-26T13:27:34+08:00 ] ::1 /weblog/index.php/Home/Blog/login?jsonpCallback=jQuery19107043967252295575_1485408440453&account=root&password=root&_=1485408440456
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000387s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000665s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000709s ]
+SQL: select * from wb_user where account = "root" [ RunTime:0.0003s ]
+NOTIC: [8] Undefined index: password C:\xampp\htdocs\weblog\Application\Home\Controller\BlogController.class.php 第 31 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000781s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000822s ]
+
+[ 2017-01-26T13:28:01+08:00 ] ::1 /weblog/index.php/Home/Blog/login?account=root&password=root
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000342s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000681s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000726s ]
+SQL: select * from wb_user where account = "root" [ RunTime:0.0003s ]
+NOTIC: [8] Undefined index: password C:\xampp\htdocs\weblog\Application\Home\Controller\BlogController.class.php 第 31 行.
+NOTIC: [8] Undefined index: jsonpCallback C:\xampp\htdocs\weblog\Application\Home\Controller\BlogController.class.php 第 42 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000786s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000825s ]
+
+[ 2017-01-26T13:28:45+08:00 ] ::1 /weblog/index.php/Home/Blog/login?account=root&password=root
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000593s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000878s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000920s ]
+SQL: select * from wb_user where account = "root" [ RunTime:0.0003s ]
+NOTIC: [8] Undefined index: password C:\xampp\htdocs\weblog\Application\Home\Controller\BlogController.class.php 第 31 行.
+NOTIC: [8] Undefined index: password C:\xampp\htdocs\weblog\Application\Home\Controller\BlogController.class.php 第 32 行.
+NOTIC: [8] Undefined index: jsonpCallback C:\xampp\htdocs\weblog\Application\Home\Controller\BlogController.class.php 第 43 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001053s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001091s ]
+
+[ 2017-01-26T13:29:31+08:00 ] ::1 /weblog/index.php/Home/Blog/login?account=root&password=root
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000410s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000670s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000712s ]
+SQL: select * from wb_user where account = "root" [ RunTime:0.0003s ]
+NOTIC: [8] Undefined index: password C:\xampp\htdocs\weblog\Application\Home\Controller\BlogController.class.php 第 32 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000810s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000857s ]
+
+[ 2017-01-26T13:30:31+08:00 ] ::1 /weblog/index.php/Home/Blog/login?account=root&password=root
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000402s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000662s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000704s ]
+SQL: select * from wb_user where account = "root" [ RunTime:0.0003s ]
+NOTIC: [8] Undefined index: password C:\xampp\htdocs\weblog\Application\Home\Controller\BlogController.class.php 第 32 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000731s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000768s ]
+
+[ 2017-01-26T13:31:32+08:00 ] ::1 /weblog/index.php/Home/Blog/login?account=root&password=root
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000510s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001050s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001101s ]
+SQL: select * from wb_user where account = "root" [ RunTime:0.0003s ]
+NOTIC: [8] Undefined index: password C:\xampp\htdocs\weblog\Application\Home\Controller\BlogController.class.php 第 32 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001008s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001046s ]
+
+[ 2017-01-26T13:31:35+08:00 ] ::1 /weblog/index.php/Home/Blog/login?account=root&password=root
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000396s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000714s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000765s ]
+SQL: select * from wb_user where account = "root" [ RunTime:0.0003s ]
+NOTIC: [8] Undefined index: password C:\xampp\htdocs\weblog\Application\Home\Controller\BlogController.class.php 第 32 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000800s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000844s ]
+
+[ 2017-01-26T13:31:45+08:00 ] ::1 /weblog/index.php/Home/Blog/login?account=root&password=root
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000387s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000702s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000757s ]
+SQL: select * from wb_user where account = "root" [ RunTime:0.0003s ]
+NOTIC: [8] Undefined index: password C:\xampp\htdocs\weblog\Application\Home\Controller\BlogController.class.php 第 32 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000769s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000810s ]
+
+[ 2017-01-26T13:32:26+08:00 ] ::1 /weblog/index.php/Home/Index/testdes
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000474s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000875s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000919s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000902s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000948s ]
+
+[ 2017-01-26T13:32:33+08:00 ] ::1 /weblog/index.php/Home/Index/testdes
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000413s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000673s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000722s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000677s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000722s ]
+
+[ 2017-01-26T13:32:34+08:00 ] ::1 /weblog/index.php/Home/Index/testdes
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000314s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000662s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000704s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000570s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000622s ]
+
+[ 2017-01-26T13:32:34+08:00 ] ::1 /weblog/index.php/Home/Index/testdes
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000395s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000698s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000754s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000674s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000720s ]
+
+[ 2017-01-26T13:32:34+08:00 ] ::1 /weblog/index.php/Home/Index/testdes
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000384s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000655s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000698s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000683s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000727s ]
+
+[ 2017-01-26T13:32:34+08:00 ] ::1 /weblog/index.php/Home/Index/testdes
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000334s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000537s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000571s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000590s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000631s ]
+
+[ 2017-01-26T13:32:35+08:00 ] ::1 /weblog/index.php/Home/Index/testdes
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000344s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000559s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000594s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000611s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000654s ]
+
+[ 2017-01-26T13:32:35+08:00 ] ::1 /weblog/index.php/Home/Index/testdes
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000450s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000658s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000709s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000725s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000777s ]
+
+[ 2017-01-26T13:32:35+08:00 ] ::1 /weblog/index.php/Home/Index/testdes
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000385s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000768s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000834s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000705s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000756s ]
+
+[ 2017-01-26T13:32:36+08:00 ] ::1 /weblog/index.php/Home/Index/testdes
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000383s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000560s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000594s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000574s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000611s ]
+
+[ 2017-01-26T13:32:36+08:00 ] ::1 /weblog/index.php/Home/Index/testdes
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000406s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000665s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000708s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000674s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000720s ]
+
+[ 2017-01-26T13:32:36+08:00 ] ::1 /weblog/index.php/Home/Index/testdes
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000406s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000657s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000698s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000689s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000736s ]
+
+[ 2017-01-26T13:32:37+08:00 ] ::1 /weblog/index.php/Home/Index/testdes
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000386s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000654s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000697s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000681s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000724s ]
+
+[ 2017-01-26T13:32:38+08:00 ] ::1 /weblog/index.php/Home/Index/testdes
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000384s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000649s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000691s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000699s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000750s ]
+
+[ 2017-01-26T13:32:39+08:00 ] ::1 /weblog/index.php/Home/Index/testdes
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000401s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000665s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000708s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000559s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000596s ]
+
+[ 2017-01-26T13:32:40+08:00 ] ::1 /weblog/index.php/Home/Index/testdes
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000398s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000679s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000726s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000677s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000722s ]
+
+[ 2017-01-26T13:32:44+08:00 ] ::1 /weblog/index.php/Home/Index/testdes
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000335s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000559s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000593s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000669s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000716s ]
+
+[ 2017-01-26T13:32:45+08:00 ] ::1 /weblog/index.php/Home/Index/testdes
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000383s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000735s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000784s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000678s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000725s ]
+
+[ 2017-01-26T13:32:45+08:00 ] ::1 /weblog/index.php/Home/Index/testdes
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000385s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000671s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000721s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000555s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000593s ]
+
+[ 2017-01-26T13:32:45+08:00 ] ::1 /weblog/index.php/Home/Index/testdes
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000443s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000599s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000637s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000588s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000626s ]
+
+[ 2017-01-26T13:32:45+08:00 ] ::1 /weblog/index.php/Home/Index/testdes
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000403s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000656s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000700s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000920s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000983s ]
+
+[ 2017-01-26T13:32:46+08:00 ] ::1 /weblog/index.php/Home/Index/testdes
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000393s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000669s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000714s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000752s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000805s ]
+
+[ 2017-01-26T13:32:46+08:00 ] ::1 /weblog/index.php/Home/Index/testdes
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000312s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000583s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000631s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000575s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000611s ]
+
+[ 2017-01-26T13:32:46+08:00 ] ::1 /weblog/index.php/Home/Index/testdes
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000392s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000657s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000700s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000677s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000722s ]
+
+[ 2017-01-26T13:32:46+08:00 ] ::1 /weblog/index.php/Home/Index/testdes
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000420s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000670s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000715s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000597s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000637s ]
+
+[ 2017-01-26T13:32:47+08:00 ] ::1 /weblog/index.php/Home/Index/testdes
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000470s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000683s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000730s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000685s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000731s ]
+
+[ 2017-01-26T13:32:47+08:00 ] ::1 /weblog/index.php/Home/Index/testdes
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000475s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000677s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000725s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000682s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000727s ]
+
+[ 2017-01-26T13:32:47+08:00 ] ::1 /weblog/index.php/Home/Index/testdes
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000359s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000596s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000650s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000719s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000762s ]
+
+[ 2017-01-26T13:32:47+08:00 ] ::1 /weblog/index.php/Home/Index/testdes
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000393s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000744s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000788s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000705s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000751s ]
+
+[ 2017-01-26T13:33:40+08:00 ] ::1 /weblog/index.php/Home/Index/testdes
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000395s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000780s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000827s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000705s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000754s ]
+
+[ 2017-01-26T13:33:41+08:00 ] ::1 /weblog/index.php/Home/Index/testdes
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000416s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000685s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000732s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000810s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000860s ]
+
+[ 2017-01-26T13:33:41+08:00 ] ::1 /weblog/index.php/Home/Index/testdes
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000381s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000673s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000717s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000574s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000610s ]
+
+[ 2017-01-26T13:33:42+08:00 ] ::1 /weblog/index.php/Home/Index/testdes
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000387s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000651s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000697s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000697s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000739s ]
+
+[ 2017-01-26T13:33:42+08:00 ] ::1 /weblog/index.php/Home/Index/testdes
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000358s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000644s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000687s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000937s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000994s ]
+
+[ 2017-01-26T13:33:42+08:00 ] ::1 /weblog/index.php/Home/Index/testdes
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000314s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000558s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000592s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000575s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000611s ]
+
+[ 2017-01-26T13:33:42+08:00 ] ::1 /weblog/index.php/Home/Index/testdes
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000321s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000546s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000582s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000622s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000668s ]
+
+[ 2017-01-26T13:33:42+08:00 ] ::1 /weblog/index.php/Home/Index/testdes
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000386s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000660s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000704s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000619s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000660s ]
+
+[ 2017-01-26T13:33:43+08:00 ] ::1 /weblog/index.php/Home/Index/testdes
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000342s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000536s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000570s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000658s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000705s ]
+
+[ 2017-01-26T13:33:43+08:00 ] ::1 /weblog/index.php/Home/Index/testdes
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000317s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000536s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000570s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000686s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000730s ]
+
+[ 2017-01-26T13:33:43+08:00 ] ::1 /weblog/index.php/Home/Index/testdes
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000325s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000567s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000604s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000589s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000636s ]
+
+[ 2017-01-26T13:33:43+08:00 ] ::1 /weblog/index.php/Home/Index/testdes
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000389s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000658s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000701s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000687s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000729s ]
+
+[ 2017-01-26T13:33:44+08:00 ] ::1 /weblog/index.php/Home/Index/testdes
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000393s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000682s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000730s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000673s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000718s ]
+
+[ 2017-01-26T13:33:44+08:00 ] ::1 /weblog/index.php/Home/Index/testdes
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000344s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000584s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000638s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000556s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000592s ]
+
+[ 2017-01-26T13:33:44+08:00 ] ::1 /weblog/index.php/Home/Index/testdes
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000334s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000559s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000594s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000571s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000609s ]
+
+[ 2017-01-26T13:33:45+08:00 ] ::1 /weblog/index.php/Home/Index/testdes
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000336s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000530s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000565s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000556s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000600s ]
+
+[ 2017-01-26T13:33:45+08:00 ] ::1 /weblog/index.php/Home/Index/testdes
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000379s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000650s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000692s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000672s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000716s ]
+
+[ 2017-01-26T13:35:54+08:00 ] ::1 /weblog/index.php/Home/Blog/login?account=root&password=root
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000540s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001042s ]
+SQL: select * from wb_user where account = "root" [ RunTime:0.0003s ]
+NOTIC: [8] Undefined index: password C:\xampp\htdocs\weblog\Application\Home\Controller\BlogController.class.php 第 32 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000973s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001013s ]
+
+[ 2017-01-26T13:37:26+08:00 ] ::1 /weblog/index.php/Home/Blog/login?account=root&password=root
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000397s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000567s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000603s ]
+SQL: select * from wb_user where account = "root" [ RunTime:0.0003s ]
+
+[ 2017-01-26T13:38:04+08:00 ] ::1 /weblog/index.php/Home/Blog/login?account=root&password=root
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000509s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001031s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001078s ]
+SQL: select * from wb_user where account = "root" [ RunTime:0.0003s ]
+NOTIC: [8] Undefined index: password C:\xampp\htdocs\weblog\Application\Home\Controller\BlogController.class.php 第 33 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001012s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001050s ]
+
+[ 2017-01-26T13:39:09+08:00 ] ::1 /weblog/index.php/Home/Blog/login?account=root&password=root
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000419s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000858s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000893s ]
+SQL: select * from wb_user where account = "root" [ RunTime:0.0003s ]
+NOTIC: [8] Undefined index: password C:\xampp\htdocs\weblog\Application\Home\Controller\BlogController.class.php 第 33 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001074s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001121s ]
+
+[ 2017-01-26T13:45:53+08:00 ] ::1 /weblog/index.php/Home/Blog/login?account=root&password=root
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000513s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001010s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001061s ]
+SQL: select * from wb_user where account = "root" [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001012s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001051s ]
+
+[ 2017-01-26T13:47:16+08:00 ] ::1 /weblog/index.php/Home/Blog/login?account=root&password=root
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000384s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000745s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000803s ]
+SQL: select * from wb_user where account = "root" [ RunTime:0.0003s ]
+NOTIC: [8] Undefined index: password C:\xampp\htdocs\weblog\Application\Home\Controller\BlogController.class.php 第 34 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000690s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000727s ]
+
+[ 2017-01-26T13:47:17+08:00 ] ::1 /weblog/index.php/Home/Blog/login?account=root&password=root
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000333s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000529s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000564s ]
+SQL: select * from wb_user where account = "root" [ RunTime:0.0003s ]
+NOTIC: [8] Undefined index: password C:\xampp\htdocs\weblog\Application\Home\Controller\BlogController.class.php 第 34 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000951s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000992s ]
+
+[ 2017-01-26T13:47:18+08:00 ] ::1 /weblog/index.php/Home/Blog/login?account=root&password=root
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000396s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000690s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000737s ]
+SQL: select * from wb_user where account = "root" [ RunTime:0.0003s ]
+NOTIC: [8] Undefined index: password C:\xampp\htdocs\weblog\Application\Home\Controller\BlogController.class.php 第 34 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000732s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000770s ]
+
+[ 2017-01-26T13:47:18+08:00 ] ::1 /weblog/index.php/Home/Blog/login?account=root&password=root
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000378s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000649s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000695s ]
+SQL: select * from wb_user where account = "root" [ RunTime:0.0003s ]
+NOTIC: [8] Undefined index: password C:\xampp\htdocs\weblog\Application\Home\Controller\BlogController.class.php 第 34 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000801s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000846s ]
+
+[ 2017-01-26T13:47:18+08:00 ] ::1 /weblog/index.php/Home/Blog/login?account=root&password=root
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000361s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000591s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000632s ]
+SQL: select * from wb_user where account = "root" [ RunTime:0.0003s ]
+NOTIC: [8] Undefined index: password C:\xampp\htdocs\weblog\Application\Home\Controller\BlogController.class.php 第 34 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001031s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001087s ]
+
+[ 2017-01-26T13:47:18+08:00 ] ::1 /weblog/index.php/Home/Blog/login?account=root&password=root
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000356s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000633s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000683s ]
+SQL: select * from wb_user where account = "root" [ RunTime:0.0003s ]
+NOTIC: [8] Undefined index: password C:\xampp\htdocs\weblog\Application\Home\Controller\BlogController.class.php 第 34 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000891s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000943s ]
+
+[ 2017-01-26T13:47:19+08:00 ] ::1 /weblog/index.php/Home/Blog/login?account=root&password=root
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000371s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000595s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000641s ]
+SQL: select * from wb_user where account = "root" [ RunTime:0.0003s ]
+NOTIC: [8] Undefined index: password C:\xampp\htdocs\weblog\Application\Home\Controller\BlogController.class.php 第 34 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000689s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000726s ]
+
+[ 2017-01-26T13:47:19+08:00 ] ::1 /weblog/index.php/Home/Blog/login?account=root&password=root
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000383s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000902s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000955s ]
+SQL: select * from wb_user where account = "root" [ RunTime:0.0004s ]
+NOTIC: [8] Undefined index: password C:\xampp\htdocs\weblog\Application\Home\Controller\BlogController.class.php 第 34 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000789s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000834s ]
+
+[ 2017-01-26T13:47:19+08:00 ] ::1 /weblog/index.php/Home/Blog/login?account=root&password=root
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000421s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000670s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000717s ]
+SQL: select * from wb_user where account = "root" [ RunTime:0.0003s ]
+NOTIC: [8] Undefined index: password C:\xampp\htdocs\weblog\Application\Home\Controller\BlogController.class.php 第 34 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000760s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000799s ]
+
+[ 2017-01-26T13:47:20+08:00 ] ::1 /weblog/index.php/Home/Blog/login?account=root&password=root
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000556s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001041s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001091s ]
+SQL: select * from wb_user where account = "root" [ RunTime:0.0003s ]
+NOTIC: [8] Undefined index: password C:\xampp\htdocs\weblog\Application\Home\Controller\BlogController.class.php 第 34 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001028s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001068s ]
+
+[ 2017-01-26T13:47:21+08:00 ] ::1 /weblog/index.php/Home/Blog/login?account=root&password=root
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000385s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000681s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000725s ]
+SQL: select * from wb_user where account = "root" [ RunTime:0.0003s ]
+NOTIC: [8] Undefined index: password C:\xampp\htdocs\weblog\Application\Home\Controller\BlogController.class.php 第 34 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000689s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000723s ]
+
+[ 2017-01-26T13:47:21+08:00 ] ::1 /weblog/index.php/Home/Blog/login?account=root&password=root
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000377s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000647s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000690s ]
+SQL: select * from wb_user where account = "root" [ RunTime:0.0003s ]
+NOTIC: [8] Undefined index: password C:\xampp\htdocs\weblog\Application\Home\Controller\BlogController.class.php 第 34 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000814s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000864s ]
+
+[ 2017-01-26T13:47:22+08:00 ] ::1 /weblog/index.php/Home/Blog/login?account=root&password=root
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000309s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000695s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000744s ]
+SQL: select * from wb_user where account = "root" [ RunTime:0.0003s ]
+NOTIC: [8] Undefined index: password C:\xampp\htdocs\weblog\Application\Home\Controller\BlogController.class.php 第 34 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000806s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000845s ]
+
+[ 2017-01-26T13:48:02+08:00 ] ::1 /weblog/index.php/Home/Blog/login?account=root&password=root
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000383s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000664s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000706s ]
+SQL: select * from wb_user where account = "root" [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000767s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000809s ]
+
+[ 2017-01-26T13:49:07+08:00 ] ::1 /weblog/index.php/Home/Blog/login?account=root&password=root
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000359s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000539s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000573s ]
+SQL: select * from wb_user where account = "root" [ RunTime:0.0003s ]
+NOTIC: [8] Undefined index: password C:\xampp\htdocs\weblog\Application\Home\Controller\BlogController.class.php 第 32 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000763s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000802s ]
+
+[ 2017-01-26T13:50:00+08:00 ] ::1 /weblog/index.php/Home/Blog/login?account=root&password=root
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000419s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000863s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000904s ]
+SQL: select * from wb_user where account = "root" [ RunTime:0.0003s ]
+NOTIC: [8] Undefined index: password C:\xampp\htdocs\weblog\Application\Home\Controller\BlogController.class.php 第 32 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000910s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000962s ]
+
+[ 2017-01-26T13:51:54+08:00 ] ::1 /weblog/index.php/Home/Blog/getaccount?jsonpCallback=jQuery19107793066863775744_1485409910074&account=root&_=1485409910075
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000547s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001447s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001565s ]
+SQL: select * from wb_user where account = "root" [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000693s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000731s ]
+
+[ 2017-01-26T13:51:58+08:00 ] ::1 /weblog/index.php/Home/Blog/login?jsonpCallback=jQuery19107793066863775744_1485409910074&account=root&password=root&_=1485409910076
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000395s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000656s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000701s ]
+SQL: select * from wb_user where account = "root" limit 1 [ RunTime:0.0003s ]
+NOTIC: [8] Undefined index: name C:\xampp\htdocs\weblog\Application\Home\Controller\BlogController.class.php 第 32 行.
+NOTIC: [8] Undefined index: account C:\xampp\htdocs\weblog\Application\Home\Controller\BlogController.class.php 第 33 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000780s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000821s ]
+
+[ 2017-01-26T13:52:00+08:00 ] ::1 /weblog/index.php/Home/Blog/login?jsonpCallback=jQuery19107793066863775744_1485409910074&account=root&password=root&_=1485409910077
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000310s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000656s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000695s ]
+SQL: select * from wb_user where account = "root" limit 1 [ RunTime:0.0003s ]
+NOTIC: [8] Undefined index: name C:\xampp\htdocs\weblog\Application\Home\Controller\BlogController.class.php 第 32 行.
+NOTIC: [8] Undefined index: account C:\xampp\htdocs\weblog\Application\Home\Controller\BlogController.class.php 第 33 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000758s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000797s ]
+
+[ 2017-01-26T13:52:02+08:00 ] ::1 /weblog/index.php/Home/Blog/getaccount?jsonpCallback=jQuery19107793066863775744_1485409910074&account=root&_=1485409910078
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000917s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001482s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001549s ]
+SQL: select * from wb_user where account = "root" [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001072s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001114s ]
+
+[ 2017-01-26T13:52:03+08:00 ] ::1 /weblog/index.php/Home/Blog/login?jsonpCallback=jQuery19107793066863775744_1485409910074&account=root&password=root&_=1485409910079
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000379s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000533s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000571s ]
+SQL: select * from wb_user where account = "root" limit 1 [ RunTime:0.0003s ]
+NOTIC: [8] Undefined index: name C:\xampp\htdocs\weblog\Application\Home\Controller\BlogController.class.php 第 32 行.
+NOTIC: [8] Undefined index: account C:\xampp\htdocs\weblog\Application\Home\Controller\BlogController.class.php 第 33 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000713s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000758s ]
+
+[ 2017-01-26T13:52:05+08:00 ] ::1 /weblog/index.php/Home/Blog/getaccount?jsonpCallback=jQuery19107793066863775744_1485409910074&account=root&_=1485409910080
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000581s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000999s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001062s ]
+SQL: select * from wb_user where account = "root" [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000722s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000757s ]
+
+[ 2017-01-26T13:52:06+08:00 ] ::1 /weblog/index.php/Home/Blog/login?jsonpCallback=jQuery19107793066863775744_1485409910074&account=root&password=root&_=1485409910081
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000396s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000669s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000714s ]
+SQL: select * from wb_user where account = "root" limit 1 [ RunTime:0.0003s ]
+NOTIC: [8] Undefined index: name C:\xampp\htdocs\weblog\Application\Home\Controller\BlogController.class.php 第 32 行.
+NOTIC: [8] Undefined index: account C:\xampp\htdocs\weblog\Application\Home\Controller\BlogController.class.php 第 33 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000778s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000818s ]
+
+[ 2017-01-26T13:52:07+08:00 ] ::1 /weblog/index.php/Home/Blog/getaccount?jsonpCallback=jQuery19107793066863775744_1485409910074&account=root&_=1485409910082
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000518s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000890s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000949s ]
+SQL: select * from wb_user where account = "root" [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001099s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001157s ]
+
+[ 2017-01-26T13:52:08+08:00 ] ::1 /weblog/index.php/Home/Blog/login?jsonpCallback=jQuery19107793066863775744_1485409910074&account=root&password=root&_=1485409910083
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000383s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000746s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000797s ]
+SQL: select * from wb_user where account = "root" limit 1 [ RunTime:0.0003s ]
+NOTIC: [8] Undefined index: name C:\xampp\htdocs\weblog\Application\Home\Controller\BlogController.class.php 第 32 行.
+NOTIC: [8] Undefined index: account C:\xampp\htdocs\weblog\Application\Home\Controller\BlogController.class.php 第 33 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000917s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000965s ]
+
+[ 2017-01-26T13:52:09+08:00 ] ::1 /weblog/index.php/Home/Blog/getaccount?jsonpCallback=jQuery19107793066863775744_1485409910074&account=root&_=1485409910084
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000696s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000655s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000700s ]
+SQL: select * from wb_user where account = "root" [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000778s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000817s ]
+
+[ 2017-01-26T13:52:12+08:00 ] ::1 /weblog/index.php/Home/Blog/getaccount?jsonpCallback=jQuery19107793066863775744_1485409910074&account=root%E5%88%86&_=1485409910085
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000638s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000972s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001040s ]
+ERR: 1267:Illegal mix of collations (latin1_swedish_ci,IMPLICIT) and (utf8_general_ci,COERCIBLE) for operation '='
+ [ SQL语句 ] : select * from wb_user where account = "root分"
+ERR: 1267:Illegal mix of collations (latin1_swedish_ci,IMPLICIT) and (utf8_general_ci,COERCIBLE) for operation '='
+ [ SQL语句 ] : select * from wb_user where account = "root分"
+
+[ 2017-01-26T13:52:15+08:00 ] ::1 /weblog/index.php/Home/Blog/getaccount?jsonpCallback=jQuery19107793066863775744_1485409910086&account=root%E5%88%86&_=1485409910087
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000490s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000875s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000939s ]
+ERR: 1267:Illegal mix of collations (latin1_swedish_ci,IMPLICIT) and (utf8_general_ci,COERCIBLE) for operation '='
+ [ SQL语句 ] : select * from wb_user where account = "root分"
+ERR: 1267:Illegal mix of collations (latin1_swedish_ci,IMPLICIT) and (utf8_general_ci,COERCIBLE) for operation '='
+ [ SQL语句 ] : select * from wb_user where account = "root分"
+
+[ 2017-01-26T13:52:19+08:00 ] ::1 /weblog/index.php/Home/Blog/getaccount?jsonpCallback=jQuery19107793066863775744_1485409910088&account=root%E5%88%86&_=1485409910089
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000478s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000811s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000865s ]
+ERR: 1267:Illegal mix of collations (latin1_swedish_ci,IMPLICIT) and (utf8_general_ci,COERCIBLE) for operation '='
+ [ SQL语句 ] : select * from wb_user where account = "root分"
+ERR: 1267:Illegal mix of collations (latin1_swedish_ci,IMPLICIT) and (utf8_general_ci,COERCIBLE) for operation '='
+ [ SQL语句 ] : select * from wb_user where account = "root分"
+
+[ 2017-01-26T13:52:21+08:00 ] ::1 /weblog/index.php/Home/Blog/getaccount?jsonpCallback=jQuery19107793066863775744_1485409910090&account=root%E5%88%86&_=1485409910091
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000432s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000543s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000581s ]
+ERR: 1267:Illegal mix of collations (latin1_swedish_ci,IMPLICIT) and (utf8_general_ci,COERCIBLE) for operation '='
+ [ SQL语句 ] : select * from wb_user where account = "root分"
+ERR: 1267:Illegal mix of collations (latin1_swedish_ci,IMPLICIT) and (utf8_general_ci,COERCIBLE) for operation '='
+ [ SQL语句 ] : select * from wb_user where account = "root分"
+
+[ 2017-01-26T13:52:22+08:00 ] ::1 /weblog/index.php/Home/Blog/getaccount?jsonpCallback=jQuery19107793066863775744_1485409910092&account=root%E5%88%86&_=1485409910093
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000635s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000837s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000896s ]
+ERR: 1267:Illegal mix of collations (latin1_swedish_ci,IMPLICIT) and (utf8_general_ci,COERCIBLE) for operation '='
+ [ SQL语句 ] : select * from wb_user where account = "root分"
+ERR: 1267:Illegal mix of collations (latin1_swedish_ci,IMPLICIT) and (utf8_general_ci,COERCIBLE) for operation '='
+ [ SQL语句 ] : select * from wb_user where account = "root分"
+
+[ 2017-01-26T13:52:25+08:00 ] ::1 /weblog/index.php/Home/Blog/getaccount?jsonpCallback=jQuery19107793066863775744_1485409910094&account=root%E6%BB%B4%E6%BB%B4&_=1485409910095
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000718s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001408s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001545s ]
+ERR: 1267:Illegal mix of collations (latin1_swedish_ci,IMPLICIT) and (utf8_general_ci,COERCIBLE) for operation '='
+ [ SQL语句 ] : select * from wb_user where account = "root滴滴"
+ERR: 1267:Illegal mix of collations (latin1_swedish_ci,IMPLICIT) and (utf8_general_ci,COERCIBLE) for operation '='
+ [ SQL语句 ] : select * from wb_user where account = "root滴滴"
+
+[ 2017-01-26T13:52:29+08:00 ] ::1 /weblog/index.php/Home/Blog/getaccount?jsonpCallback=jQuery19107793066863775744_1485409910096&account=rootsa&_=1485409910097
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000675s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000898s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000959s ]
+SQL: select * from wb_user where account = "rootsa" [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001030s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001085s ]
+
+[ 2017-01-26T13:52:31+08:00 ] ::1 /weblog/index.php/Home/Blog/getaccount?jsonpCallback=jQuery19107793066863775744_1485409910096&account=rootsa&_=1485409910098
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000544s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001071s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001142s ]
+SQL: select * from wb_user where account = "rootsa" [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000728s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000765s ]
+
+[ 2017-01-26T13:52:32+08:00 ] ::1 /weblog/index.php/Home/Blog/getaccount?jsonpCallback=jQuery19107793066863775744_1485409910096&account=rootsa&_=1485409910099
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000511s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001427s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001516s ]
+SQL: select * from wb_user where account = "rootsa" [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000678s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000710s ]
+
+[ 2017-01-26T13:52:33+08:00 ] ::1 /weblog/index.php/Home/Blog/getaccount?jsonpCallback=jQuery19107793066863775744_1485409910096&account=rootsa&_=1485409910100
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000546s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000946s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001008s ]
+SQL: select * from wb_user where account = "rootsa" [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000744s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000783s ]
+
+[ 2017-01-26T13:52:34+08:00 ] ::1 /weblog/index.php/Home/Blog/getaccount?jsonpCallback=jQuery19107793066863775744_1485409910096&account=rootsa&_=1485409910101
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000515s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000900s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000959s ]
+SQL: select * from wb_user where account = "rootsa" [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000743s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000781s ]
+
+[ 2017-01-26T13:52:35+08:00 ] ::1 /weblog/index.php/Home/Blog/getaccount?jsonpCallback=jQuery19107793066863775744_1485409910096&account=rootsa&_=1485409910102
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000723s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001163s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001244s ]
+SQL: select * from wb_user where account = "rootsa" [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000841s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000885s ]
+
+[ 2017-01-26T13:52:36+08:00 ] ::1 /weblog/index.php/Home/Blog/getaccount?jsonpCallback=jQuery19107793066863775744_1485409910096&account=rootsa&_=1485409910103
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000554s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000943s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001004s ]
+SQL: select * from wb_user where account = "rootsa" [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000718s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000754s ]
+
+[ 2017-01-26T13:52:40+08:00 ] ::1 /weblog/index.php/Home/Blog/getaccount?jsonpCallback=jQuery19107793066863775744_1485409910096&account=root%E8%BE%85%E5%AF%BC%E8%B4%B9&_=1485409910104
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000478s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000751s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000803s ]
+ERR: 1267:Illegal mix of collations (latin1_swedish_ci,IMPLICIT) and (utf8_general_ci,COERCIBLE) for operation '='
+ [ SQL语句 ] : select * from wb_user where account = "root辅导费"
+ERR: 1267:Illegal mix of collations (latin1_swedish_ci,IMPLICIT) and (utf8_general_ci,COERCIBLE) for operation '='
+ [ SQL语句 ] : select * from wb_user where account = "root辅导费"
+
+[ 2017-01-26T13:52:42+08:00 ] ::1 /weblog/index.php/Home/Blog/getaccount?jsonpCallback=jQuery19107793066863775744_1485409910105&account=root%E8%BE%85%E5%AF%BC%E8%B4%B9&_=1485409910106
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000419s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000721s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000776s ]
+ERR: 1267:Illegal mix of collations (latin1_swedish_ci,IMPLICIT) and (utf8_general_ci,COERCIBLE) for operation '='
+ [ SQL语句 ] : select * from wb_user where account = "root辅导费"
+ERR: 1267:Illegal mix of collations (latin1_swedish_ci,IMPLICIT) and (utf8_general_ci,COERCIBLE) for operation '='
+ [ SQL语句 ] : select * from wb_user where account = "root辅导费"
+
+[ 2017-01-26T13:52:48+08:00 ] ::1 /weblog/index.php/Home/Blog/getaccount?jsonpCallback=jQuery19107793066863775744_1485409910107&account=root%E8%BE%85%E5%AF%BC%E8%B4%B9&_=1485409910108
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000554s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000780s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000838s ]
+ERR: 1267:Illegal mix of collations (latin1_swedish_ci,IMPLICIT) and (utf8_general_ci,COERCIBLE) for operation '='
+ [ SQL语句 ] : select * from wb_user where account = "root辅导费"
+ERR: 1267:Illegal mix of collations (latin1_swedish_ci,IMPLICIT) and (utf8_general_ci,COERCIBLE) for operation '='
+ [ SQL语句 ] : select * from wb_user where account = "root辅导费"
+
+[ 2017-01-26T13:52:51+08:00 ] ::1 /weblog/index.php/Home/Blog/getaccount?jsonpCallback=jQuery19107793066863775744_1485409910109&account=root%E8%BE%85%E5%AF%BC%E8%B4%B9&_=1485409910110
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000540s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001967s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002074s ]
+ERR: 1267:Illegal mix of collations (latin1_swedish_ci,IMPLICIT) and (utf8_general_ci,COERCIBLE) for operation '='
+ [ SQL语句 ] : select * from wb_user where account = "root辅导费"
+ERR: 1267:Illegal mix of collations (latin1_swedish_ci,IMPLICIT) and (utf8_general_ci,COERCIBLE) for operation '='
+ [ SQL语句 ] : select * from wb_user where account = "root辅导费"
+
+[ 2017-01-26T13:53:34+08:00 ] ::1 /weblog/index.php/Home/Blog/getaccount?jsonpCallback=jQuery19107793066863775744_1485409910111&account=root%E8%BE%85%E5%AF%BC%E8%B4%B9&_=1485409910112
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000520s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000887s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000945s ]
+ERR: 1267:Illegal mix of collations (latin1_swedish_ci,IMPLICIT) and (utf8_general_ci,COERCIBLE) for operation '='
+ [ SQL语句 ] : select * from wb_user where account = "root辅导费"
+ERR: 1267:Illegal mix of collations (latin1_swedish_ci,IMPLICIT) and (utf8_general_ci,COERCIBLE) for operation '='
+ [ SQL语句 ] : select * from wb_user where account = "root辅导费"
+
+[ 2017-01-26T13:53:53+08:00 ] ::1 /weblog/index.php/Home/Blog/getaccount?jsonpCallback=jQuery19107793066863775744_1485409910109&account=root%E8%BE%85%E5%AF%BC%E8%B4%B9&_=1485409910110
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000341s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000646s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000708s ]
+ERR: 1267:Illegal mix of collations (latin1_swedish_ci,IMPLICIT) and (utf8_general_ci,COERCIBLE) for operation '='
+ [ SQL语句 ] : select * from wb_user where account = "root辅导费"
+ERR: 1267:Illegal mix of collations (latin1_swedish_ci,IMPLICIT) and (utf8_general_ci,COERCIBLE) for operation '='
+ [ SQL语句 ] : select * from wb_user where account = "root辅导费"
+
+[ 2017-01-26T13:54:08+08:00 ] ::1 /weblog/index.php/Home/Blog/getaccount?jsonpCallback=jQuery19107793066863775744_1485409910109&account=root%E8%BE%85%E5%AF%BC%E8%B4%B9
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000559s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000854s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000894s ]
+ERR: 1267:Illegal mix of collations (latin1_swedish_ci,IMPLICIT) and (utf8_general_ci,COERCIBLE) for operation '='
+ [ SQL语句 ] : select * from wb_user where account = "root辅导费"
+ERR: 1267:Illegal mix of collations (latin1_swedish_ci,IMPLICIT) and (utf8_general_ci,COERCIBLE) for operation '='
+ [ SQL语句 ] : select * from wb_user where account = "root辅导费"
+
+[ 2017-01-26T13:54:11+08:00 ] ::1 /weblog/index.php/Home/Blog/getaccount?jsonpCallback=jQuery19107793066863775744_1485409910109&account=root%E8%BE%85%E5%AF%BC%E8%B4%B9
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000333s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000551s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000588s ]
+ERR: 1267:Illegal mix of collations (latin1_swedish_ci,IMPLICIT) and (utf8_general_ci,COERCIBLE) for operation '='
+ [ SQL语句 ] : select * from wb_user where account = "root辅导费"
+ERR: 1267:Illegal mix of collations (latin1_swedish_ci,IMPLICIT) and (utf8_general_ci,COERCIBLE) for operation '='
+ [ SQL语句 ] : select * from wb_user where account = "root辅导费"
+
+[ 2017-01-26T13:54:50+08:00 ] ::1 /weblog/index.php/Home/Blog/getaccount?jsonpCallback=jQuery19107793066863775744_1485409910109&account=root%E8%BE%85%E5%AF%BC%E8%B4%B9
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000427s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000975s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001018s ]
+SQL: select * from wb_user where account = "root辅导费" [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001042s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001083s ]
+
+[ 2017-01-26T13:55:04+08:00 ] ::1 /weblog/index.php/Home/Blog/getaccount?jsonpCallback=jQuery19107793066863775744_1485409910113&account=root%E8%BE%85%E5%AF%BC%E8%B4%B9&_=1485409910114
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000379s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000718s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000790s ]
+SQL: select * from wb_user where account = "root辅导费" [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000766s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000804s ]
+
+[ 2017-01-26T13:55:05+08:00 ] ::1 /weblog/index.php/Home/Blog/getaccount?jsonpCallback=jQuery19107793066863775744_1485409910113&account=root%E8%BE%85%E5%AF%BC%E8%B4%B9&_=1485409910115
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000657s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000606s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000653s ]
+SQL: select * from wb_user where account = "root辅导费" [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000658s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000692s ]
+
+[ 2017-01-26T13:55:06+08:00 ] ::1 /weblog/index.php/Home/Blog/getaccount?jsonpCallback=jQuery19107793066863775744_1485409910113&account=root%E8%BE%85%E5%AF%BC%E8%B4%B9&_=1485409910116
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000476s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000608s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000669s ]
+SQL: select * from wb_user where account = "root辅导费" [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000670s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000705s ]
+
+[ 2017-01-26T13:55:07+08:00 ] ::1 /weblog/index.php/Home/Blog/getaccount?jsonpCallback=jQuery19107793066863775744_1485409910113&account=root%E8%BE%85%E5%AF%BC%E8%B4%B9&_=1485409910117
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000470s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000580s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000623s ]
+SQL: select * from wb_user where account = "root辅导费" [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000732s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000773s ]
+
+[ 2017-01-26T13:55:08+08:00 ] ::1 /weblog/index.php/Home/Blog/getaccount?jsonpCallback=jQuery19107793066863775744_1485409910113&account=root%E8%BE%85%E5%AF%BC%E8%B4%B9&_=1485409910118
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001285s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000587s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000636s ]
+SQL: select * from wb_user where account = "root辅导费" [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000793s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000836s ]
+
+[ 2017-01-26T13:55:17+08:00 ] ::1 /weblog/index.php/Home/Blog/getaccount?jsonpCallback=jQuery19107793066863775744_1485409910113&account=root&_=1485409910119
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000447s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000564s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000602s ]
+SQL: select * from wb_user where account = "root" [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000700s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000737s ]
+
+[ 2017-01-26T13:55:18+08:00 ] ::1 /weblog/index.php/Home/Blog/login?jsonpCallback=jQuery19107793066863775744_1485409910113&account=root&password=root&_=1485409910120
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000387s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000659s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000703s ]
+SQL: select * from wb_user where account = "root" limit 1 [ RunTime:0.0003s ]
+NOTIC: [8] Undefined index: name C:\xampp\htdocs\weblog\Application\Home\Controller\BlogController.class.php 第 32 行.
+NOTIC: [8] Undefined index: account C:\xampp\htdocs\weblog\Application\Home\Controller\BlogController.class.php 第 33 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000724s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000761s ]
+
+[ 2017-01-26T13:55:25+08:00 ] ::1 /weblog/index.php/Home/Blog/getaccount?jsonpCallback=jQuery19107793066863775744_1485409910113&account=root&_=1485409910121
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000352s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000568s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000609s ]
+SQL: select * from wb_user where account = "root" [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000755s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000794s ]
+
+[ 2017-01-26T13:55:36+08:00 ] ::1 /weblog/index.php/Home/Blog/getaccount?jsonpCallback=jQuery19107793066863775744_1485409910113&account=root&_=1485409910122
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000461s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000555s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000592s ]
+SQL: select * from wb_user where account = "root" [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000704s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000743s ]
+
+[ 2017-01-26T13:55:58+08:00 ] ::1 /weblog/index.php/Home/Blog/getaccount?jsonpCallback=jQuery19107793066863775744_1485409910113&account=root&_=1485409910123
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000315s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000545s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000590s ]
+SQL: select * from wb_user where account = "root" [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000791s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000828s ]
+
+[ 2017-01-26T13:56:06+08:00 ] ::1 /weblog/index.php/Home/Blog/getaccount?jsonpCallback=jQuery191024813453645885897_1485410161454&account=root&_=1485410161455
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000558s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001089s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001139s ]
+SQL: select * from wb_user where account = "root" [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001021s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001061s ]
+
+[ 2017-01-26T13:56:09+08:00 ] ::1 /weblog/index.php/Home/Blog/login?jsonpCallback=jQuery191024813453645885897_1485410161454&account=root&password=root&_=1485410161456
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000445s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000679s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000722s ]
+SQL: select * from wb_user where account = "root" limit 1 [ RunTime:0.0003s ]
+NOTIC: [8] Undefined index: name C:\xampp\htdocs\weblog\Application\Home\Controller\BlogController.class.php 第 32 行.
+NOTIC: [8] Undefined index: account C:\xampp\htdocs\weblog\Application\Home\Controller\BlogController.class.php 第 33 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000706s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000741s ]
+
+[ 2017-01-26T13:56:11+08:00 ] ::1 /weblog/index.php/Home/Blog/login?jsonpCallback=jQuery191024813453645885897_1485410161454&account=root&password=root&_=1485410161457
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000384s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000654s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000700s ]
+SQL: select * from wb_user where account = "root" limit 1 [ RunTime:0.0003s ]
+NOTIC: [8] Undefined index: name C:\xampp\htdocs\weblog\Application\Home\Controller\BlogController.class.php 第 32 行.
+NOTIC: [8] Undefined index: account C:\xampp\htdocs\weblog\Application\Home\Controller\BlogController.class.php 第 33 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000803s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000847s ]
+
+[ 2017-01-26T14:03:56+08:00 ] ::1 /weblog/index.php/Home/Blog/getaccount?jsonpCallback=jQuery19105031574249760935_1485410631604&account=root&_=1485410631605
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000743s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000958s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000996s ]
+SQL: select * from wb_user where account = "root" [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001012s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001051s ]
+
+[ 2017-01-26T14:04:02+08:00 ] ::1 /weblog/index.php/Home/Blog/login?jsonpCallback=jQuery19105031574249760935_1485410631604&account=root&password=root&_=1485410631606
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000421s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000742s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000815s ]
+SQL: select * from wb_user where account = "root" limit 1 [ RunTime:0.0003s ]
+NOTIC: [8] Undefined index: name C:\xampp\htdocs\weblog\Application\Home\Controller\BlogController.class.php 第 32 行.
+NOTIC: [8] Undefined index: account C:\xampp\htdocs\weblog\Application\Home\Controller\BlogController.class.php 第 33 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000764s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000804s ]
+
+[ 2017-01-26T14:04:06+08:00 ] ::1 /weblog/index.php/Home/Blog/getaccount?jsonpCallback=jQuery19105031574249760935_1485410631604&account=root&_=1485410631607
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000416s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000535s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000570s ]
+SQL: select * from wb_user where account = "root" [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000771s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000811s ]
+
+[ 2017-01-26T14:04:13+08:00 ] ::1 /weblog/index.php/Home/Blog/getaccount?jsonpCallback=jQuery19105031574249760935_1485410631604&account=root&_=1485410631608
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000505s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000853s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000907s ]
+SQL: select * from wb_user where account = "root" [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000963s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001015s ]
+
+[ 2017-01-26T14:04:22+08:00 ] ::1 /weblog/index.php/Home/Blog/login?jsonpCallback=jQuery19105031574249760935_1485410631604&account=root&password=root&_=1485410631609
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000396s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000698s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000752s ]
+SQL: select * from wb_user where account = "root" limit 1 [ RunTime:0.0003s ]
+NOTIC: [8] Undefined index: name C:\xampp\htdocs\weblog\Application\Home\Controller\BlogController.class.php 第 32 行.
+NOTIC: [8] Undefined index: account C:\xampp\htdocs\weblog\Application\Home\Controller\BlogController.class.php 第 33 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000941s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001001s ]
+
+[ 2017-01-26T14:04:22+08:00 ] ::1 /weblog/index.php/Home/Blog/login?jsonpCallback=jQuery19105031574249760935_1485410631610&account=root&password=root&_=1485410631611
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000563s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001128s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001252s ]
+SQL: select * from wb_user where account = "root" limit 1 [ RunTime:0.0003s ]
+NOTIC: [8] Undefined index: name C:\xampp\htdocs\weblog\Application\Home\Controller\BlogController.class.php 第 32 行.
+NOTIC: [8] Undefined index: account C:\xampp\htdocs\weblog\Application\Home\Controller\BlogController.class.php 第 33 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000789s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000831s ]
+
+[ 2017-01-26T14:04:24+08:00 ] ::1 /weblog/index.php/Home/Blog/login?jsonpCallback=jQuery19105031574249760935_1485410631610&account=root&password=root&_=1485410631612
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000400s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000682s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000728s ]
+SQL: select * from wb_user where account = "root" limit 1 [ RunTime:0.0003s ]
+NOTIC: [8] Undefined index: name C:\xampp\htdocs\weblog\Application\Home\Controller\BlogController.class.php 第 32 行.
+NOTIC: [8] Undefined index: account C:\xampp\htdocs\weblog\Application\Home\Controller\BlogController.class.php 第 33 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000753s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000794s ]
+
+[ 2017-01-26T14:04:25+08:00 ] ::1 /weblog/index.php/Home/Blog/login?jsonpCallback=jQuery19105031574249760935_1485410631610&account=root&password=root&_=1485410631613
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000430s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000742s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000801s ]
+SQL: select * from wb_user where account = "root" limit 1 [ RunTime:0.0003s ]
+NOTIC: [8] Undefined index: name C:\xampp\htdocs\weblog\Application\Home\Controller\BlogController.class.php 第 32 行.
+NOTIC: [8] Undefined index: account C:\xampp\htdocs\weblog\Application\Home\Controller\BlogController.class.php 第 33 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000783s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000822s ]
+
+[ 2017-01-26T14:04:26+08:00 ] ::1 /weblog/index.php/Home/Blog/login?jsonpCallback=jQuery19105031574249760935_1485410631610&account=root&password=root&_=1485410631614
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000383s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000661s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000706s ]
+SQL: select * from wb_user where account = "root" limit 1 [ RunTime:0.0003s ]
+NOTIC: [8] Undefined index: name C:\xampp\htdocs\weblog\Application\Home\Controller\BlogController.class.php 第 32 行.
+NOTIC: [8] Undefined index: account C:\xampp\htdocs\weblog\Application\Home\Controller\BlogController.class.php 第 33 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000767s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000806s ]
+
+[ 2017-01-26T14:04:27+08:00 ] ::1 /weblog/index.php/Home/Blog/login?jsonpCallback=jQuery19105031574249760935_1485410631610&account=root&password=root&_=1485410631615
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000381s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000843s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000895s ]
+SQL: select * from wb_user where account = "root" limit 1 [ RunTime:0.0003s ]
+NOTIC: [8] Undefined index: name C:\xampp\htdocs\weblog\Application\Home\Controller\BlogController.class.php 第 32 行.
+NOTIC: [8] Undefined index: account C:\xampp\htdocs\weblog\Application\Home\Controller\BlogController.class.php 第 33 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000852s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000898s ]
+
+[ 2017-01-26T14:04:28+08:00 ] ::1 /weblog/index.php/Home/Blog/login?jsonpCallback=jQuery19105031574249760935_1485410631610&account=root&password=root&_=1485410631616
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000385s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000707s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000759s ]
+SQL: select * from wb_user where account = "root" limit 1 [ RunTime:0.0003s ]
+NOTIC: [8] Undefined index: name C:\xampp\htdocs\weblog\Application\Home\Controller\BlogController.class.php 第 32 行.
+NOTIC: [8] Undefined index: account C:\xampp\htdocs\weblog\Application\Home\Controller\BlogController.class.php 第 33 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000758s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000796s ]
+
+[ 2017-01-26T14:04:28+08:00 ] ::1 /weblog/index.php/Home/Blog/login?jsonpCallback=jQuery19105031574249760935_1485410631610&account=root&password=root&_=1485410631617
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000394s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000659s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000704s ]
+SQL: select * from wb_user where account = "root" limit 1 [ RunTime:0.0003s ]
+NOTIC: [8] Undefined index: name C:\xampp\htdocs\weblog\Application\Home\Controller\BlogController.class.php 第 32 行.
+NOTIC: [8] Undefined index: account C:\xampp\htdocs\weblog\Application\Home\Controller\BlogController.class.php 第 33 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000753s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000791s ]
+
+[ 2017-01-26T14:04:28+08:00 ] ::1 /weblog/index.php/Home/Blog/login?jsonpCallback=jQuery19105031574249760935_1485410631610&account=root&password=root&_=1485410631618
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000414s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000700s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000746s ]
+SQL: select * from wb_user where account = "root" limit 1 [ RunTime:0.0003s ]
+NOTIC: [8] Undefined index: name C:\xampp\htdocs\weblog\Application\Home\Controller\BlogController.class.php 第 32 行.
+NOTIC: [8] Undefined index: account C:\xampp\htdocs\weblog\Application\Home\Controller\BlogController.class.php 第 33 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000671s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000706s ]
+
+[ 2017-01-26T14:04:28+08:00 ] ::1 /weblog/index.php/Home/Blog/login?jsonpCallback=jQuery19105031574249760935_1485410631610&account=root&password=root&_=1485410631619
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000402s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000763s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000823s ]
+SQL: select * from wb_user where account = "root" limit 1 [ RunTime:0.0003s ]
+NOTIC: [8] Undefined index: name C:\xampp\htdocs\weblog\Application\Home\Controller\BlogController.class.php 第 32 行.
+NOTIC: [8] Undefined index: account C:\xampp\htdocs\weblog\Application\Home\Controller\BlogController.class.php 第 33 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000759s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000800s ]
+
+[ 2017-01-26T14:04:29+08:00 ] ::1 /weblog/index.php/Home/Blog/login?jsonpCallback=jQuery19105031574249760935_1485410631610&account=root&password=root&_=1485410631620
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000390s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000658s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000702s ]
+SQL: select * from wb_user where account = "root" limit 1 [ RunTime:0.0003s ]
+NOTIC: [8] Undefined index: name C:\xampp\htdocs\weblog\Application\Home\Controller\BlogController.class.php 第 32 行.
+NOTIC: [8] Undefined index: account C:\xampp\htdocs\weblog\Application\Home\Controller\BlogController.class.php 第 33 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000784s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000824s ]
+
+[ 2017-01-26T14:04:29+08:00 ] ::1 /weblog/index.php/Home/Blog/login?jsonpCallback=jQuery19105031574249760935_1485410631610&account=root&password=root&_=1485410631621
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000385s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000973s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001054s ]
+SQL: select * from wb_user where account = "root" limit 1 [ RunTime:0.0003s ]
+NOTIC: [8] Undefined index: name C:\xampp\htdocs\weblog\Application\Home\Controller\BlogController.class.php 第 32 行.
+NOTIC: [8] Undefined index: account C:\xampp\htdocs\weblog\Application\Home\Controller\BlogController.class.php 第 33 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000804s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000844s ]
+
+[ 2017-01-26T14:04:29+08:00 ] ::1 /weblog/index.php/Home/Blog/login?jsonpCallback=jQuery19105031574249760935_1485410631610&account=root&password=root&_=1485410631622
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000382s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000911s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000968s ]
+SQL: select * from wb_user where account = "root" limit 1 [ RunTime:0.0003s ]
+NOTIC: [8] Undefined index: name C:\xampp\htdocs\weblog\Application\Home\Controller\BlogController.class.php 第 32 行.
+NOTIC: [8] Undefined index: account C:\xampp\htdocs\weblog\Application\Home\Controller\BlogController.class.php 第 33 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000752s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000791s ]
+
+[ 2017-01-26T14:04:30+08:00 ] ::1 /weblog/index.php/Home/Blog/getaccount?jsonpCallback=jQuery19105031574249760935_1485410631610&account=root&_=1485410631623
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000763s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000956s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001020s ]
+SQL: select * from wb_user where account = "root" [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001215s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001276s ]
+
+[ 2017-01-26T14:04:32+08:00 ] ::1 /weblog/index.php/Home/Blog/login?jsonpCallback=jQuery19105031574249760935_1485410631610&account=root&password=root&_=1485410631624
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000388s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000653s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000699s ]
+SQL: select * from wb_user where account = "root" limit 1 [ RunTime:0.0003s ]
+NOTIC: [8] Undefined index: name C:\xampp\htdocs\weblog\Application\Home\Controller\BlogController.class.php 第 32 行.
+NOTIC: [8] Undefined index: account C:\xampp\htdocs\weblog\Application\Home\Controller\BlogController.class.php 第 33 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000762s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000798s ]
+
+[ 2017-01-26T14:04:36+08:00 ] ::1 /weblog/index.php/Home/Blog/login?jsonpCallback=jQuery19105031574249760935_1485410631610&account=root&password=roo7&_=1485410631625
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000390s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000656s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000701s ]
+SQL: select * from wb_user where account = "root" limit 1 [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000809s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000851s ]
+
+[ 2017-01-26T14:04:38+08:00 ] ::1 /weblog/index.php/Home/Blog/login?jsonpCallback=jQuery19105031574249760935_1485410631610&account=root&password=roo7&_=1485410631626
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000398s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000672s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000717s ]
+SQL: select * from wb_user where account = "root" limit 1 [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000811s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000851s ]
+
+[ 2017-01-26T14:04:40+08:00 ] ::1 /weblog/index.php/Home/Blog/login?jsonpCallback=jQuery19105031574249760935_1485410631610&account=root&password=roo7&_=1485410631627
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000395s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000662s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000706s ]
+SQL: select * from wb_user where account = "root" limit 1 [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000795s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000836s ]
+
+[ 2017-01-26T14:04:43+08:00 ] ::1 /weblog/index.php/Home/Blog/getaccount?jsonpCallback=jQuery19105031574249760935_1485410631610&account=root&_=1485410631628
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000566s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000940s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: select * from wb_user where account = "root" [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001064s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001121s ]
+
+[ 2017-01-26T14:04:45+08:00 ] ::1 /weblog/index.php/Home/Blog/login?jsonpCallback=jQuery19105031574249760935_1485410631610&account=root&password=roo7&_=1485410631629
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000401s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000755s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000821s ]
+SQL: select * from wb_user where account = "root" limit 1 [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000878s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000923s ]
+
+[ 2017-01-26T14:14:06+08:00 ] ::1 /weblog/index.php/Home/Blog/getaccount?jsonpCallback=jQuery1910421987069290525_1485411242886&account=&_=1485411242887
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000426s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000855s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000890s ]
+SQL: select * from wb_user where account = "" [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001034s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001076s ]
+
+[ 2017-01-26T14:14:09+08:00 ] ::1 /weblog/index.php/Home/Blog/register_account?jsonpCallback=jQuery1910421987069290525_1485411242886&account=&_=1485411242888
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000521s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000986s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001056s ]
+SQL: select * from wb_user where account = "" [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000634s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000666s ]
+
+[ 2017-01-26T14:14:18+08:00 ] ::1 /weblog/index.php/Home/Blog/register_account?jsonpCallback=jQuery191033006278616168694_1485411252330&account=root&_=1485411252331
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000438s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000867s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000910s ]
+SQL: select * from wb_user where account = "root" [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001042s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001090s ]
+
+[ 2017-01-26T14:14:19+08:00 ] ::1 /weblog/index.php/Home/Blog/register_account?jsonpCallback=jQuery191033006278616168694_1485411252330&account=root&_=1485411252332
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000783s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000957s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001027s ]
+SQL: select * from wb_user where account = "root" [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001095s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001162s ]
+
+[ 2017-01-26T14:14:20+08:00 ] ::1 /weblog/index.php/Home/Blog/register_account?jsonpCallback=jQuery191033006278616168694_1485411252330&account=root&_=1485411252333
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000523s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000935s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000997s ]
+SQL: select * from wb_user where account = "root" [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000736s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000773s ]
+
+[ 2017-01-26T14:14:26+08:00 ] ::1 /weblog/index.php/Home/Blog/register_account?jsonpCallback=jQuery191033006278616168694_1485411252330&account=roofd&_=1485411252334
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000608s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000975s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001047s ]
+SQL: select * from wb_user where account = "roofd" [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000785s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000823s ]
+
+[ 2017-01-26T14:14:27+08:00 ] ::1 /weblog/index.php/Home/Blog/register_account?jsonpCallback=jQuery191033006278616168694_1485411252330&account=roofd&_=1485411252335
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000504s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000894s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000956s ]
+SQL: select * from wb_user where account = "roofd" [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000780s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000820s ]
+
+[ 2017-01-26T14:14:29+08:00 ] ::1 /weblog/index.php/Home/Blog/register_account?jsonpCallback=jQuery191033006278616168694_1485411252330&account=roofd&_=1485411252336
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000586s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000992s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001060s ]
+SQL: select * from wb_user where account = "roofd" [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000747s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000786s ]
+
+[ 2017-01-26T14:14:30+08:00 ] ::1 /weblog/index.php/Home/Blog/register_account?jsonpCallback=jQuery191033006278616168694_1485411252330&account=roofd&_=1485411252337
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000565s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001090s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001164s ]
+SQL: select * from wb_user where account = "roofd" [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000701s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000740s ]
+
+[ 2017-01-26T14:14:31+08:00 ] ::1 /weblog/index.php/Home/Blog/register_account?jsonpCallback=jQuery191033006278616168694_1485411252330&account=roofd&_=1485411252338
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000682s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001030s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001105s ]
+SQL: select * from wb_user where account = "roofd" [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000713s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000751s ]
+
+[ 2017-01-26T14:14:32+08:00 ] ::1 /weblog/index.php/Home/Blog/register_account?jsonpCallback=jQuery191033006278616168694_1485411252330&account=roofd&_=1485411252339
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000575s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000994s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001063s ]
+SQL: select * from wb_user where account = "roofd" [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000787s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000828s ]
+
+[ 2017-01-26T14:15:05+08:00 ] ::1 /weblog/index.php/Home/Blog/register_account
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000499s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000782s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000833s ]
+NOTIC: [8] Undefined index: account C:\xampp\htdocs\weblog\Application\Home\Controller\BlogController.class.php 第 26 行.
+SQL: select * from wb_user where account = "" [ RunTime:0.0003s ]
+NOTIC: [8] Undefined index: jsonpCallback C:\xampp\htdocs\weblog\Application\Home\Controller\BlogController.class.php 第 36 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000674s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000708s ]
+
+[ 2017-01-26T14:15:06+08:00 ] ::1 /weblog/index.php/Home/Blog/register_account
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000603s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000642s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000690s ]
+NOTIC: [8] Undefined index: account C:\xampp\htdocs\weblog\Application\Home\Controller\BlogController.class.php 第 26 行.
+SQL: select * from wb_user where account = "" [ RunTime:0.0003s ]
+NOTIC: [8] Undefined index: jsonpCallback C:\xampp\htdocs\weblog\Application\Home\Controller\BlogController.class.php 第 36 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000803s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000851s ]
+
+[ 2017-01-26T14:43:15+08:00 ] ::1 /weblog/index.php/Home/Blog/register_account
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000448s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001174s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001231s ]
+NOTIC: [8] Undefined index: account C:\xampp\htdocs\weblog\Application\Home\Controller\BlogController.class.php 第 26 行.
+SQL: select * from wb_user where account = "" [ RunTime:0.0003s ]
+NOTIC: [8] Undefined index: jsonpCallback C:\xampp\htdocs\weblog\Application\Home\Controller\BlogController.class.php 第 36 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001031s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001075s ]
+
+[ 2017-01-26T14:43:22+08:00 ] ::1 /weblog/index.php/Home/Blog/register_account?jsonpCallback=jQuery191033006278616168694_1485411252330&account=roofd&_=1485411252340
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000482s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000879s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000917s ]
+SQL: select * from wb_user where account = "roofd" [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001036s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001078s ]
+
+[ 2017-01-26T14:43:23+08:00 ] ::1 /weblog/index.php/Home/Blog/register_account?jsonpCallback=jQuery191033006278616168694_1485411252330&account=roofd&_=1485411252341
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000694s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000969s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001038s ]
+SQL: select * from wb_user where account = "roofd" [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001024s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001079s ]
+
+[ 2017-01-26T14:43:24+08:00 ] ::1 /weblog/index.php/Home/Blog/register_account?jsonpCallback=jQuery191033006278616168694_1485411252330&account=roofd&_=1485411252342
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000585s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000995s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001063s ]
+SQL: select * from wb_user where account = "roofd" [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000742s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000779s ]
+
+[ 2017-01-26T14:44:21+08:00 ] ::1 /weblog/index.php/Home/Blog/getaccount?jsonpCallback=jQuery191023611509842743872_1485413058783&account=&_=1485413058784
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000575s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000943s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001003s ]
+SQL: select * from wb_user where account = "" [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000764s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000805s ]
+
+[ 2017-01-26T14:44:28+08:00 ] ::1 /weblog/index.php/Home/Blog/register_account?jsonpCallback=jQuery191023611509842743872_1485413058783&account=ROOT&_=1485413058785
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000413s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001049s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001093s ]
+SQL: select * from wb_user where account = "ROOT" [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001015s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001052s ]
+
+[ 2017-01-26T14:44:30+08:00 ] ::1 /weblog/index.php/Home/Blog/register_account?jsonpCallback=jQuery191023611509842743872_1485413058783&account=ROOT&_=1485413058786
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000695s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001018s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001156s ]
+SQL: select * from wb_user where account = "ROOT" [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000924s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000975s ]
+
+[ 2017-01-26T14:44:37+08:00 ] ::1 /weblog/index.php/Home/Blog/register_account?jsonpCallback=jQuery191023611509842743872_1485413058783&account=root&_=1485413058787
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000335s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000573s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000614s ]
+SQL: select * from wb_user where account = "root" [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000759s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000799s ]
+
+[ 2017-01-26T14:44:40+08:00 ] ::1 /weblog/index.php/Home/Blog/register_account?jsonpCallback=jQuery191023611509842743872_1485413058783&account=roots&_=1485413058788
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000382s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000790s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000843s ]
+SQL: select * from wb_user where account = "roots" [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000767s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000807s ]
+
+[ 2017-01-26T14:44:42+08:00 ] ::1 /weblog/index.php/Home/Blog/register_account?jsonpCallback=jQuery191023611509842743872_1485413058783&account=roots&_=1485413058789
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000633s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001143s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001220s ]
+SQL: select * from wb_user where account = "roots" [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000903s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000947s ]
+
+[ 2017-01-26T14:44:43+08:00 ] ::1 /weblog/index.php/Home/Blog/register_account?jsonpCallback=jQuery191023611509842743872_1485413058783&account=roots&_=1485413058790
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000545s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001597s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001688s ]
+SQL: select * from wb_user where account = "roots" [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000758s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000799s ]
+
+[ 2017-01-26T14:44:44+08:00 ] ::1 /weblog/index.php/Home/Blog/register_account?jsonpCallback=jQuery191023611509842743872_1485413058783&account=roots&_=1485413058791
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000378s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000576s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000616s ]
+SQL: select * from wb_user where account = "roots" [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000699s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000734s ]
+
+[ 2017-01-26T14:44:53+08:00 ] ::1 /weblog/index.php/Home/Blog/register_account?jsonpCallback=jQuery191023611509842743872_1485413058783&account=roots&_=1485413058792
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000408s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000756s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000827s ]
+SQL: select * from wb_user where account = "roots" [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000786s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000829s ]
+
+[ 2017-01-26T14:44:54+08:00 ] ::1 /weblog/index.php/Home/Blog/register_account?jsonpCallback=jQuery191023611509842743872_1485413058783&account=roots&_=1485413058793
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000527s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000919s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000981s ]
+SQL: select * from wb_user where account = "roots" [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001035s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001093s ]
+
+[ 2017-01-26T14:44:55+08:00 ] ::1 /weblog/index.php/Home/Blog/register_account?jsonpCallback=jQuery191023611509842743872_1485413058783&account=roots&_=1485413058794
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000520s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000900s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000962s ]
+SQL: select * from wb_user where account = "roots" [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001021s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001079s ]
+
+[ 2017-01-26T14:45:03+08:00 ] ::1 /weblog/index.php/Home/Blog/register_account?jsonpCallback=jQuery191023611509842743872_1485413058783&account=roots&_=1485413058795
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000527s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000892s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000954s ]
+SQL: select * from wb_user where account = "roots" [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000784s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000825s ]
+
+[ 2017-01-26T14:45:04+08:00 ] ::1 /weblog/index.php/Home/Blog/register_account?jsonpCallback=jQuery191023611509842743872_1485413058783&account=roots&_=1485413058796
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000570s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000948s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001012s ]
+SQL: select * from wb_user where account = "roots" [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001072s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001131s ]
+
+[ 2017-01-26T14:45:05+08:00 ] ::1 /weblog/index.php/Home/Blog/register_account?jsonpCallback=jQuery191023611509842743872_1485413058783&account=roots&_=1485413058797
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000506s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000846s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000903s ]
+SQL: select * from wb_user where account = "roots" [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000768s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000810s ]
+
+[ 2017-01-26T14:45:06+08:00 ] ::1 /weblog/index.php/Home/Blog/register_account?jsonpCallback=jQuery191023611509842743872_1485413058783&account=roots&_=1485413058798
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000526s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000890s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000952s ]
+SQL: select * from wb_user where account = "roots" [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000717s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000757s ]
+
+[ 2017-01-26T14:45:07+08:00 ] ::1 /weblog/index.php/Home/Blog/register_account?jsonpCallback=jQuery191023611509842743872_1485413058783&account=roots&_=1485413058799
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000553s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000940s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001005s ]
+SQL: select * from wb_user where account = "roots" [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001071s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001131s ]
+
+[ 2017-01-26T14:45:07+08:00 ] ::1 /weblog/index.php/Home/Blog/register_account?jsonpCallback=jQuery191023611509842743872_1485413058783&account=roots&_=1485413058800
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000644s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001323s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001409s ]
+SQL: select * from wb_user where account = "roots" [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000851s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000900s ]
+
+[ 2017-01-26T14:45:08+08:00 ] ::1 /weblog/index.php/Home/Blog/register_account?jsonpCallback=jQuery191023611509842743872_1485413058783&account=roots&_=1485413058801
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000535s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000939s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001002s ]
+SQL: select * from wb_user where account = "roots" [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001021s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001077s ]
+
+[ 2017-01-26T14:45:09+08:00 ] ::1 /weblog/index.php/Home/Blog/register_account?jsonpCallback=jQuery191023611509842743872_1485413058783&account=roots&_=1485413058802
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000541s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001067s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001150s ]
+SQL: select * from wb_user where account = "roots" [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000807s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000850s ]
+
+[ 2017-01-26T14:49:30+08:00 ] ::1 /weblog/index.php/Home/Blog/register_account?jsonpCallback=jQuery1910916192856476111_1485413364554&account=rotd&_=1485413364555
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000697s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001009s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001056s ]
+SQL: select * from wb_user where account = "rotd" [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001026s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001069s ]
+
+[ 2017-01-26T14:50:46+08:00 ] ::1 /weblog/index.php/Home/Blog/register_account?jsonpCallback=jQuery1910752631849566445_1485413442409&account=fdfdfd&_=1485413442410
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000689s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001386s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001456s ]
+SQL: select * from wb_user where account = "fdfdfd" [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001042s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001090s ]
+
+[ 2017-01-26T14:51:09+08:00 ] ::1 /weblog/index.php/Home/Blog/register_account?jsonpCallback=jQuery1910752631849566445_1485413442409&account=&_=1485413442411
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000532s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000891s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000950s ]
+SQL: select * from wb_user where account = "" [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000740s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000784s ]
+
+[ 2017-01-26T14:51:10+08:00 ] ::1 /weblog/index.php/Home/Blog/register_account?jsonpCallback=jQuery1910752631849566445_1485413442409&account=&_=1485413442412
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000530s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001003s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001077s ]
+SQL: select * from wb_user where account = "" [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000763s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000804s ]
+
+[ 2017-01-26T15:06:29+08:00 ] ::1 /weblog/index.php/Home/Blog/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000466s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001549s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001635s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000786s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000833s ]
+
+[ 2017-01-26T15:27:19+08:00 ] ::1 /weblog/index.php/Home/Index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000529s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000845s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000897s ]
+ERR: 非法操作:test
+
+[ 2017-01-26T15:27:34+08:00 ] ::1 /weblog/index.php/Home/Blog/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000525s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001009s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001053s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000816s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000867s ]
+
+[ 2017-01-26T15:27:57+08:00 ] ::1 /weblog/index.php/Home/Blog/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000383s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000651s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000693s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000666s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000711s ]
+
+[ 2017-01-26T15:47:30+08:00 ] ::1 /weblog/index.php/Home/Blog/register_account?jsonpCallback=jQuery191011738420672944438_1485416841417&account=user&_=1485416841418
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000521s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001016s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001063s ]
+SQL: select * from wb_user where account = "user" [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001038s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001080s ]
+
+[ 2017-01-26T15:53:36+08:00 ] ::1 /weblog/index.php/Home/Blog/register_account?jsonpCallback=jQuery19103880573772551159_1485417212713&account=user&_=1485417212714
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000561s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000835s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000879s ]
+SQL: select * from wb_user where account = "user" [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000927s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000964s ]
+
+[ 2017-01-26T15:53:42+08:00 ] ::1 /weblog/index.php/Home/Blog/register_account?jsonpCallback=jQuery19103880573772551159_1485417212713&account=user&_=1485417212715
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000388s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000667s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000714s ]
+SQL: select * from wb_user where account = "user" [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000799s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000839s ]
+
+[ 2017-01-26T15:53:42+08:00 ] ::1 /weblog/index.php/Home/Blog/register?jsonpCallback=jQuery19103880573772551159_1485417212713&account=user&password=user&comfirm=user&_=1485417212716
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000347s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000628s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000670s ]
+SQL: SHOW COLUMNS FROM `wb_user` [ RunTime:0.0133s ]
+NOTIC: [8] Undefined variable: passwrod C:\xampp\htdocs\weblog\Application\Home\Controller\BlogController.class.php 第 68 行.
+SQL: INSERT INTO `wb_user` (`account`,`password`,`level`,`days`,`register_date`) VALUES ('user','','0','1','2017-01-26 15:53:42') [ RunTime:0.0110s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000791s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000838s ]
+
+[ 2017-01-26T17:22:06+08:00 ] ::1 /weblog/index.php/Home/Blog/register_account?jsonpCallback=jQuery19103880573772551159_1485417212713&account=user&_=1485417212717
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000655s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000880s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000927s ]
+SQL: select * from wb_user where account = "user" [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001045s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001087s ]
+
+[ 2017-01-26T17:22:07+08:00 ] ::1 /weblog/index.php/Home/Blog/register_account?jsonpCallback=jQuery19103880573772551159_1485417212713&account=user&_=1485417212718
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000759s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001149s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001231s ]
+SQL: select * from wb_user where account = "user" [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000718s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000756s ]
+
+[ 2017-01-26T17:22:12+08:00 ] ::1 /weblog/index.php/Home/Blog/register_account?jsonpCallback=jQuery19103880573772551159_1485417212713&account=user&_=1485417212719
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000497s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000847s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000906s ]
+SQL: select * from wb_user where account = "user" [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000735s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000773s ]
+
+[ 2017-01-26T17:22:13+08:00 ] ::1 /weblog/index.php/Home/Blog/register_account?jsonpCallback=jQuery19103880573772551159_1485417212713&account=user&_=1485417212720
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000589s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001008s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001082s ]
+SQL: select * from wb_user where account = "user" [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000836s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000876s ]
+
+[ 2017-01-26T17:22:16+08:00 ] ::1 /weblog/index.php/Home/Blog/register_account?jsonpCallback=jQuery19103880573772551159_1485417212713&account=user&_=1485417212721
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000423s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000684s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000728s ]
+SQL: select * from wb_user where account = "user" [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000772s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000809s ]
+
+[ 2017-01-26T17:22:17+08:00 ] ::1 /weblog/index.php/Home/Blog/register_account?jsonpCallback=jQuery19103880573772551159_1485417212713&account=user&_=1485417212722
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000380s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000778s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000836s ]
+SQL: select * from wb_user where account = "user" [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000729s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000767s ]
+
+[ 2017-01-26T17:22:19+08:00 ] ::1 /weblog/index.php/Home/Blog/register_account?jsonpCallback=jQuery19103880573772551159_1485417212713&account=user&_=1485417212723
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000377s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000792s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000862s ]
+SQL: select * from wb_user where account = "user" [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000717s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000755s ]
+
+[ 2017-01-26T17:22:22+08:00 ] ::1 /weblog/index.php/Home/Blog/register_account?jsonpCallback=jQuery19103880573772551159_1485417212713&account=user&_=1485417212724
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000689s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001284s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001372s ]
+SQL: select * from wb_user where account = "user" [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000776s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000817s ]
+
+[ 2017-01-26T17:22:23+08:00 ] ::1 /weblog/index.php/Home/Blog/register_account?jsonpCallback=jQuery19103880573772551159_1485417212713&account=user&_=1485417212725
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000381s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000668s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000715s ]
+SQL: select * from wb_user where account = "user" [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000772s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000812s ]
+
+[ 2017-01-26T17:22:23+08:00 ] ::1 /weblog/index.php/Home/Blog/register_account?jsonpCallback=jQuery19103880573772551159_1485417212713&account=user&_=1485417212726
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000338s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000602s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000643s ]
+SQL: select * from wb_user where account = "user" [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000770s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000811s ]
+
+[ 2017-01-26T17:22:24+08:00 ] ::1 /weblog/index.php/Home/Blog/register_account?jsonpCallback=jQuery19103880573772551159_1485417212713&account=user&_=1485417212727
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000387s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000696s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000754s ]
+SQL: select * from wb_user where account = "user" [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000764s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000804s ]
+
+[ 2017-01-26T17:22:24+08:00 ] ::1 /weblog/index.php/Home/Blog/register_account?jsonpCallback=jQuery19103880573772551159_1485417212713&account=user&_=1485417212728
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000386s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000648s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000694s ]
+SQL: select * from wb_user where account = "user" [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000779s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000819s ]
+
+[ 2017-01-26T17:22:24+08:00 ] ::1 /weblog/index.php/Home/Blog/register_account?jsonpCallback=jQuery19103880573772551159_1485417212713&account=user&_=1485417212729
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000445s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000663s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000709s ]
+SQL: select * from wb_user where account = "user" [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000788s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000829s ]
+
+[ 2017-01-26T17:22:25+08:00 ] ::1 /weblog/index.php/Home/Blog/register_account?jsonpCallback=jQuery19103880573772551159_1485417212713&account=user&_=1485417212730
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000381s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000656s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000700s ]
+SQL: select * from wb_user where account = "user" [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000761s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000802s ]
+
+[ 2017-01-26T17:22:25+08:00 ] ::1 /weblog/index.php/Home/Blog/register_account?jsonpCallback=jQuery19103880573772551159_1485417212713&account=user&_=1485417212731
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000487s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000663s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000706s ]
+SQL: select * from wb_user where account = "user" [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000776s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000816s ]
+
+[ 2017-01-26T17:22:25+08:00 ] ::1 /weblog/index.php/Home/Blog/register_account?jsonpCallback=jQuery19103880573772551159_1485417212713&account=user&_=1485417212732
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000386s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001143s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001234s ]
+SQL: select * from wb_user where account = "user" [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000644s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000683s ]
+
+[ 2017-01-26T17:22:25+08:00 ] ::1 /weblog/index.php/Home/Blog/register_account?jsonpCallback=jQuery19103880573772551159_1485417212733&account=user&_=1485417212734
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000754s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000884s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000931s ]
+SQL: select * from wb_user where account = "user" [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000907s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000941s ]
+
+[ 2017-01-26T17:22:25+08:00 ] ::1 /weblog/index.php/Home/Blog/register_account?jsonpCallback=jQuery19103880573772551159_1485417212733&account=user&_=1485417212735
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000402s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000665s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000710s ]
+SQL: select * from wb_user where account = "user" [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000787s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000828s ]
+
+[ 2017-01-26T17:22:26+08:00 ] ::1 /weblog/index.php/Home/Blog/register_account?jsonpCallback=jQuery19103880573772551159_1485417212733&account=user&_=1485417212736
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000615s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000672s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000719s ]
+SQL: select * from wb_user where account = "user" [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000777s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000818s ]
+
+[ 2017-01-26T17:22:26+08:00 ] ::1 /weblog/index.php/Home/Blog/register_account?jsonpCallback=jQuery19103880573772551159_1485417212733&account=user&_=1485417212737
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000340s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000580s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000618s ]
+SQL: select * from wb_user where account = "user" [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000782s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000821s ]
+
+[ 2017-01-26T17:22:26+08:00 ] ::1 /weblog/index.php/Home/Blog/register_account?jsonpCallback=jQuery19103880573772551159_1485417212733&account=user&_=1485417212738
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000530s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000575s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000614s ]
+SQL: select * from wb_user where account = "user" [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000826s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000865s ]
+
+[ 2017-01-26T17:26:00+08:00 ] ::1 /weblog/index.php/Home/Blog/register_account?jsonpCallback=jQuery19103880573772551159_1485417212733&account=user&_=1485417212739
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000448s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001734s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001815s ]
+SQL: select * from wb_user where account = "user" [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000908s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000944s ]
+
+[ 2017-01-26T17:26:02+08:00 ] ::1 /weblog/index.php/Home/Blog/register_account?jsonpCallback=jQuery19103880573772551159_1485417212733&account=user&_=1485417212740
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000624s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001057s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001162s ]
+SQL: select * from wb_user where account = "user" [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000772s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000819s ]
+
+[ 2017-01-26T17:26:07+08:00 ] ::1 /weblog/index.php/Home/Blog/getaccount?jsonpCallback=jQuery19103880573772551159_1485417212733&account=user&_=1485417212741
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000492s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000797s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000849s ]
+SQL: select * from wb_user where account = "user" [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000997s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001051s ]
+
+[ 2017-01-26T17:26:12+08:00 ] ::1 /weblog/index.php/Home/Blog/login?jsonpCallback=jQuery19103880573772551159_1485417212733&account=user&password=user&_=1485417212742
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000536s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000586s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000629s ]
+SQL: select * from wb_user where account = "user" limit 1 [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000780s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000821s ]
+
+[ 2017-01-26T17:26:21+08:00 ] ::1 /weblog/index.php/Home/Blog/login?jsonpCallback=jQuery19103880573772551159_1485417212733&account=user&password=user&_=1485417212743
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000381s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000791s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000900s ]
+SQL: select * from wb_user where account = "user" limit 1 [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000800s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000842s ]
+
+[ 2017-01-26T17:26:21+08:00 ] ::1 /weblog/index.php/Home/Blog/login?jsonpCallback=jQuery19103880573772551159_1485417212733&account=user&password=user&_=1485417212744
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000347s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000536s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000571s ]
+SQL: select * from wb_user where account = "user" limit 1 [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000747s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000786s ]
+
+[ 2017-01-26T17:26:26+08:00 ] ::1 /weblog/index.php/Home/Blog/login?jsonpCallback=jQuery19103880573772551159_1485417212733&account=user&password=1234&_=1485417212745
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000443s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000667s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000714s ]
+SQL: select * from wb_user where account = "user" limit 1 [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000745s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000783s ]
+
+[ 2017-01-26T17:26:28+08:00 ] ::1 /weblog/index.php/Home/Blog/getaccount?jsonpCallback=jQuery19103880573772551159_1485417212733&account=user&_=1485417212746
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000491s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000837s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000892s ]
+SQL: select * from wb_user where account = "user" [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001054s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001119s ]
+
+[ 2017-01-26T17:26:31+08:00 ] ::1 /weblog/index.php/Home/Blog/register_account?jsonpCallback=jQuery19103880573772551159_1485417212733&account=user&_=1485417212747
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000513s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000914s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000975s ]
+SQL: select * from wb_user where account = "user" [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000728s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000768s ]
+
+[ 2017-01-26T17:26:36+08:00 ] ::1 /weblog/index.php/Home/Blog/login?jsonpCallback=jQuery19103880573772551159_1485417212733&account=user&password=123&_=1485417212748
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000383s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000774s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000840s ]
+SQL: select * from wb_user where account = "user" limit 1 [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000794s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000835s ]
+
+[ 2017-01-26T17:26:45+08:00 ] ::1 /weblog/index.php/Home/Blog/register_account?jsonpCallback=jQuery19103880573772551159_1485417212733&account=user1&_=1485417212749
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000398s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000685s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000732s ]
+SQL: select * from wb_user where account = "user1" [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001237s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001303s ]
+
+[ 2017-01-26T17:26:55+08:00 ] ::1 /weblog/index.php/Home/Blog/register_account?jsonpCallback=jQuery19103880573772551159_1485417212733&account=user1&_=1485417212750
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000406s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000696s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000742s ]
+SQL: select * from wb_user where account = "user1" [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000843s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000885s ]
+
+[ 2017-01-26T17:26:55+08:00 ] ::1 /weblog/index.php/Home/Blog/register?jsonpCallback=jQuery19103880573772551159_1485417212733&account=user1&password=user1&comfirm=user1&_=1485417212751
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000313s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000538s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000571s ]
+SQL: SHOW COLUMNS FROM `wb_user` [ RunTime:0.0032s ]
+NOTIC: [8] Undefined variable: passwrod C:\xampp\htdocs\weblog\Application\Home\Controller\BlogController.class.php 第 68 行.
+SQL: INSERT INTO `wb_user` (`account`,`password`,`level`,`days`,`register_date`) VALUES ('user1','','0','1','2017-01-26 17:26:55') [ RunTime:0.0030s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000833s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000884s ]
+
+[ 2017-01-26T17:27:00+08:00 ] ::1 /weblog/index.php/Home/Blog/getaccount?jsonpCallback=jQuery19103880573772551159_1485417212733&account=user1&_=1485417212752
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000584s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001018s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001084s ]
+SQL: select * from wb_user where account = "user1" [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000768s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000808s ]
+
+[ 2017-01-26T17:27:05+08:00 ] ::1 /weblog/index.php/Home/Blog/login?jsonpCallback=jQuery19103880573772551159_1485417212733&account=user1&password=user1&_=1485417212753
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000385s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000715s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000762s ]
+SQL: select * from wb_user where account = "user1" limit 1 [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000771s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000813s ]
+
+[ 2017-01-26T17:30:32+08:00 ] ::1 /weblog/index.php/Home/Blog/register?account=acount&password=123&comfirm=123
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000858s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000873s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000916s ]
+SQL: SHOW COLUMNS FROM `wb_user` [ RunTime:0.0065s ]
+NOTIC: [8] Undefined variable: passwrod C:\xampp\htdocs\weblog\Application\Home\Controller\BlogController.class.php 第 68 行.
+SQL: INSERT INTO `wb_user` (`account`,`password`,`level`,`days`,`register_date`) VALUES ('acount','','0','1','2017-01-26 17:30:32') [ RunTime:0.0116s ]
+NOTIC: [8] Undefined index: jsonpCallback C:\xampp\htdocs\weblog\Application\Home\Controller\BlogController.class.php 第 78 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001130s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001173s ]
+
+[ 2017-01-26T17:32:12+08:00 ] ::1 /weblog/index.php/Home/Blog/register_account?jsonpCallback=jQuery19105922512006332257_1485423117821&account=user2&_=1485423117822
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000433s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000848s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000885s ]
+SQL: select * from wb_user where account = "user2" [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000927s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000961s ]
+
+[ 2017-01-26T17:32:20+08:00 ] ::1 /weblog/index.php/Home/Blog/register_account?jsonpCallback=jQuery19105922512006332257_1485423117821&account=user2&_=1485423117823
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000385s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000650s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000695s ]
+SQL: select * from wb_user where account = "user2" [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000784s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000824s ]
+
+[ 2017-01-26T17:32:20+08:00 ] ::1 /weblog/index.php/Home/Blog/register?jsonpCallback=jQuery19105922512006332257_1485423117821&account=user2&password=user2&comfirm=user2&_=1485423117824
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000312s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000588s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000627s ]
+SQL: SHOW COLUMNS FROM `wb_user` [ RunTime:0.0062s ]
+SQL: INSERT INTO `wb_user` (`account`,`password`,`level`,`days`,`register_date`) VALUES ('user2','AycCI1I1BCJUNA==','0','1','2017-01-26 17:32:20') [ RunTime:0.0033s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000809s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000848s ]
+
+[ 2017-01-26T17:32:24+08:00 ] ::1 /weblog/index.php/Home/Blog/register_account?jsonpCallback=jQuery19105922512006332257_1485423117821&account=user2&_=1485423117825
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000526s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000884s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000943s ]
+SQL: select * from wb_user where account = "user2" [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000670s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000703s ]
+
+[ 2017-01-26T17:32:58+08:00 ] ::1 /weblog/index.php/Home/Blog/getaccount?jsonpCallback=jQuery19105922512006332257_1485423117821&account=user2&_=1485423117826
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000410s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000763s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000818s ]
+SQL: select * from wb_user where account = "user2" [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000820s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000864s ]
+
+[ 2017-01-26T17:33:03+08:00 ] ::1 /weblog/index.php/Home/Blog/login?jsonpCallback=jQuery19105922512006332257_1485423117821&account=user2&password=user2&_=1485423117827
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000383s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000650s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000695s ]
+SQL: select * from wb_user where account = "user2" limit 1 [ RunTime:0.0003s ]
+NOTIC: [8] Undefined index: name C:\xampp\htdocs\weblog\Application\Home\Controller\BlogController.class.php 第 47 行.
+NOTIC: [8] Undefined index: account C:\xampp\htdocs\weblog\Application\Home\Controller\BlogController.class.php 第 48 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000690s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000723s ]
+
+[ 2017-01-26T17:38:49+08:00 ] ::1 /weblog/index.php/Home/Blog/register_account?jsonpCallback=jQuery1910020052563879988883_1485423512172&account=test&_=1485423512173
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000740s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001393s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001456s ]
+SQL: select * from wb_user where account = "test" [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001386s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001440s ]
+
+[ 2017-01-26T17:38:56+08:00 ] ::1 /weblog/index.php/Home/Blog/register_account?jsonpCallback=jQuery1910020052563879988883_1485423512172&account=test&_=1485423512174
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000388s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000691s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000745s ]
+SQL: select * from wb_user where account = "test" [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000791s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000834s ]
+
+[ 2017-01-26T17:38:56+08:00 ] ::1 /weblog/index.php/Home/Blog/register?jsonpCallback=jQuery1910020052563879988883_1485423512172&account=test&password=test&comfirm=test&_=1485423512175
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000331s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000544s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000580s ]
+SQL: SHOW COLUMNS FROM `wb_user` [ RunTime:0.0079s ]
+SQL: INSERT INTO `wb_user` (`account`,`password`,`level`,`days`,`register_date`) VALUES ('test','VnMHMAZ3BSU=','0','1','2017-01-26 17:38:56') [ RunTime:0.0112s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000796s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000837s ]
+
+[ 2017-01-26T17:40:19+08:00 ] ::1 /weblog/index.php/Home/Blog/register_account?jsonpCallback=jQuery1910546812666911823_1485423614065&account=you&_=1485423614066
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000752s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000854s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000910s ]
+SQL: select * from wb_user where account = "you" [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000776s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000815s ]
+
+[ 2017-01-26T17:40:23+08:00 ] ::1 /weblog/index.php/Home/Blog/register_account?jsonpCallback=jQuery1910546812666911823_1485423614065&account=you&_=1485423614067
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000378s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000876s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000943s ]
+SQL: select * from wb_user where account = "you" [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000698s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000737s ]
+
+[ 2017-01-26T17:40:23+08:00 ] ::1 /weblog/index.php/Home/Blog/register?jsonpCallback=jQuery1910546812666911823_1485423614065&account=you&password=you&comfirm=you&_=1485423614068
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000323s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000550s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000592s ]
+SQL: SHOW COLUMNS FROM `wb_user` [ RunTime:0.0058s ]
+SQL: INSERT INTO `wb_user` (`account`,`password`,`level`,`days`,`register_date`) VALUES ('you','VX1VaAF2','0','1','2017-01-26 17:40:23') [ RunTime:0.0024s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000833s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000873s ]
+

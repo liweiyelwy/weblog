@@ -1,0 +1,511 @@
+[ 2017-01-11T09:31:08+08:00 ] ::1 /thinkphp/index.php/Home/Phone/apple_service_search?name=%E7%8F%A0%E6%B5%B7
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.009287s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001360s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001442s ]
+SQL: select Province,Store_Name,Store_Phone,Store_Address,Store_Style from apple_service where Province like "%珠海%" or Store_Address like "%珠海%" [ RunTime:0.0473s ]
+NOTIC: [8] Undefined index: jsonpCallback H:\xampp\htdocs\thinkphp\Application\Home\Controller\PhoneController.class.php 第 297 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001599s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001687s ]
+
+[ 2017-01-11T09:31:11+08:00 ] ::1 /thinkphp/index.php/Home/Phone/apple_service_search?name=%E7%8F%A0%E6%B5%B7
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000437s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000362s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000403s ]
+SQL: select Province,Store_Name,Store_Phone,Store_Address,Store_Style from apple_service where Province like "%珠海%" or Store_Address like "%珠海%" [ RunTime:0.0007s ]
+NOTIC: [8] Undefined index: jsonpCallback H:\xampp\htdocs\thinkphp\Application\Home\Controller\PhoneController.class.php 第 297 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000463s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000505s ]
+
+[ 2017-01-11T09:31:12+08:00 ] ::1 /thinkphp/index.php/Home/Phone/apple_service_search?name=%E7%8F%A0%E6%B5%B7
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000821s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001133s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001290s ]
+SQL: select Province,Store_Name,Store_Phone,Store_Address,Store_Style from apple_service where Province like "%珠海%" or Store_Address like "%珠海%" [ RunTime:0.0011s ]
+NOTIC: [8] Undefined index: jsonpCallback H:\xampp\htdocs\thinkphp\Application\Home\Controller\PhoneController.class.php 第 297 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000471s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000510s ]
+
+[ 2017-01-11T09:31:13+08:00 ] ::1 /thinkphp/index.php/Home/Phone/apple_service_search?name=%E7%8F%A0%E6%B5%B7
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000258s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000408s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000458s ]
+SQL: select Province,Store_Name,Store_Phone,Store_Address,Store_Style from apple_service where Province like "%珠海%" or Store_Address like "%珠海%" [ RunTime:0.0010s ]
+NOTIC: [8] Undefined index: jsonpCallback H:\xampp\htdocs\thinkphp\Application\Home\Controller\PhoneController.class.php 第 297 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000477s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000517s ]
+
+[ 2017-01-11T09:42:20+08:00 ] ::1 /thinkphp/index.php/Home/Phone/apple_service_search?name=%E7%8F%A0%E6%B5%B7
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000388s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000545s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000642s ]
+SQL: select Province,Store_Name,Store_Phone,Store_Address,Store_Style from apple_service where Province like "%珠海%" or Store_Address like "%珠海%" [ RunTime:0.0012s ]
+NOTIC: [8] Undefined index: jsonpCallback H:\xampp\htdocs\thinkphp\Application\Home\Controller\PhoneController.class.php 第 297 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000526s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000564s ]
+
+[ 2017-01-11T10:12:32+08:00 ] ::1 /thinkphp/index.php/Home/Phone/apple_service_search?name=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000588s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000524s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000576s ]
+NOTIC: [8] Undefined index: jsonpCallback H:\xampp\htdocs\thinkphp\Application\Home\Controller\PhoneController.class.php 第 285 行.
+
+[ 2017-01-11T10:14:15+08:00 ] ::1 /thinkphp/index.php/Home/Phone/apple_service_search?name=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000515s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000582s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000663s ]
+NOTIC: [8] Undefined index: jsonpCallback H:\xampp\htdocs\thinkphp\Application\Home\Controller\PhoneController.class.php 第 285 行.
+
+[ 2017-01-11T10:14:27+08:00 ] ::1 /thinkphp/index.php/Home/Phone/apple_service_search?name=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000430s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000539s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000603s ]
+NOTIC: [8] Undefined index: jsonpCallback H:\xampp\htdocs\thinkphp\Application\Home\Controller\PhoneController.class.php 第 285 行.
+
+[ 2017-01-11T10:14:29+08:00 ] ::1 /thinkphp/index.php/Home/Phone/apple_service_search?name=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000251s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000322s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000357s ]
+NOTIC: [8] Undefined index: jsonpCallback H:\xampp\htdocs\thinkphp\Application\Home\Controller\PhoneController.class.php 第 285 行.
+
+[ 2017-01-11T11:01:03+08:00 ] ::1 /thinkphp/index.php/Home/Phone/apple_service_search?name=%E7%8F%A0%E6%B5%B7
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000561s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000776s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000861s ]
+SQL: select Province,Store_Name,Store_Phone,Store_Address,Store_Style from apple_service where Province like "%珠海%" or Store_Address like "%珠海%" [ RunTime:0.0008s ]
+NOTIC: [8] Undefined index: jsonpCallback H:\xampp\htdocs\thinkphp\Application\Home\Controller\PhoneController.class.php 第 297 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000509s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000543s ]
+
+[ 2017-01-11T11:19:25+08:00 ] ::1 /thinkphp/index.php/Home/Phone/apple_service_search?name=%E5%B9%BF%E5%B7%9E
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000475s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000442s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000497s ]
+SQL: select Province,Store_Name,Store_Phone,Store_Address,Store_Style from apple_service where Province like "%广州%" or Store_Address like "%广州%" [ RunTime:0.0010s ]
+NOTIC: [8] Undefined index: jsonpCallback H:\xampp\htdocs\thinkphp\Application\Home\Controller\PhoneController.class.php 第 297 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000562s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000609s ]
+
+[ 2017-01-11T11:20:13+08:00 ] ::1 /thinkphp/index.php/Home/Phone/apple_service_search?name=%E5%B9%BF%E5%B7%9E
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000450s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000556s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000617s ]
+SQL: select Province,Store_Name,Store_Phone,Store_Address,Store_Style from apple_service where Province like "%广州%" or Store_Address like "%广州%" [ RunTime:0.0016s ]
+NOTIC: [8] Undefined index: jsonpCallback H:\xampp\htdocs\thinkphp\Application\Home\Controller\PhoneController.class.php 第 297 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000470s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000505s ]
+
+[ 2017-01-11T11:22:57+08:00 ] ::1 /thinkphp/index.php/Home/Phone/apple_service_search?name=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000425s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000484s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000529s ]
+NOTIC: [8] Undefined index: jsonpCallback H:\xampp\htdocs\thinkphp\Application\Home\Controller\PhoneController.class.php 第 285 行.
+
+[ 2017-01-11T11:24:38+08:00 ] ::1 /thinkphp/index.php/Home/Phone/apple_service_search?name=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000261s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000324s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000359s ]
+NOTIC: [8] Undefined index: jsonpCallback H:\xampp\htdocs\thinkphp\Application\Home\Controller\PhoneController.class.php 第 285 行.
+
+[ 2017-01-11T11:24:40+08:00 ] ::1 /thinkphp/index.php/Home/Phone/apple_service_search?name=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000392s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000483s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000539s ]
+NOTIC: [8] Undefined index: jsonpCallback H:\xampp\htdocs\thinkphp\Application\Home\Controller\PhoneController.class.php 第 285 行.
+
+[ 2017-01-11T11:24:42+08:00 ] ::1 /thinkphp/index.php/Home/Phone/apple_service_search?name=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000356s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000386s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000439s ]
+NOTIC: [8] Undefined index: jsonpCallback H:\xampp\htdocs\thinkphp\Application\Home\Controller\PhoneController.class.php 第 285 行.
+
+[ 2017-01-11T11:24:45+08:00 ] ::1 /thinkphp/index.php/Home/Phone/apple_service_search?name=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000437s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000643s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000724s ]
+NOTIC: [8] Undefined index: jsonpCallback H:\xampp\htdocs\thinkphp\Application\Home\Controller\PhoneController.class.php 第 285 行.
+
+[ 2017-01-11T11:24:46+08:00 ] ::1 /thinkphp/index.php/Home/Phone/apple_service_search?name=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000291s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000394s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000441s ]
+NOTIC: [8] Undefined index: jsonpCallback H:\xampp\htdocs\thinkphp\Application\Home\Controller\PhoneController.class.php 第 285 行.
+
+[ 2017-01-11T11:24:49+08:00 ] ::1 /thinkphp/index.php/Home/Phone/apple_service_search?name=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000314s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000392s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000441s ]
+NOTIC: [8] Undefined index: jsonpCallback H:\xampp\htdocs\thinkphp\Application\Home\Controller\PhoneController.class.php 第 285 行.
+
+[ 2017-01-11T11:24:50+08:00 ] ::1 /thinkphp/index.php/Home/Phone/apple_service_search?name=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000255s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000403s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000446s ]
+NOTIC: [8] Undefined index: jsonpCallback H:\xampp\htdocs\thinkphp\Application\Home\Controller\PhoneController.class.php 第 285 行.
+
+[ 2017-01-11T11:34:32+08:00 ] ::1 /thinkphp/index.php/Home/Phone/apple_service_search?name=%E7%8F%A0%E6%B5%B7
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000338s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000564s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000647s ]
+SQL: select Province,Store_Name,Store_Phone,Store_Address,Store_Style from apple_service where Province like "%珠海%" or Store_Address like "%珠海%" [ RunTime:0.0008s ]
+NOTIC: [8] Undefined index: jsonpCallback H:\xampp\htdocs\thinkphp\Application\Home\Controller\PhoneController.class.php 第 297 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000585s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000627s ]
+
+[ 2017-01-11T11:35:03+08:00 ] ::1 /thinkphp/index.php/Home/Phone/apple_service_search?name=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000417s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000353s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000393s ]
+NOTIC: [8] Undefined index: jsonpCallback H:\xampp\htdocs\thinkphp\Application\Home\Controller\PhoneController.class.php 第 285 行.
+
+[ 2017-01-11T11:35:16+08:00 ] ::1 /thinkphp/index.php/Home/Phone/apple_service_search?name=%E5%B9%BF%E4%B8%9C
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000402s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000506s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000561s ]
+SQL: select Province,Store_Name,Store_Phone,Store_Address,Store_Style from apple_service where Province like "%广东%" or Store_Address like "%广东%" [ RunTime:0.0008s ]
+NOTIC: [8] Undefined index: jsonpCallback H:\xampp\htdocs\thinkphp\Application\Home\Controller\PhoneController.class.php 第 297 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000520s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000574s ]
+
+[ 2017-01-11T11:35:34+08:00 ] ::1 /thinkphp/index.php/Home/Phone/apple_service_search?name=%E5%B9%BF%E4%B8%9C
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000270s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000327s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000364s ]
+SQL: select Province,Store_Name,Store_Phone,Store_Address,Store_Style from apple_service where Province like "%广东%" or Store_Address like "%广东%" [ RunTime:0.0010s ]
+NOTIC: [8] Undefined index: jsonpCallback H:\xampp\htdocs\thinkphp\Application\Home\Controller\PhoneController.class.php 第 297 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000523s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000578s ]
+
+[ 2017-01-11T11:36:02+08:00 ] ::1 /thinkphp/index.php/Home/Phone/apple_service_search?name=%E5%B9%BF%E5%B7%9E
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000351s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000515s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000577s ]
+SQL: select Province,Store_Name,Store_Phone,Store_Address,Store_Style from apple_service where Province like "%广州%" or Store_Address like "%广州%" [ RunTime:0.0008s ]
+NOTIC: [8] Undefined index: jsonpCallback H:\xampp\htdocs\thinkphp\Application\Home\Controller\PhoneController.class.php 第 297 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000418s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000455s ]
+
+[ 2017-01-11T11:36:59+08:00 ] ::1 /thinkphp/index.php/Home/Phone/apple_service_search?name=%E5%B9%BF%E4%B8%9C
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000503s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000670s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000735s ]
+SQL: select Province,Store_Name,Store_Phone,Store_Address,Store_Style from apple_service where Province like "%广东%" or Store_Address like "%广东%" [ RunTime:0.0009s ]
+NOTIC: [8] Undefined index: jsonpCallback H:\xampp\htdocs\thinkphp\Application\Home\Controller\PhoneController.class.php 第 297 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000597s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000646s ]
+
+[ 2017-01-11T11:37:27+08:00 ] ::1 /thinkphp/index.php/Home/Phone/apple_service_search?name=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000310s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000421s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000484s ]
+NOTIC: [8] Undefined index: jsonpCallback H:\xampp\htdocs\thinkphp\Application\Home\Controller\PhoneController.class.php 第 285 行.
+
+[ 2017-01-11T11:38:49+08:00 ] ::1 /thinkphp/index.php/Home/Phone/apple_service_search?name=%E5%B9%BF%E4%B8%9C
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000255s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000334s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000374s ]
+SQL: select Province,Store_Name,Store_Phone,Store_Address,Store_Style from apple_service where Province like "%广东%" or Store_Address like "%广东%" [ RunTime:0.0009s ]
+NOTIC: [8] Undefined index: jsonpCallback H:\xampp\htdocs\thinkphp\Application\Home\Controller\PhoneController.class.php 第 297 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000556s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000614s ]
+
+[ 2017-01-11T11:39:26+08:00 ] ::1 /thinkphp/index.php/Home/Phone/apple_service_search?name=%E7%8F%A0%E6%B5%B7
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000449s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000464s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000506s ]
+SQL: select Province,Store_Name,Store_Phone,Store_Address,Store_Style from apple_service where Province like "%珠海%" or Store_Address like "%珠海%" [ RunTime:0.0007s ]
+NOTIC: [8] Undefined index: jsonpCallback H:\xampp\htdocs\thinkphp\Application\Home\Controller\PhoneController.class.php 第 297 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000497s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000530s ]
+
+[ 2017-01-11T11:40:09+08:00 ] ::1 /thinkphp/index.php/Home/Phone/apple_service_search?name=%E7%8F%A0%E6%B5%B7
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000310s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000535s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000602s ]
+SQL: select Province,Store_Name,Store_Phone,Store_Address,Store_Style from apple_service where Province like "%珠海%" or Store_Address like "%珠海%" [ RunTime:0.0014s ]
+NOTIC: [8] Undefined index: jsonpCallback H:\xampp\htdocs\thinkphp\Application\Home\Controller\PhoneController.class.php 第 297 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000747s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000817s ]
+
+[ 2017-01-11T11:41:34+08:00 ] ::1 /thinkphp/index.php/Home/Phone/apple_service_search?name=ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000413s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000486s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000530s ]
+SQL: select Province,Store_Name,Store_Phone,Store_Address,Store_Style from apple_service where Province like "%ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff%" or Store_Address like "%ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff%" [ RunTime:0.0008s ]
+NOTIC: [8] Undefined index: jsonpCallback H:\xampp\htdocs\thinkphp\Application\Home\Controller\PhoneController.class.php 第 297 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000583s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000624s ]
+
+[ 2017-01-11T11:42:21+08:00 ] ::1 /thinkphp/index.php/Home/Phone/apple_service_search?name=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000563s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000390s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000434s ]
+NOTIC: [8] Undefined index: jsonpCallback H:\xampp\htdocs\thinkphp\Application\Home\Controller\PhoneController.class.php 第 285 行.
+
+[ 2017-01-11T11:42:23+08:00 ] ::1 /thinkphp/index.php/Home/Phone/apple_service_search?name=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000383s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000629s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000687s ]
+NOTIC: [8] Undefined index: jsonpCallback H:\xampp\htdocs\thinkphp\Application\Home\Controller\PhoneController.class.php 第 285 行.
+
+[ 2017-01-11T11:42:25+08:00 ] ::1 /thinkphp/index.php/Home/Phone/apple_service_search?name=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000302s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000589s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000650s ]
+NOTIC: [8] Undefined index: jsonpCallback H:\xampp\htdocs\thinkphp\Application\Home\Controller\PhoneController.class.php 第 285 行.
+
+[ 2017-01-11T11:42:25+08:00 ] ::1 /thinkphp/index.php/Home/Phone/apple_service_search?name=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000380s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000371s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000414s ]
+NOTIC: [8] Undefined index: jsonpCallback H:\xampp\htdocs\thinkphp\Application\Home\Controller\PhoneController.class.php 第 285 行.
+
+[ 2017-01-11T11:42:26+08:00 ] ::1 /thinkphp/index.php/Home/Phone/apple_service_search?name=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000362s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000419s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000467s ]
+NOTIC: [8] Undefined index: jsonpCallback H:\xampp\htdocs\thinkphp\Application\Home\Controller\PhoneController.class.php 第 285 行.
+
+[ 2017-01-11T11:42:28+08:00 ] ::1 /thinkphp/index.php/Home/Phone/apple_service_search?name=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000341s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000446s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000496s ]
+NOTIC: [8] Undefined index: jsonpCallback H:\xampp\htdocs\thinkphp\Application\Home\Controller\PhoneController.class.php 第 285 行.
+
+[ 2017-01-11T11:42:31+08:00 ] ::1 /thinkphp/index.php/Home/Phone/apple_service_search?name=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000260s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000331s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000374s ]
+NOTIC: [8] Undefined index: jsonpCallback H:\xampp\htdocs\thinkphp\Application\Home\Controller\PhoneController.class.php 第 285 行.
+
+[ 2017-01-11T11:42:32+08:00 ] ::1 /thinkphp/index.php/Home/Phone/apple_service_search?name=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000264s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000320s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000355s ]
+NOTIC: [8] Undefined index: jsonpCallback H:\xampp\htdocs\thinkphp\Application\Home\Controller\PhoneController.class.php 第 285 行.
+
+[ 2017-01-11T11:43:36+08:00 ] ::1 /thinkphp/index.php/Home/Phone/apple_service_search?name=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000626s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000570s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000620s ]
+NOTIC: [8] Undefined index: jsonpCallback H:\xampp\htdocs\thinkphp\Application\Home\Controller\PhoneController.class.php 第 285 行.
+
+[ 2017-01-11T11:43:37+08:00 ] ::1 /thinkphp/index.php/Home/Phone/apple_service_search?name=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000287s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000366s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000407s ]
+NOTIC: [8] Undefined index: jsonpCallback H:\xampp\htdocs\thinkphp\Application\Home\Controller\PhoneController.class.php 第 285 行.
+
+[ 2017-01-11T11:43:42+08:00 ] ::1 /thinkphp/index.php/Home/Phone/apple_service_search?name=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000246s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000319s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000354s ]
+NOTIC: [8] Undefined index: jsonpCallback H:\xampp\htdocs\thinkphp\Application\Home\Controller\PhoneController.class.php 第 285 行.
+
+[ 2017-01-11T11:44:13+08:00 ] ::1 /thinkphp/index.php/Home/Phone/apple_service_search?name=%E5%B9%BF%E4%B8%9C
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000483s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000564s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000628s ]
+SQL: select Province,Store_Name,Store_Phone,Store_Address,Store_Style from apple_service where Province like "%广东%" or Store_Address like "%广东%" [ RunTime:0.0010s ]
+NOTIC: [8] Undefined index: jsonpCallback H:\xampp\htdocs\thinkphp\Application\Home\Controller\PhoneController.class.php 第 297 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000644s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000701s ]
+
+[ 2017-01-11T11:44:18+08:00 ] ::1 /thinkphp/index.php/Home/Phone/apple_service_search?name=%E5%B9%BF%E4%B8%9C
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000285s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000387s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000426s ]
+SQL: select Province,Store_Name,Store_Phone,Store_Address,Store_Style from apple_service where Province like "%广东%" or Store_Address like "%广东%" [ RunTime:0.0009s ]
+NOTIC: [8] Undefined index: jsonpCallback H:\xampp\htdocs\thinkphp\Application\Home\Controller\PhoneController.class.php 第 297 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000592s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000663s ]
+
+[ 2017-01-11T11:44:28+08:00 ] ::1 /thinkphp/index.php/Home/Phone/apple_service_search?name=%E5%B9%BF%E4%B8%9C
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000248s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000303s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000336s ]
+SQL: select Province,Store_Name,Store_Phone,Store_Address,Store_Style from apple_service where Province like "%广东%" or Store_Address like "%广东%" [ RunTime:0.0012s ]
+NOTIC: [8] Undefined index: jsonpCallback H:\xampp\htdocs\thinkphp\Application\Home\Controller\PhoneController.class.php 第 297 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000542s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000600s ]
+
+[ 2017-01-11T11:45:34+08:00 ] ::1 /thinkphp/index.php/Home/Phone/apple_service_search?name=%E5%B9%BF%E4%B8%9C
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000275s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000417s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000468s ]
+SQL: select Province,Store_Name,Store_Phone,Store_Address,Store_Style from apple_service where Province like "%广东%" or Store_Address like "%广东%" [ RunTime:0.0008s ]
+NOTIC: [8] Undefined index: jsonpCallback H:\xampp\htdocs\thinkphp\Application\Home\Controller\PhoneController.class.php 第 297 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000417s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000458s ]
+
+[ 2017-01-11T14:07:17+08:00 ] ::1 /thinkphp/index.php/Home/Phone/apple_service_search?name=%E5%B9%BF%E4%B8%9C
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000306s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000418s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000460s ]
+SQL: select Province,Store_Name,Store_Phone,Store_Address,Store_Style from apple_service where Province like "%广东%" or Store_Address like "%广东%" [ RunTime:0.0010s ]
+NOTIC: [8] Undefined index: jsonpCallback H:\xampp\htdocs\thinkphp\Application\Home\Controller\PhoneController.class.php 第 297 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000615s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000671s ]
+

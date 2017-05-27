@@ -1,0 +1,132 @@
+[ 2016-12-17T14:12:26+08:00 ] ::1 /thinkphp/A/img/back_index.svg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000402s ]
+ERR: 无法加载模块:A
+
+[ 2016-12-17T14:16:07+08:00 ] ::1 /thinkphp/A/img/back_index.svg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000344s ]
+ERR: 无法加载模块:A
+
+[ 2016-12-17T14:18:23+08:00 ] ::1 /thinkphp/A/img/back_index.svg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000595s ]
+ERR: 无法加载模块:A
+
+[ 2016-12-17T14:18:29+08:00 ] ::1 /thinkphp/A/img/back_index.svg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000391s ]
+ERR: 无法加载模块:A
+
+[ 2016-12-17T14:18:35+08:00 ] ::1 /thinkphp/A/img/back_index.svg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000572s ]
+ERR: 无法加载模块:A
+
+[ 2016-12-17T14:18:35+08:00 ] ::1 /thinkphp/A/img/back_index.svg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000712s ]
+ERR: 无法加载模块:A
+
+[ 2016-12-17T14:23:18+08:00 ] ::1 /thinkphp/Public/weui-master/dist/style/weui.expand.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000460s ]
+ERR: 无法加载模块:Public
+
+[ 2016-12-17T14:23:18+08:00 ] ::1 /thinkphp/A/img/back_index.svg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000503s ]
+ERR: 无法加载模块:A
+
+[ 2016-12-17T14:23:21+08:00 ] ::1 /thinkphp/Public/weui-master/dist/style/weui.expand.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000503s ]
+ERR: 无法加载模块:Public
+
+[ 2016-12-17T14:23:21+08:00 ] ::1 /thinkphp/A/img/back_index.svg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000304s ]
+ERR: 无法加载模块:A
+
+[ 2016-12-17T14:23:22+08:00 ] ::1 /thinkphp/Public/weui-master/dist/style/weui.expand.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000599s ]
+ERR: 无法加载模块:Public
+
+[ 2016-12-17T14:23:22+08:00 ] ::1 /thinkphp/A/img/back_index.svg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000345s ]
+ERR: 无法加载模块:A
+
+[ 2016-12-17T14:23:23+08:00 ] ::1 /thinkphp/Public/weui-master/dist/style/weui.expand.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000360s ]
+ERR: 无法加载模块:Public
+
+[ 2016-12-17T14:23:23+08:00 ] ::1 /thinkphp/A/img/back_index.svg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000366s ]
+ERR: 无法加载模块:A
+
+[ 2016-12-17T14:24:03+08:00 ] ::1 /thinkphp/A/img/back_index.svg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000531s ]
+ERR: 无法加载模块:A
+
+[ 2016-12-17T14:24:05+08:00 ] ::1 /thinkphp/A/img/back_index.svg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000565s ]
+ERR: 无法加载模块:A
+
+[ 2016-12-17T14:25:11+08:00 ] ::1 /thinkphp/Public/weui-master/dist/style/weui.mini.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000403s ]
+ERR: 无法加载模块:Public
+
+[ 2016-12-17T14:25:11+08:00 ] ::1 /thinkphp/A/img/back_index.svg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000306s ]
+ERR: 无法加载模块:A
+
+[ 2016-12-17T14:25:11+08:00 ] ::1 /thinkphp/Public/weui-master/dist/style/weui.mini.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000453s ]
+ERR: 无法加载模块:Public
+
+[ 2016-12-17T14:25:12+08:00 ] ::1 /thinkphp/A/img/back_index.svg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000326s ]
+ERR: 无法加载模块:A
+
+[ 2016-12-17T14:27:47+08:00 ] ::1 /thinkphp/Public/weui-master/dist/style/weui.mini.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000450s ]
+ERR: 无法加载模块:Public
+
+[ 2016-12-17T14:27:47+08:00 ] ::1 /thinkphp/A/img/back_index.svg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000326s ]
+ERR: 无法加载模块:A
+

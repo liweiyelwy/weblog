@@ -1,0 +1,47 @@
+[ 2016-12-30T16:35:23+08:00 ] 192.168.31.38 /thinkphp/index.php/Home/Index/send_verify?jsonpCallback=jQuery31003534212274647961_1483086921072&account=13160665807&_=1483086921075
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000699s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001041s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001127s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001011s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001110s ]
+
+[ 2016-12-30T17:10:10+08:00 ] 192.168.31.38 /thinkphp/index.php/Home/Index/send_verify?jsonpCallback=jQuery31006606821531726057_1483088975669&account=13160665807&_=1483088975674
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000684s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000941s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001034s ]
+NOTIC: [8] Undefined index: exprire_time H:\xampp\htdocs\thinkphp\Application\Home\Controller\IndexController.class.php 第 275 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001998s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002149s ]
+
+[ 2016-12-30T17:16:34+08:00 ] 192.168.31.38 /thinkphp/index.php/Home/Index/send_verify?jsonpCallback=jQuery31004177502506373605_1483089368664&account=13160665807&_=1483089368667
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000610s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000865s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000948s ]
+NOTIC: [8] Undefined index: exprire_time H:\xampp\htdocs\thinkphp\Application\Home\Controller\IndexController.class.php 第 275 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001705s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001845s ]
+
+[ 2016-12-30T17:19:19+08:00 ] 192.168.31.38 /thinkphp/index.php/Home/Index/send_verify?jsonpCallback=jQuery31009391270673217667_1483089505106&account=13160665807&_=1483089505110
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001055s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001545s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001688s ]
+NOTIC: [8] Undefined index: exprire_time H:\xampp\htdocs\thinkphp\Application\Home\Controller\IndexController.class.php 第 275 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001706s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001849s ]
+

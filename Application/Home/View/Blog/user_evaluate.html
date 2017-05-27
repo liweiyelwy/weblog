@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+  <title>开始使用Layui</title>
+  <link rel="stylesheet" href="../layui/css/layui.css">
+  <style type="text/css">
+	  .layui-nav-item{margin: 0 40px;}
+	  .nav-left{float: left;}
+	  .nav-right{float: right;}
+  </style>
+</head>
+<body>
+ 	<div class="layui-layout layui-layout-admin layui-main">
+		<div class="layui-header">
+			<ul class="layui-nav nav-left layui-layout-admin">
+				<li class="layui-nav-item">后台管理</li>
+				<li class="layui-nav-item">新增博客</li>
+				<li class="layui-nav-item">博客列表</li>
+				<li class="layui-nav-item layui-this">留言管理</li>
+				<li class="layui-nav-item">1</li>
+			</ul>
+			<ul class="layui-nav nav-right">
+				<li class="layui-nav-item">liweiye</li>
+				<li class="layui-nav-item">注销/登录</li>
+			</ul>
+		</div>
+		<hr>
+		<table class="layui-table" lay-skin="line" lay-even>
+			<colgroup>
+				<col width="100">
+				<col width="250">
+				<col width="100">
+				<col >
+				<col width="50">
+			</colgroup>
+			<thead>
+				<tr>
+					<th>留言昵称</th>
+					<th>留言博客标题</th>
+					<th>时间</th>
+					<th>留言内容</th>
+					<th>操作</th>
+				</tr>
+			</thead>
+			<tbody>
+				<tr>
+					<th>fdfdfdf</th>
+					<th>博客，第一篇的地方大幅度辅导费</th>
+					<th>2017-3-30 22:55:52</th>
+					<th>这是博客的内容简介，这是博客的</th>
+					<th>
+						<div class="layui-btn-group">
+						  <button class="layui-btn layui-btn-small">
+							<i class="layui-icon">&#xe640;</i>
+						  </button>
+						</div>
+					</th>
+				</tr>
+
+				<tr>
+					<th>这是一篇博</th>
+					<th>博客，第一篇</th>
+					<th>2017-3-30 22:55:52</th>
+					<th>这是博客的内容简介，这是博客的内容容简介，这是博客的内容简介，这是博客的内容简介，这是博客的内容简介</th>
+					<th>
+						<div class="layui-btn-group">
+						  <button class="layui-btn layui-btn-small">
+							<i class="layui-icon">&#xe640;</i>
+						  </button>
+						</div>
+					</th>
+				</tr>
+			</tbody>
+		</table>
+	</div>
+</body>
+
+</html>

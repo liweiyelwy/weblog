@@ -1,0 +1,56 @@
+[ 2017-04-08T21:02:41+08:00 ] ::1 /weblog/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000885s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001187s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001229s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.018215s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018276s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001051s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001088s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001345s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001382s ]
+
+[ 2017-04-08T21:03:28+08:00 ] ::1 /weblog/index.php/Home/Blog/new_blog?jsonpCallback=jQuery19108926206921740885_1491656561402&title=%E8%BF%99%E6%98%AF%E4%B8%80%E7%AF%87%E6%96%B0%E5%8D%9A%E5%AE%A2&type_id=1&detail=%3Cp+style%3D%22text-align%3A+center%3B%22%3E%26nbsp%3B%26nbsp%3B%26nbsp%3B%26nbsp%3Bdf+fd+f+d+df+d+dfd+f%3Cbr%2F%3E%3C%2Fp%3E%3Cp%3Edfdfd+fds+f%3C%2Fp%3E%3Cp%3Eds+f%3C%2Fp%3E%3Cp%3E%26nbsp%3B%3C%2Fp%3E%3Cp%3Ef+sd%26nbsp%3B%3C%2Fp%3E&_=1491656561403
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000733s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001487s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001559s ]
+SQL: SHOW COLUMNS FROM `wb_blog` [ RunTime:0.0080s ]
+SQL: INSERT INTO `wb_blog` (`title`,`style_id`,`content`,`time`,`author`) VALUES ('这是一篇新博客','1','<p style=\"text-align: center;\">&nbsp;&nbsp;&nbsp;&nbsp;df fd f d df d dfd f<br/></p><p>dfdfd fds f</p><p>ds f</p><p>&nbsp;</p><p>f sd&nbsp;</p>','2017-04-08 21:03:28','1') [ RunTime:0.0032s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001706s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001783s ]
+
+[ 2017-04-08T21:03:31+08:00 ] ::1 /weblog/index.php/Home/Blog/new_blog?jsonpCallback=jQuery19108926206921740885_1491656561402&title=%E8%BF%99%E6%98%AF%E4%B8%80%E7%AF%87%E6%96%B0%E5%8D%9A%E5%AE%A2&type_id=1&detail=%3Cp+style%3D%22text-align%3A+center%3B%22%3E%26nbsp%3B%26nbsp%3B%26nbsp%3B%26nbsp%3Bdf+fd+f+d+df+d+dfd+f%3Cbr%2F%3E%3C%2Fp%3E%3Cp%3Edfdfd+fds+f%3C%2Fp%3E%3Cp%3Eds+f%3C%2Fp%3E%3Cp%3E%26nbsp%3B%3C%2Fp%3E%3Cp%3Ef+sd%26nbsp%3B%3C%2Fp%3E&_=1491656561404
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000395s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000654s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000693s ]
+SQL: SHOW COLUMNS FROM `wb_blog` [ RunTime:0.0086s ]
+SQL: INSERT INTO `wb_blog` (`title`,`style_id`,`content`,`time`,`author`) VALUES ('这是一篇新博客','1','<p style=\"text-align: center;\">&nbsp;&nbsp;&nbsp;&nbsp;df fd f d df d dfd f<br/></p><p>dfdfd fds f</p><p>ds f</p><p>&nbsp;</p><p>f sd&nbsp;</p>','2017-04-08 21:03:31','1') [ RunTime:0.0096s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000844s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000884s ]
+
+[ 2017-04-08T21:04:11+08:00 ] ::1 /weblog/index.php/Home/Blog/new_blog?jsonpCallback=jQuery19108926206921740885_1491656561402&title=%E8%BF%99%E6%98%AF%E4%B8%80%E7%AF%87%E6%96%B0%E5%8D%9A%E5%AE%A2&type_id=1&detail=%3Cp+style%3D%22text-align%3A+center%3B%22%3E%26nbsp%3B%26nbsp%3B%26nbsp%3B%26nbsp%3Bdf+fd+f+d+df+d+dfd+f%3Cbr%2F%3E%3C%2Fp%3E%3Cp%3Edfdfd+fds+f%3C%2Fp%3E%3Cp%3Eds+f%3C%2Fp%3E%3Cp%3E%26nbsp%3B%3C%2Fp%3E%3Cp+style%3D%22text-align%3A+center%3B%22%3Ef+sd%26nbsp%3B%3Cimg+src%3D%22%2Fweblog%2FPublic%2Fupload%2Fimage%2F20170408%2F1491656632748580.jpg%22+title%3D%221491656632748580.jpg%22+alt%3D%22hack.jpg%22+width%3D%22917%22+height%3D%22613%22+style%3D%22width%3A+917px%3B+height%3A+613px%3B%22%2F%3E%3C%2Fp%3E%3Cspan+class%3D%22edui-editor-imagescale-hand1%22+style%3D%22position%3A+absolute%3B+width%3A+6px%3B+height%3A+6px%3B+overflow%3A+hidden%3B+font-size%3A+0px%3B+display%3A+block%3B+background-color%3A+rgb(60%2C+157%2C+208)%3B+cursor%3A+n-resize%3B+top%3A+0px%3B+margin-top%3A+-4px%3B+left%3A+458.5px%3B+margin-left%3A+-4px%3B+font-family%3A+%26quot%3BMicrosoft+YaHei%26quot%3B%3B%22%3E%3C%2Fspan%3E&_=1491656561405
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000411s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000665s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000703s ]
+SQL: SHOW COLUMNS FROM `wb_blog` [ RunTime:0.0089s ]
+SQL: INSERT INTO `wb_blog` (`title`,`style_id`,`content`,`time`,`author`) VALUES ('这是一篇新博客','1','<p style=\"text-align: center;\">&nbsp;&nbsp;&nbsp;&nbsp;df fd f d df d dfd f<br/></p><p>dfdfd fds f</p><p>ds f</p><p>&nbsp;</p><p style=\"text-align: center;\">f sd&nbsp;<img src=\"/weblog/Public/upload/image/20170408/1491656632748580.jpg\" title=\"1491656632748580.jpg\" alt=\"hack.jpg\" width=\"917\" height=\"613\" style=\"width: 917px; height: 613px;\"/></p><span class=\"edui-editor-imagescale-hand1\" style=\"position: absolute; width: 6px; height: 6px; overflow: hidden; font-size: 0px; display: block; background-color: rgb(60, 157, 208); cursor: n-resize; top: 0px; margin-top: -4px; left: 458.5px; margin-left: -4px; font-family: &quot;Microsoft YaHei&quot;;\"></span>','2017-04-08 21:04:11','1') [ RunTime:0.0132s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000795s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000835s ]
+

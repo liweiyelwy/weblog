@@ -1,0 +1,62 @@
+.article{border-bottom: 1px solid #ddd}
+.art_cont{margin: 1.4375em auto 1.25em; height: auto; overflow: hidden}
+.art_cont .art_banner{display: block; margin: 0 auto 1.71875em; width: 100%; border-radius: 5px}
+.art_cont .section{font-size: .5em; line-height: 1.75em; color: #000; margin-top: 2.375em; word-break: break-all; word-wrap: break-word; white-space: normal}
+.art_cont .section .video-js,.art_cont .section video, .art_cont .section .edui-faked-video{display:block;margin: auto; width: 100% !important; height: 100% !important}
+.section .video-js p{position: absolute; line-height: 18px}
+.art_cont .section .vjs-big-play-button{left: 50%; top: 50%; margin-left: -2em; margin-top: -1.3em}
+.art_cont .section video{background: #000}
+@media \0screen\,screen\9 {
+    .art_cont .section video{background: transparent;}
+}
+.art_cont .section object{background: #000; display: block; margin: auto}
+.edui-upload-video{max-width: 100% !important;}
+.vjs-default-skin .vjs-control{width: auto}
+.vjs-default-skin .vjs-fullscreen-control{width: 5em}
+.vjs-default-skin .vjs-volume-control{width: 5em}
+.art_cont .section .blockquote{border-left: .5em solid #e0e0e0; padding:2.25em 5.5em 2.25em 5.25em; background: #ececec; margin: 2em auto; position: relative}
+.section .blockquote::before{display: block; content: '\e906'; width: 1.25em; height: 1.125em; /*background: url("../img/quoteL.png") 0 0 no-repeat; background-size: contain;*/
+position: absolute; left: 2.125em; top: 1.9375em}
+.section .blockquote::after,.section .blockquote::before{
+    font-family: 'icomoon' !important;
+    speak: none;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1em;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    color: #ccc;
+}
+.section .blockquote::after{display: block; content: '\e907'; width: 1.25em; height: 1.125em; /*background: url("../img/quoteR.png") 0 0 no-repeat; background-size: contain;*/
+position: absolute; right: 2.125em; bottom: 1.9375em}
+.art_cont .section h3{font-size: 1.625em; text-align: center; margin: 3.15384615em auto 1.23076923em;}
+.art_cont .section .imgs{text-align: center; margin: 2.0625em auto 1.5625em; padding: 0}
+.art_cont .section img{display: inline-block; *display: inline; *zoom: 1; padding: 0; max-width: 100%; margin:18px auto 10px}
+.art_cont .column2 img{max-width: 49.4%}
+.art_cont .section .desc4img{font-style: italic; font-weight: 600; text-align: left; margin-top: 1.5em}
+.article_desc{margin-left: 0; width: 100%}
+.article_desc h2{font-size: 0.8125em; margin: 0.46875em auto 1em; text-align: center; word-break: break-word; word-wrap: break-word; white-space: normal}
+.art_info{text-align: center; margin-top: -2px}
+.art_info a{font-size: 0.4375em; color: #000}
+.art_info span{font-size: 0.4375em; color: #999}
+.art_info .space{padding: 0 12px}
+.tags{text-align: center}
+.tags .tag{display:inline-block; *display: inline; *zoom: 1; margin-right: 0.46875em; margin-bottom: .2em; cursor: text}
+.tags .icon-biaoqian{display: block; float: left; margin-right: 3px; width: 1em; height: 1em; min-width: 12px; min-height: 12px; font-size: .5em; color: #bbb}
+.tags img{display: block; width: 100%; cursor: default}
+.tags em{display: block; float: left; margin-left: .4em; color: #bbb; font-style: normal; height: .5em; font-size: .5em; line-height: 0.9em}
+@-moz-document url-prefix() {
+    .tags em{line-height: .8em}
+}
+.art_copyright{font-size: .5em; color: #a5a5a5; margin:8.75em auto 2.1875em}
+.footer{margin-top: 2.0625em}
+
+@media all and (max-width: 640px){
+    .article{
+        font-size: 28px;
+    }
+    .article_desc h2{font-size: 18px; margin-bottom: .3em}
+    .tags .tag{margin-bottom: 0}
+}

@@ -1,0 +1,223 @@
+[ 2017-01-12T15:39:27+08:00 ] ::1 /thinkphp/index.php/Home/Phone/apple_service_search?name=%E7%8F%A0%E6%B5%B7
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000519s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000813s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000850s ]
+SQL: select Province,Store_Name,Store_Phone,Store_Address,Store_Style from apple_service where Province like "%珠海%" or Store_Address like "%珠海%" [ RunTime:0.0009s ]
+NOTIC: [8] Undefined index: jsonpCallback C:\xampp\htdocs\thinkphp\Application\Home\Controller\PhoneController.class.php 第 297 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000952s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000989s ]
+
+[ 2017-01-12T15:43:11+08:00 ] ::1 /thinkphp/index.php/Home/Phone/apple_service_search?name=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000608s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000819s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000860s ]
+NOTIC: [8] Undefined index: jsonpCallback C:\xampp\htdocs\thinkphp\Application\Home\Controller\PhoneController.class.php 第 285 行.
+
+[ 2017-01-12T15:43:12+08:00 ] ::1 /thinkphp/index.php/Home/Phone/apple_service_search?name=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000647s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000877s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000952s ]
+NOTIC: [8] Undefined index: jsonpCallback C:\xampp\htdocs\thinkphp\Application\Home\Controller\PhoneController.class.php 第 285 行.
+
+[ 2017-01-12T15:43:35+08:00 ] ::1 /thinkphp/index.php/Home/Phone/apple_service_search?name=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000441s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001895s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001972s ]
+NOTIC: [8] Undefined index: jsonpCallback C:\xampp\htdocs\thinkphp\Application\Home\Controller\PhoneController.class.php 第 285 行.
+
+[ 2017-01-12T15:43:35+08:00 ] ::1 /thinkphp/index.php/Home/Phone/apple_service_search?name=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000402s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000762s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000817s ]
+NOTIC: [8] Undefined index: jsonpCallback C:\xampp\htdocs\thinkphp\Application\Home\Controller\PhoneController.class.php 第 285 行.
+
+[ 2017-01-12T15:43:36+08:00 ] ::1 /thinkphp/index.php/Home/Phone/apple_service_search?name=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000580s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001083s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001158s ]
+NOTIC: [8] Undefined index: jsonpCallback C:\xampp\htdocs\thinkphp\Application\Home\Controller\PhoneController.class.php 第 285 行.
+
+[ 2017-01-12T15:43:42+08:00 ] ::1 /thinkphp/index.php/Home/Phone/apple_service_search?name=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000519s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000914s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000987s ]
+NOTIC: [8] Undefined index: jsonpCallback C:\xampp\htdocs\thinkphp\Application\Home\Controller\PhoneController.class.php 第 285 行.
+
+[ 2017-01-12T15:43:43+08:00 ] ::1 /thinkphp/index.php/Home/Phone/apple_service_search?name=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000346s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000909s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001005s ]
+NOTIC: [8] Undefined index: jsonpCallback C:\xampp\htdocs\thinkphp\Application\Home\Controller\PhoneController.class.php 第 285 行.
+
+[ 2017-01-12T15:43:47+08:00 ] ::1 /thinkphp/index.php/Home/Phone/apple_service_search?name=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000522s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000616s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000664s ]
+NOTIC: [8] Undefined index: jsonpCallback C:\xampp\htdocs\thinkphp\Application\Home\Controller\PhoneController.class.php 第 285 行.
+
+[ 2017-01-12T15:43:48+08:00 ] ::1 /thinkphp/index.php/Home/Phone/apple_service_search?name=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000335s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000895s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000964s ]
+NOTIC: [8] Undefined index: jsonpCallback C:\xampp\htdocs\thinkphp\Application\Home\Controller\PhoneController.class.php 第 285 行.
+
+[ 2017-01-12T15:43:49+08:00 ] ::1 /thinkphp/index.php/Home/Phone/apple_service_search?name=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000506s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000998s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001079s ]
+NOTIC: [8] Undefined index: jsonpCallback C:\xampp\htdocs\thinkphp\Application\Home\Controller\PhoneController.class.php 第 285 行.
+
+[ 2017-01-12T15:43:50+08:00 ] ::1 /thinkphp/index.php/Home/Phone/apple_service_search?name=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000351s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000606s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000645s ]
+NOTIC: [8] Undefined index: jsonpCallback C:\xampp\htdocs\thinkphp\Application\Home\Controller\PhoneController.class.php 第 285 行.
+
+[ 2017-01-12T15:43:50+08:00 ] ::1 /thinkphp/index.php/Home/Phone/apple_service_search?name=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000411s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001132s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001216s ]
+NOTIC: [8] Undefined index: jsonpCallback C:\xampp\htdocs\thinkphp\Application\Home\Controller\PhoneController.class.php 第 285 行.
+
+[ 2017-01-12T15:43:51+08:00 ] ::1 /thinkphp/index.php/Home/Phone/apple_service_search?name=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000599s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001016s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001078s ]
+NOTIC: [8] Undefined index: jsonpCallback C:\xampp\htdocs\thinkphp\Application\Home\Controller\PhoneController.class.php 第 285 行.
+
+[ 2017-01-12T15:43:52+08:00 ] ::1 /thinkphp/index.php/Home/Phone/apple_service_search?name=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000326s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000546s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000585s ]
+NOTIC: [8] Undefined index: jsonpCallback C:\xampp\htdocs\thinkphp\Application\Home\Controller\PhoneController.class.php 第 285 行.
+
+[ 2017-01-12T15:43:52+08:00 ] ::1 /thinkphp/index.php/Home/Phone/apple_service_search?name=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000564s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000613s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000659s ]
+NOTIC: [8] Undefined index: jsonpCallback C:\xampp\htdocs\thinkphp\Application\Home\Controller\PhoneController.class.php 第 285 行.
+
+[ 2017-01-12T15:43:53+08:00 ] ::1 /thinkphp/index.php/Home/Phone/apple_service_search?name=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000359s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000533s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000568s ]
+NOTIC: [8] Undefined index: jsonpCallback C:\xampp\htdocs\thinkphp\Application\Home\Controller\PhoneController.class.php 第 285 行.
+
+[ 2017-01-12T15:43:54+08:00 ] ::1 /thinkphp/index.php/Home/Phone/apple_service_search?name=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000327s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000532s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000567s ]
+NOTIC: [8] Undefined index: jsonpCallback C:\xampp\htdocs\thinkphp\Application\Home\Controller\PhoneController.class.php 第 285 行.
+
+[ 2017-01-12T15:43:56+08:00 ] ::1 /thinkphp/index.php/Home/Phone/apple_service_search?name=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000406s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000569s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000609s ]
+NOTIC: [8] Undefined index: jsonpCallback C:\xampp\htdocs\thinkphp\Application\Home\Controller\PhoneController.class.php 第 285 行.
+
+[ 2017-01-12T15:43:57+08:00 ] ::1 /thinkphp/index.php/Home/Phone/apple_service_search?name=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000614s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000947s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001021s ]
+NOTIC: [8] Undefined index: jsonpCallback C:\xampp\htdocs\thinkphp\Application\Home\Controller\PhoneController.class.php 第 285 行.
+
+[ 2017-01-12T15:43:59+08:00 ] ::1 /thinkphp/index.php/Home/Phone/apple_service_search?name=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000556s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000594s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000638s ]
+NOTIC: [8] Undefined index: jsonpCallback C:\xampp\htdocs\thinkphp\Application\Home\Controller\PhoneController.class.php 第 285 行.
+
+[ 2017-01-12T15:44:12+08:00 ] ::1 /thinkphp/index.php/Home/Phone/apple_service_search?name=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000506s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000652s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000703s ]
+NOTIC: [8] Undefined index: jsonpCallback C:\xampp\htdocs\thinkphp\Application\Home\Controller\PhoneController.class.php 第 285 行.
+
+[ 2017-01-12T15:44:31+08:00 ] ::1 /thinkphp/index.php/Home/Phone/apple_service_search?name=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000604s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000941s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001015s ]
+NOTIC: [8] Undefined index: jsonpCallback C:\xampp\htdocs\thinkphp\Application\Home\Controller\PhoneController.class.php 第 285 行.
+
+[ 2017-01-12T16:06:18+08:00 ] ::1 /thinkphp/index.php/Home/Index/get_account?account=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000544s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001312s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001357s ]
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+ [ SQL语句 ] : select * from passport_user where Account = 
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+ [ SQL语句 ] : select * from passport_user where Account = 
+

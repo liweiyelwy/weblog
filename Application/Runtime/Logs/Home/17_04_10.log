@@ -1,0 +1,392 @@
+[ 2017-04-10T00:31:38+08:00 ] ::1 /weblog/index.php/Home/Blog/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000587s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001102s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001158s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.057603s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.057660s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001401s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001440s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001126s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001180s ]
+
+[ 2017-04-10T00:33:40+08:00 ] ::1 /weblog/index.php/Home/Blog/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000469s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001214s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001272s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.059388s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.059437s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001115s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001144s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001586s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001647s ]
+
+[ 2017-04-10T00:37:36+08:00 ] ::1 /weblog/index.php/Home/Blog/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000474s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000893s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000929s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.064885s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.064936s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001280s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001322s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001372s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001477s ]
+
+[ 2017-04-10T20:25:14+08:00 ] ::1 /weblog/index.php/Home/Blog/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000963s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001551s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001614s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.086082s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.086148s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001758s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001818s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002461s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002538s ]
+
+[ 2017-04-10T20:26:24+08:00 ] ::1 /weblog/index.php/Home/Blog/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000547s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001303s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001413s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.068390s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.068452s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001310s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001345s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001143s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001204s ]
+
+[ 2017-04-10T22:15:06+08:00 ] ::1 /weblog/index.php/Home/Blog/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000459s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001753s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001821s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.059497s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.059553s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001129s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001163s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001151s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001217s ]
+
+[ 2017-04-10T22:15:13+08:00 ] ::1 /weblog/index.php/Home/Blog/new_blog?jsonpCallback=jQuery19108017688541260668_1491833706109&title=dfdfd&key=fdfd&about=fdfdf&author=fdfd&detail=%3Cp%3Efdddddd%3C%2Fp%3E&_=1491833706110
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000654s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000827s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000867s ]
+NOTIC: [8] Undefined index: type_id C:\xampp\htdocs\weblog\Application\Home\Controller\BlogController.class.php 第 98 行.
+SQL: SHOW COLUMNS FROM `wb_blog` [ RunTime:0.0042s ]
+SQL: INSERT INTO `wb_blog` (`title`,`content`,`time`,`author`) VALUES ('dfdfd','<p>fdddddd</p>','2017-04-10 22:15:13','1') [ RunTime:0.0022s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000882s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000930s ]
+
+[ 2017-04-10T22:16:24+08:00 ] ::1 /weblog/index.php/Home/Blog/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000434s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000709s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000756s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.060605s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.060664s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001116s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001146s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001081s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001147s ]
+
+[ 2017-04-10T22:16:30+08:00 ] ::1 /weblog/index.php/Home/Blog/new_blog?jsonpCallback=jQuery191028214910389976944_1491833784674&title=ddd&key=dddd&about=dddd&author=ddd&detail=%3Cp%3Edddd%3C%2Fp%3E&_=1491833784675
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000808s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001610s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001693s ]
+NOTIC: [8] Undefined index: type_id C:\xampp\htdocs\weblog\Application\Home\Controller\BlogController.class.php 第 98 行.
+SQL: SHOW COLUMNS FROM `wb_blog` [ RunTime:0.0067s ]
+SQL: INSERT INTO `wb_blog` (`title`,`content`,`time`,`author`) VALUES ('ddd','<p>dddd</p>','2017-04-10 22:16:30','1') [ RunTime:0.0023s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000992s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001039s ]
+
+[ 2017-04-10T22:19:09+08:00 ] ::1 /weblog/index.php/Home/Blog/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000466s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000931s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000967s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.059378s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.059428s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001149s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001187s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002807s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003554s ]
+
+[ 2017-04-10T22:19:17+08:00 ] ::1 /weblog/index.php/Home/Blog/new_blog?jsonpCallback=jQuery191002375602533897414_1491833949326&title=dsdsd&key=ssaaaa&about=ddsd&author=sdsd&detail=%3Cp%3Eaaddddddddddddddddd%3C%2Fp%3E&_=1491833949327
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000853s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000859s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000902s ]
+NOTIC: [8] Undefined index: type_id C:\xampp\htdocs\weblog\Application\Home\Controller\BlogController.class.php 第 98 行.
+SQL: SHOW COLUMNS FROM `wb_blog` [ RunTime:0.0068s ]
+SQL: INSERT INTO `wb_blog` (`title`,`content`,`time`,`author`) VALUES ('dsdsd','<p>aaddddddddddddddddd</p>','2017-04-10 22:19:17','1') [ RunTime:0.0023s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000864s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000900s ]
+
+[ 2017-04-10T22:21:49+08:00 ] ::1 /weblog/index.php/Home/Blog/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000580s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000930s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000971s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.061209s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.061269s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001153s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001186s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001261s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001328s ]
+
+[ 2017-04-10T22:21:55+08:00 ] ::1 /weblog/index.php/Home/Blog/new_blog?jsonpCallback=jQuery191016476998370567575_1491834109591&title=dddd&key=sssa&about=aaaa&author=dddss&detail=&_=1491834109592
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000467s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000842s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000880s ]
+NOTIC: [8] Undefined index: type_id C:\xampp\htdocs\weblog\Application\Home\Controller\BlogController.class.php 第 98 行.
+SQL: SHOW COLUMNS FROM `wb_blog` [ RunTime:0.0067s ]
+SQL: INSERT INTO `wb_blog` (`title`,`content`,`time`,`author`) VALUES ('dddd','','2017-04-10 22:21:55','1') [ RunTime:0.0101s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000994s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001044s ]
+
+[ 2017-04-10T22:23:16+08:00 ] ::1 /weblog/index.php/Home/Blog/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000406s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000909s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000974s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.061574s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.061650s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001105s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001134s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001083s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001170s ]
+
+[ 2017-04-10T22:23:17+08:00 ] ::1 /weblog/index.php/Home/Blog/new_blog?jsonpCallback=jQuery19109226879574343263_1491834196832&title=&key=&about=&author=&detail=&_=1491834196833
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000435s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000916s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000955s ]
+NOTIC: [8] Undefined index: type_id C:\xampp\htdocs\weblog\Application\Home\Controller\BlogController.class.php 第 98 行.
+SQL: SHOW COLUMNS FROM `wb_blog` [ RunTime:0.0039s ]
+SQL: INSERT INTO `wb_blog` (`title`,`content`,`time`,`author`) VALUES ('','','2017-04-10 22:23:17','1') [ RunTime:0.0029s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001152s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001195s ]
+
+[ 2017-04-10T22:24:09+08:00 ] ::1 /weblog/index.php/Home/Blog/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000352s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000597s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000633s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.062123s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.062189s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001383s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001442s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001384s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001454s ]
+
+[ 2017-04-10T22:24:11+08:00 ] ::1 /weblog/index.php/Home/Blog/new_blog?jsonpCallback=jQuery19106906947323815342_1491834250009&title=&key=&about=&author=&detail=&_=1491834250010
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001148s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001017s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001070s ]
+NOTIC: [8] Undefined index: type_id C:\xampp\htdocs\weblog\Application\Home\Controller\BlogController.class.php 第 98 行.
+SQL: SHOW COLUMNS FROM `wb_blog` [ RunTime:0.0043s ]
+SQL: INSERT INTO `wb_blog` (`title`,`content`,`time`,`author`) VALUES ('','','2017-04-10 22:24:11','1') [ RunTime:0.0035s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000857s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000896s ]
+
+[ 2017-04-10T22:24:40+08:00 ] ::1 /weblog/index.php/Home/Blog/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000394s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000790s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000844s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.060187s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.060238s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001104s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001134s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001032s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001114s ]
+
+[ 2017-04-10T22:24:41+08:00 ] ::1 /weblog/index.php/Home/Blog/new_blog?jsonpCallback=jQuery1910745120332135655_1491834280137&title=&key=&about=&author=&detail=&_=1491834280138
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000449s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001213s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001297s ]
+NOTIC: [8] Undefined index: type_id C:\xampp\htdocs\weblog\Application\Home\Controller\BlogController.class.php 第 98 行.
+SQL: SHOW COLUMNS FROM `wb_blog` [ RunTime:0.0087s ]
+SQL: INSERT INTO `wb_blog` (`title`,`content`,`time`,`author`) VALUES ('','','2017-04-10 22:24:41','1') [ RunTime:0.0017s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000721s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000755s ]
+
+[ 2017-04-10T23:03:53+08:00 ] ::1 /weblog/index.php/Home/Blog/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000462s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001002s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001044s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.059540s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.059594s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001041s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001071s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001057s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001118s ]
+
+[ 2017-04-10T23:03:56+08:00 ] ::1 /weblog/index.php/Home/Blog/new_blog?jsonpCallback=jQuery191004016703896369411_1491836633290&title=&key=&about=&author=&detail=&_=1491836633291
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000454s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000766s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000813s ]
+SQL: SHOW COLUMNS FROM `wb_blog` [ RunTime:0.0040s ]
+SQL: INSERT INTO `wb_blog` (`blog_id`,`title`,`key`,`about`,`content`,`time`,`author`) VALUES ('blog20170410230356','','','','','2017-04-10 23:03:56','') [ RunTime:0.0026s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000999s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001050s ]
+
+[ 2017-04-10T23:07:29+08:00 ] ::1 /weblog/index.php/Home/Blog/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000554s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001110s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001161s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012424s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012473s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000678s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000706s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000943s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001011s ]
+
+[ 2017-04-10T23:07:31+08:00 ] ::1 /weblog/index.php/Home/Blog/new_blog?jsonpCallback=jQuery19103948052512951312_1491836849944&title=&key=&about=&author=&detail=&_=1491836849945
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000347s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000741s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000781s ]
+SQL: SHOW COLUMNS FROM `wb_blog` [ RunTime:0.0067s ]
+SQL: INSERT INTO `wb_blog` (`blog_id`,`title`,`key`,`about`,`content`,`time`,`author`) VALUES ('blog20170410230731','','','','','2017-04-10 23:07:31','') [ RunTime:0.0018s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000822s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000861s ]
+
+[ 2017-04-10T23:10:19+08:00 ] ::1 /weblog/index.php/Home/Blog/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000539s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000877s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000914s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011045s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011089s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000676s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000704s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000938s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001005s ]
+
+[ 2017-04-10T23:10:20+08:00 ] ::1 /weblog/index.php/Home/Blog/new_blog?jsonpCallback=jQuery191038018601160658516_1491837019392&title=&key=&about=&author=&detail=&_=1491837019393
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000394s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000684s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000723s ]
+SQL: SHOW COLUMNS FROM `wb_blog` [ RunTime:0.0094s ]
+SQL: INSERT INTO `wb_blog` (`blog_id`,`title`,`key`,`about`,`content`,`time`,`author`) VALUES ('blog20170410231020','','','','','2017-04-10 23:10:20','') [ RunTime:0.0107s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000826s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000862s ]
+

@@ -1,0 +1,26 @@
+[ 2016-12-27T12:14:02+08:00 ] 192.168.31.38 /thinkphp/index.php/Home/Index/ck_mg_vfy
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000519s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000690s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000758s ]
+NOTIC: [8] Undefined index: verify H:\xampp\htdocs\thinkphp\Application\Home\Controller\IndexController.class.php 第 301 行.
+NOTIC: [8] Undefined index: jsonpCallback H:\xampp\htdocs\thinkphp\Application\Home\Controller\IndexController.class.php 第 309 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000692s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000750s ]
+
+[ 2016-12-27T12:15:19+08:00 ] 192.168.31.38 /thinkphp/index.php/Home/Index/ck_mg_vfy
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000431s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000541s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000603s ]
+NOTIC: [8] Undefined index: verify H:\xampp\htdocs\thinkphp\Application\Home\Controller\IndexController.class.php 第 301 行.
+NOTIC: [8] Undefined index: jsonpCallback H:\xampp\htdocs\thinkphp\Application\Home\Controller\IndexController.class.php 第 309 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000566s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000623s ]
+

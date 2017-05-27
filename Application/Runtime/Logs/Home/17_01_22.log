@@ -1,0 +1,24 @@
+[ 2017-01-22T11:21:55+08:00 ] ::1 /thinkphp/index.php/Home/Api/hidescore?level=Platinum&num=%E2%85%A2&score=55&winnum=44&losenum=33
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001261s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000877s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000920s ]
+NOTIC: [8] Undefined index: jsonpCallback C:\xampp\htdocs\thinkphp\Application\Home\Controller\ApiController.class.php 第 69 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004594s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004742s ]
+
+[ 2017-01-22T11:22:19+08:00 ] ::1 /thinkphp/index.php/Home/Api/hidescore?level=Platinum&num=%E2%85%A2&score=55&winnum=233&losenum=150
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000322s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000431s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000470s ]
+NOTIC: [8] Undefined index: jsonpCallback C:\xampp\htdocs\thinkphp\Application\Home\Controller\ApiController.class.php 第 69 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002244s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002472s ]
+

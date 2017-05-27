@@ -1,0 +1,312 @@
+@charset "utf-8";
+html{font-size: 32px; min-width: 24px}
+body{background: #f5f5f5; font-family: 'Microsoft YaHei', arial, helvetica, sans-serif;}
+a{text-decoration: none; outline: none}
+.wrap{width: 35em; height: auto; overflow: hidden; margin: auto;}
+.wrap .row-fluid .pull-right{float: right !important;}
+/* iconfont */
+@font-face {
+    font-family: 'icomoon';
+    src:url('../fonts/icomoon.eot?x6sabh');
+    src:url('../fonts/icomoon.eot?x6sabh#iefix') format('embedded-opentype'),
+    url('../fonts/icomoon.ttf?x6sabh') format('truetype'),
+    url('../fonts/icomoon.woff?x6sabh') format('woff'),
+    url('../fonts/icomoon.svg?x6sabh#icomoon') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'iconfont';
+    src:url('../fonts/iconfont.eot?x6sabh');
+    src:url('../fonts/iconfont.eot?x6sabh#iefix') format('embedded-opentype'),
+    url('../fonts/iconfont.ttf?x6sabh') format('truetype'),
+    url('../fonts/iconfont.woff?x6sabh') format('woff'),
+    url('../fonts/iconfont.svg?x6sabh#icomoon') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+[class^="icon-"], [class*=" icon-"] {
+    /* use !important to prevent issues with browser extensions that change fonts */
+    font-family: 'icomoon' !important;
+    speak: none;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1em;
+    /* Better Font Rendering =========== */
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+.icon-biaoqian:before {content: "\e900";}
+.icon-fanhui:before {content: "\e901";}
+.icon-gotop:before {content: "\e902";}
+.icon-home:before {content: "\e903"; float: left}
+/*.icon-logo:before {content: "\e904";}*/
+.icon-sousuo:before {content: "\e905";}
+.icon-yinhao1:before {content: "\e906";}
+.icon-yinhao2:before {content: "\e907";}
+/* 头部 */
+.header{width: 100%;height: 2.8125em; overflow: hidden; border-bottom: 1px solid #e7e7e7; background: #fff}
+.header .wrap,.header .row-fluid{height:2.8125em}
+#logo{ display: block; float: left; margin-top:0.55em; color: #000;
+    font-family: iconfont;
+    font-style:normal;
+    /*font-size: 42px;*/
+}
+#logo span{display: block; width: 100%;font-size: 1.21875em;}
+#search_comp{float: right !important; margin-top: 0.90625em; display: none}
+#search_comp .search{width: 13.28571em; height: 2.1428571em; color: #999; line-height: 2.1428571em; border: 1px solid #ddd; outline: none; border-right: none; padding: 0 0 0 0.71428571em; font-size: 0.4375em; border-top-left-radius: 1.07142857em; border-bottom-left-radius: 1.07142857em; float: left}
+#search_comp .icon-search{font-size:0.4375em; width: 2em; height: 2.1428571em; text-indent: -9999px; border: 1px solid #ddd; border-left: none; border-top-right-radius: 1.07142857em; border-bottom-right-radius: 1.07142857em; float: left; background: url("../img/search.png") 4px 7px no-repeat}
+#search_comp ::-webkit-input-placeholder{font-size: 14px; font-family: 'Microsoft YaHei', arial, helvetica, sans-serif; color: #999}
+#search_comp :-moz-placeholder{font-size: 14px; font-family: 'Microsoft YaHei', arial, helvetica, sans-serif; color: #999}
+#search_comp ::-moz-placeholder{font-size: 14px; font-family: 'Microsoft YaHei', arial, helvetica, sans-serif; color: #999}
+#search_comp :-ms-input-placeholder{font-size:14px; font-family: 'Microsoft YaHei', arial, helvetica, sans-serif; color: #999}
+
+.row-fluid {
+    width: 100%;
+    *zoom: 1;
+}
+.row-fluid:before,
+.row-fluid:after {
+    display: table;
+    content: "";
+}
+.row-fluid:after {
+    clear: both;
+}
+.row-fluid > [class*="span"] {
+    float: left;
+}
+.row-fluid .span24{
+    float: none;
+}
+/* 导航 */
+#nav{margin-top: 27px}
+#nav a{color: #494949;line-height: 2em; max-width: 90%; display: block; float: left; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; word-wrap: normal}
+#nav a em{font-size: 14px; height: 18px; line-height: 19px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; word-wrap: normal; width: 99%}
+#nav a em, #nav a i{font-style: normal; display: block; float: left; margin-left: 5px}
+#nav .nav_curr i{cursor: default}
+#nav .nav_curr em{cursor: text}
+#nav .icon{width: 16px; height: 16px;}
+#nav .icon-home{font-size: 16px;}
+#nav .icon-fanhui{font-size: 12px;padding-left: 6px;width: 10px; line-height: 20px; float: left}
+
+/* 返回顶部 */
+#gotop{display: none; width: 1.71875em; height: 1.71875em; line-height: 1.31875em; border-radius: 0.3125em; text-align: center; background: #282829; cursor: pointer; position: fixed; right: 20px; bottom:2em;}
+#gotop .icon-gotop{display: inline-block; width: 2em; height: 1em; color: #fff; font-size: .5em; text-align: center; position: relative}
+@media \0screen\,screen\9 {  /* ie8 */
+    #gotop .icon-gotop{background: url("http://www.res.flyme.cn/resources/flymeos/v2/blog/img/gotop.png") center no-repeat;}
+}
+/* 底部 */
+.footer{margin:2.25em auto 1em;color: #a2a2a2;text-align: center;}
+.footer .row-fluid .span24{font-size: 0.4375em; float: none; line-height: 2em}
+
+@media all and (min-width: 1120px){
+    html{
+        font-size: 32px;
+    }
+    #logo{ display: block; float: left; margin-top:0.55em; color: #000;font-family: iconfont;font-style:normal; font-size: 42px; }
+}
+@media all and (max-width: 1119px){
+    html{
+        font-size: 30px;
+    }
+    #nav a{max-width: 90%}
+    .wrap{width: 960px}
+    /* 960 grid */
+    .row-fluid > [class*="span"] {
+        margin-left: 1.063829787%;
+    }
+    .row-fluid > [class*="span"]:first-child {
+        margin-left: 0;
+    }
+    .row-fluid > .span24 {
+        width: 99.99999998999999%;
+    }
+    .row-fluid > .span23 {
+        width: 94.7916666666666%;
+    }
+    .row-fluid > .span22 {
+        width: 90.625%;
+    }
+    .row-fluid > .span21 {
+        width: 86.4583333333333%;
+    }
+    .row-fluid > .span20 {
+        width: 82.2916666666666%;
+    }
+    .row-fluid > .span19 {
+        width: 78.125%;
+    }
+    .row-fluid > .span18 {
+        width: 73.9583333333333%;
+    }
+    .row-fluid > .span17 {
+        width: 69.7916666666666%;
+    }
+    .row-fluid > .span16 {
+        width: 65.625%;
+    }
+    .row-fluid > .span15 {
+        width: 61.4583333333333%;
+    }
+    .row-fluid > .span14 {
+        width: 57.2916666666666%;
+    }
+    .row-fluid > .span13 {
+        width: 53.125%;
+    }
+    .row-fluid > .span12 {
+        width: 48.9583333333333%;
+    }
+    .row-fluid > .span11 {
+        width: 44.7916666666666%;
+    }
+    .row-fluid > .span10 {
+        width: 40.625%;
+    }
+    .row-fluid > .span9 {
+        width: 36.4583333333333%;
+    }
+    .row-fluid > .span8 {
+        width: 32.2916666666666%;
+    }
+    .row-fluid > .span7 {
+        width: 28.125%;
+    }
+    .row-fluid > .span6 {
+        width: 23.9583333333333%;
+    }
+    .row-fluid > .span5 {
+        width: 19.7916666666666%;
+    }
+    .row-fluid > .span4 {
+        width: 15.625%;
+    }
+    .row-fluid > .span3 {
+        width: 11.4583333333333%;
+    }
+    .row-fluid > .span2 {
+        width: 7.29166666666666%;
+    }
+    .row-fluid > .span1 {
+        width: 3.125%;
+    }
+    #search_comp .icon-search{background-position:2px 5px}
+}
+@media all and (max-width: 1080px){
+    html{
+        font-size: 28px;
+    }
+    .wrap{width: 98%}
+    #nav a{max-width: 90%}
+}
+@media all and (max-width: 1020px){
+    html{
+        font-size: 27px;
+    }
+    #nav a{max-width: 88%}
+}
+@media all and (max-width: 960px){
+    html{
+        font-size: 26px;
+    }
+    #nav a{max-width: 88%}
+}
+@media all and (max-width: 900px){
+    html{
+        font-size: 25px;
+    }
+    #nav a{max-width: 86%}
+}
+@media all and (max-width: 840px){
+    html{
+        font-size: 24px;
+    }
+    #nav a{max-width: 84%}
+}
+@media all and (max-width: 780px){
+    html{
+        font-size: 23px;
+    }
+    .header .wrap{width: 90%}
+    .header .wrap .row-fluid{width: 98%; float: none; margin: auto}
+    .row-fluid > [class*="span"]:first-child {
+        margin: auto;
+    }
+    .row-fluid > [class*="span"] {
+        width: 90%;
+        margin: auto;
+        float: none;
+    }
+    .header .row-fluid .span8{width: 32.2916666666666%;}
+    .header .row-fluid .span16{width: 65.625%;}
+    .header .row-fluid > [class*="span"] {float: left}
+    .header .row-fluid > [class*="span"]:first-child {margin-left: 0}
+}
+@media all and (max-width: 770px){
+}
+@media all and (max-width: 720px){
+    html{
+        font-size: 22px;
+    }
+    #search_comp{margin-top: 0.8em}
+    #nav a{max-width: 82%}
+}
+@media all and (max-width: 660px){
+    html{
+        font-size: 21px;
+    }
+    #search_comp{margin-top: 0.7em}
+    .footer .row-fluid .span24{font-size: 12px;}
+    #nav a{max-width: 80%}
+}
+@media all and (max-width: 600px){
+    html{
+        font-size: 20px;
+    }
+    #nav a{max-width: 72%}
+    /*#nav a em{max-width: 90%}*/
+}
+@media all and (max-width: 540px){
+    html{
+        font-size: 19px;
+    }
+}
+@media all and (max-width: 480px){
+    html{
+        font-size: 18px;
+    }
+    #search_comp{margin-top: 0.6em}
+    #gotop{font-size: 1.6em}
+    /*.row-fluid > [class*="span"] {*/
+        /*width: 99.99999999%;*/
+        /*margin: auto;*/
+    /*}*/
+}
+@media all and (max-width: 420px){
+    html{
+        font-size: 17px;
+    }
+    #nav a{max-width: 68%}
+}
+@media all and (max-width: 360px){
+    html{
+        font-size: 16px;
+    }
+    #search_comp{float: none !important; width: 200px; margin:0 auto 0.5em; height: auto; overflow: hidden}
+    .header, .header .row-fluid, .header .wrap{height: auto; overflow: hidden}
+    .header .row-fluid > [class*="span"] {
+        display: block;
+        float: none;
+        width: 100%;
+    }
+    #logo{float: none; margin:0.5em auto; font-size: 24px}
+    #nav a{max-width: 64%}
+}
+@media all and (max-width: 320px){
+    html{
+        font-size: 15px;
+    }
+}

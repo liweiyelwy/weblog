@@ -1,0 +1,654 @@
+[ 2016-12-16T09:56:29+08:00 ] ::1 /thinkphp/Public/img/back_index.svg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000463s ]
+ERR: 无法加载模块:Public
+
+[ 2016-12-16T09:56:29+08:00 ] ::1 /thinkphp/Public/img/wywechar.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000421s ]
+ERR: 无法加载模块:Public
+
+[ 2016-12-16T09:56:37+08:00 ] ::1 /thinkphp/A/img/back_index.svg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000798s ]
+ERR: 无法加载模块:A
+
+[ 2016-12-16T09:56:54+08:00 ] ::1 /thinkphp/A/img/back_index.svg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000466s ]
+ERR: 无法加载模块:A
+
+[ 2016-12-16T09:57:22+08:00 ] ::1 /thinkphp/A/img/back_index.svg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000460s ]
+ERR: 无法加载模块:A
+
+[ 2016-12-16T09:58:50+08:00 ] ::1 /thinkphp/A/img/back_index.svg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000518s ]
+ERR: 无法加载模块:A
+
+[ 2016-12-16T09:58:50+08:00 ] ::1 /thinkphp/A/img/back_index.svg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000430s ]
+ERR: 无法加载模块:A
+
+[ 2016-12-16T10:00:58+08:00 ] ::1 /thinkphp/A/img/back_index.svg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000480s ]
+ERR: 无法加载模块:A
+
+[ 2016-12-16T10:02:52+08:00 ] ::1 /thinkphp/A/img/back_index.svg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000396s ]
+ERR: 无法加载模块:A
+
+[ 2016-12-16T10:02:55+08:00 ] ::1 /thinkphp/A/img/back_index.svg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000266s ]
+ERR: 无法加载模块:A
+
+[ 2016-12-16T10:08:53+08:00 ] ::1 /thinkphp/A/img/back_index.svg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000283s ]
+ERR: 无法加载模块:A
+
+[ 2016-12-16T10:09:33+08:00 ] ::1 /thinkphp/A/img/back_index.svg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000248s ]
+ERR: 无法加载模块:A
+
+[ 2016-12-16T10:38:06+08:00 ] ::1 /thinkphp/A/img/back_index.svg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000409s ]
+ERR: 无法加载模块:A
+
+[ 2016-12-16T10:39:27+08:00 ] ::1 /thinkphp/A/img/back_index.svg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000272s ]
+ERR: 无法加载模块:A
+
+[ 2016-12-16T10:39:49+08:00 ] ::1 /thinkphp/A/img/back_index.svg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000284s ]
+ERR: 无法加载模块:A
+
+[ 2016-12-16T10:39:54+08:00 ] ::1 /thinkphp/A/img/back_index.svg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000403s ]
+ERR: 无法加载模块:A
+
+[ 2016-12-16T10:40:42+08:00 ] ::1 /thinkphp/A/img/back_index.svg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000346s ]
+ERR: 无法加载模块:A
+
+[ 2016-12-16T10:41:40+08:00 ] ::1 /thinkphp/A/img/back_index.svg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000376s ]
+ERR: 无法加载模块:A
+
+[ 2016-12-16T10:57:29+08:00 ] ::1 /thinkphp/A/img/back_index.svg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000285s ]
+ERR: 无法加载模块:A
+
+[ 2016-12-16T10:57:29+08:00 ] ::1 /thinkphp/A/img/back_index.svg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000481s ]
+ERR: 无法加载模块:A
+
+[ 2016-12-16T11:18:08+08:00 ] ::1 /thinkphp/A/img/back_index.svg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000276s ]
+ERR: 无法加载模块:A
+
+[ 2016-12-16T11:18:08+08:00 ] ::1 /thinkphp/A/img/back_index.svg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000404s ]
+ERR: 无法加载模块:A
+
+[ 2016-12-16T11:18:08+08:00 ] ::1 /thinkphp/A/img/back_index.svg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000457s ]
+ERR: 无法加载模块:A
+
+[ 2016-12-16T11:18:09+08:00 ] ::1 /thinkphp/A/img/back_index.svg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000401s ]
+ERR: 无法加载模块:A
+
+[ 2016-12-16T11:18:09+08:00 ] ::1 /thinkphp/A/img/back_index.svg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000445s ]
+ERR: 无法加载模块:A
+
+[ 2016-12-16T11:18:09+08:00 ] ::1 /thinkphp/A/img/back_index.svg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000527s ]
+ERR: 无法加载模块:A
+
+[ 2016-12-16T11:18:28+08:00 ] ::1 /thinkphp/A/img/back_index.svg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000445s ]
+ERR: 无法加载模块:A
+
+[ 2016-12-16T11:18:28+08:00 ] ::1 /thinkphp/A/img/back_index.svg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000425s ]
+ERR: 无法加载模块:A
+
+[ 2016-12-16T11:19:12+08:00 ] ::1 /thinkphp/A/img/back_index.svg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000256s ]
+ERR: 无法加载模块:A
+
+[ 2016-12-16T11:19:59+08:00 ] ::1 /thinkphp/A/img/back_index.svg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000471s ]
+ERR: 无法加载模块:A
+
+[ 2016-12-16T11:20:29+08:00 ] ::1 /thinkphp/A/img/back_index.svg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000416s ]
+ERR: 无法加载模块:A
+
+[ 2016-12-16T11:50:06+08:00 ] ::1 /thinkphp/A/img/back_index.svg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000404s ]
+ERR: 无法加载模块:A
+
+[ 2016-12-16T11:51:17+08:00 ] ::1 /thinkphp/A/img/back_index.svg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000348s ]
+ERR: 无法加载模块:A
+
+[ 2016-12-16T11:51:17+08:00 ] ::1 /thinkphp/A/img/back_index.svg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000408s ]
+ERR: 无法加载模块:A
+
+[ 2016-12-16T12:11:02+08:00 ] ::1 /thinkphp/A/img/back_index.svg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000490s ]
+ERR: 无法加载模块:A
+
+[ 2016-12-16T12:11:02+08:00 ] ::1 /thinkphp/A/img/back_index.svg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000633s ]
+ERR: 无法加载模块:A
+
+[ 2016-12-16T12:11:37+08:00 ] ::1 /thinkphp/A/img/back_index.svg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000478s ]
+ERR: 无法加载模块:A
+
+[ 2016-12-16T12:11:37+08:00 ] ::1 /thinkphp/A/img/back_index.svg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000467s ]
+ERR: 无法加载模块:A
+
+[ 2016-12-16T12:16:21+08:00 ] ::1 /thinkphp/A/img/back_index.svg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000256s ]
+ERR: 无法加载模块:A
+
+[ 2016-12-16T12:16:22+08:00 ] ::1 /thinkphp/A/img/back_index.svg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000286s ]
+ERR: 无法加载模块:A
+
+[ 2016-12-16T12:16:23+08:00 ] ::1 /thinkphp/A/img/back_index.svg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000403s ]
+ERR: 无法加载模块:A
+
+[ 2016-12-16T12:16:24+08:00 ] ::1 /thinkphp/A/img/back_index.svg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000402s ]
+ERR: 无法加载模块:A
+
+[ 2016-12-16T12:16:25+08:00 ] ::1 /thinkphp/A/img/back_index.svg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000336s ]
+ERR: 无法加载模块:A
+
+[ 2016-12-16T12:16:25+08:00 ] ::1 /thinkphp/A/img/back_index.svg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000406s ]
+ERR: 无法加载模块:A
+
+[ 2016-12-16T12:18:44+08:00 ] ::1 /thinkphp/A/img/back_index.svg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000508s ]
+ERR: 无法加载模块:A
+
+[ 2016-12-16T12:18:44+08:00 ] ::1 /thinkphp/A/img/back_index.svg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000589s ]
+ERR: 无法加载模块:A
+
+[ 2016-12-16T12:25:05+08:00 ] ::1 /thinkphp/A/img/back_index.svg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000351s ]
+ERR: 无法加载模块:A
+
+[ 2016-12-16T12:25:05+08:00 ] ::1 /thinkphp/A/img/back_index.svg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000401s ]
+ERR: 无法加载模块:A
+
+[ 2016-12-16T12:25:43+08:00 ] ::1 /thinkphp/A/img/back_index.svg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000508s ]
+ERR: 无法加载模块:A
+
+[ 2016-12-16T12:25:44+08:00 ] ::1 /thinkphp/A/img/back_index.svg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000326s ]
+ERR: 无法加载模块:A
+
+[ 2016-12-16T12:25:49+08:00 ] ::1 /thinkphp/A/img/back_index.svg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001043s ]
+ERR: 无法加载模块:A
+
+[ 2016-12-16T12:25:49+08:00 ] ::1 /thinkphp/A/img/back_index.svg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000343s ]
+ERR: 无法加载模块:A
+
+[ 2016-12-16T12:25:49+08:00 ] ::1 /thinkphp/A/img/back_index.svg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000697s ]
+ERR: 无法加载模块:A
+
+[ 2016-12-16T12:25:49+08:00 ] ::1 /thinkphp/A/img/back_index.svg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000322s ]
+ERR: 无法加载模块:A
+
+[ 2016-12-16T12:28:34+08:00 ] ::1 /thinkphp/A/img/back_index.svg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000507s ]
+ERR: 无法加载模块:A
+
+[ 2016-12-16T12:28:34+08:00 ] ::1 /thinkphp/A/img/back_index.svg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000675s ]
+ERR: 无法加载模块:A
+
+[ 2016-12-16T12:28:46+08:00 ] ::1 /thinkphp/A/img/back_index.svg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000439s ]
+ERR: 无法加载模块:A
+
+[ 2016-12-16T12:28:46+08:00 ] ::1 /thinkphp/A/img/back_index.svg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000388s ]
+ERR: 无法加载模块:A
+
+[ 2016-12-16T12:29:17+08:00 ] ::1 /thinkphp/A/img/back_index.svg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000460s ]
+ERR: 无法加载模块:A
+
+[ 2016-12-16T12:29:17+08:00 ] ::1 /thinkphp/A/img/back_index.svg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000395s ]
+ERR: 无法加载模块:A
+
+[ 2016-12-16T12:29:17+08:00 ] ::1 /thinkphp/A/img/back_index.svg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000308s ]
+ERR: 无法加载模块:A
+
+[ 2016-12-16T12:29:17+08:00 ] ::1 /thinkphp/A/img/back_index.svg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000362s ]
+ERR: 无法加载模块:A
+
+[ 2016-12-16T12:29:43+08:00 ] ::1 /thinkphp/A/img/back_index.svg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000466s ]
+ERR: 无法加载模块:A
+
+[ 2016-12-16T12:29:43+08:00 ] ::1 /thinkphp/A/img/back_index.svg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000616s ]
+ERR: 无法加载模块:A
+
+[ 2016-12-16T12:30:34+08:00 ] ::1 /thinkphp/A/img/back_index.svg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000401s ]
+ERR: 无法加载模块:A
+
+[ 2016-12-16T12:30:34+08:00 ] ::1 /thinkphp/A/img/back_index.svg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000506s ]
+ERR: 无法加载模块:A
+
+[ 2016-12-16T12:30:35+08:00 ] ::1 /thinkphp/A/img/back_index.svg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000436s ]
+ERR: 无法加载模块:A
+
+[ 2016-12-16T12:30:35+08:00 ] ::1 /thinkphp/A/img/back_index.svg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000273s ]
+ERR: 无法加载模块:A
+
+[ 2016-12-16T12:30:38+08:00 ] ::1 /thinkphp/A/img/back_index.svg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000479s ]
+ERR: 无法加载模块:A
+
+[ 2016-12-16T12:39:27+08:00 ] ::1 /thinkphp/A/img/back_index.svg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000054s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000791s ]
+ERR: 无法加载模块:A
+
+[ 2016-12-16T12:39:27+08:00 ] ::1 /thinkphp/A/img/back_index.svg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000385s ]
+ERR: 无法加载模块:A
+
+[ 2016-12-16T12:39:29+08:00 ] ::1 /thinkphp/Public/img/back_index.svg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000292s ]
+ERR: 无法加载模块:Public
+
+[ 2016-12-16T12:39:29+08:00 ] ::1 /thinkphp/Public/img/wywechar.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000474s ]
+ERR: 无法加载模块:Public
+
+[ 2016-12-16T12:39:29+08:00 ] ::1 /thinkphp/Public/img/wywechar.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000424s ]
+ERR: 无法加载模块:Public
+
+[ 2016-12-16T12:39:29+08:00 ] ::1 /thinkphp/Public/img/back_index.svg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000414s ]
+ERR: 无法加载模块:Public
+
+[ 2016-12-16T12:39:34+08:00 ] ::1 /thinkphp/Public/img/back_index.svg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000557s ]
+ERR: 无法加载模块:Public
+
+[ 2016-12-16T12:39:34+08:00 ] ::1 /thinkphp/Public/img/fill_form.svg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000513s ]
+ERR: 无法加载模块:Public
+
+[ 2016-12-16T12:39:34+08:00 ] ::1 /thinkphp/Public/img/post_form.svg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000522s ]
+ERR: 无法加载模块:Public
+
+[ 2016-12-16T12:39:34+08:00 ] ::1 /thinkphp/Public/img/person.svg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000648s ]
+ERR: 无法加载模块:Public
+
+[ 2016-12-16T12:39:34+08:00 ] ::1 /thinkphp/Public/img/solve.svg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000420s ]
+ERR: 无法加载模块:Public
+
+[ 2016-12-16T12:39:34+08:00 ] ::1 /thinkphp/Public/img/smile.svg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000409s ]
+ERR: 无法加载模块:Public
+
+[ 2016-12-16T12:39:34+08:00 ] ::1 /thinkphp/Public/img/remain.svg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000469s ]
+ERR: 无法加载模块:Public
+
+[ 2016-12-16T12:39:34+08:00 ] ::1 /thinkphp/Public/img/pay.svg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000527s ]
+ERR: 无法加载模块:Public
+
+[ 2016-12-16T12:39:34+08:00 ] ::1 /thinkphp/Public/img/back_index.svg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000341s ]
+ERR: 无法加载模块:Public
+
+[ 2016-12-16T12:39:34+08:00 ] ::1 /thinkphp/Public/img/post_form.svg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000398s ]
+ERR: 无法加载模块:Public
+
+[ 2016-12-16T12:39:34+08:00 ] ::1 /thinkphp/Public/img/fill_form.svg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000418s ]
+ERR: 无法加载模块:Public
+
+[ 2016-12-16T12:39:36+08:00 ] ::1 /thinkphp/A/img/back_index.svg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000326s ]
+ERR: 无法加载模块:A
+
+[ 2016-12-16T12:39:36+08:00 ] ::1 /thinkphp/A/img/back_index.svg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000508s ]
+ERR: 无法加载模块:A
+
+[ 2016-12-16T12:53:50+08:00 ] ::1 /thinkphp/A/img/back_index.svg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000298s ]
+ERR: 无法加载模块:A
+
+[ 2016-12-16T12:53:50+08:00 ] ::1 /thinkphp/A/img/back_index.svg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000515s ]
+ERR: 无法加载模块:A
+
+[ 2016-12-16T12:54:08+08:00 ] ::1 /thinkphp/A/img/back_index.svg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000430s ]
+ERR: 无法加载模块:A
+
+[ 2016-12-16T12:54:08+08:00 ] ::1 /thinkphp/A/img/back_index.svg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000572s ]
+ERR: 无法加载模块:A
+
+[ 2016-12-16T12:54:14+08:00 ] ::1 /thinkphp/A/img/back_index.svg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000413s ]
+ERR: 无法加载模块:A
+
+[ 2016-12-16T12:54:14+08:00 ] ::1 /thinkphp/A/img/back_index.svg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000548s ]
+ERR: 无法加载模块:A
+
+[ 2016-12-16T12:55:26+08:00 ] ::1 /thinkphp/A/img/back_index.svg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000480s ]
+ERR: 无法加载模块:A
+
+[ 2016-12-16T12:55:26+08:00 ] ::1 /thinkphp/A/img/back_index.svg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000509s ]
+ERR: 无法加载模块:A
+
+[ 2016-12-16T12:55:41+08:00 ] ::1 /thinkphp/A/img/back_index.svg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000488s ]
+ERR: 无法加载模块:A
+
+[ 2016-12-16T12:55:41+08:00 ] ::1 /thinkphp/A/img/back_index.svg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000400s ]
+ERR: 无法加载模块:A
+
+[ 2016-12-16T12:56:33+08:00 ] ::1 /thinkphp/A/img/back_index.svg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000437s ]
+ERR: 无法加载模块:A
+
+[ 2016-12-16T12:56:33+08:00 ] ::1 /thinkphp/A/img/back_index.svg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000571s ]
+ERR: 无法加载模块:A
+
+[ 2016-12-16T12:56:34+08:00 ] ::1 /thinkphp/A/img/back_index.svg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000482s ]
+ERR: 无法加载模块:A
+
+[ 2016-12-16T12:56:34+08:00 ] ::1 /thinkphp/A/img/back_index.svg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000612s ]
+ERR: 无法加载模块:A
+
+[ 2016-12-16T13:06:07+08:00 ] ::1 /thinkphp/A/img/back_index.svg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000486s ]
+ERR: 无法加载模块:A
+
+[ 2016-12-16T13:06:07+08:00 ] ::1 /thinkphp/A/img/back_index.svg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000079s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000672s ]
+ERR: 无法加载模块:A
+
+[ 2016-12-16T13:07:31+08:00 ] ::1 /thinkphp/A/img/back_index.svg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000450s ]
+ERR: 无法加载模块:A
+
+[ 2016-12-16T14:41:27+08:00 ] ::1 /thinkphp/A/img/back_index.svg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000559s ]
+ERR: 无法加载模块:A
+
+[ 2016-12-16T14:41:27+08:00 ] ::1 /thinkphp/A/img/back_index.svg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000672s ]
+ERR: 无法加载模块:A
+
+[ 2016-12-16T14:41:27+08:00 ] ::1 /thinkphp/A/img/back_index.svg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000460s ]
+ERR: 无法加载模块:A
+
+[ 2016-12-16T14:41:27+08:00 ] ::1 /thinkphp/A/img/back_index.svg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000552s ]
+ERR: 无法加载模块:A
+

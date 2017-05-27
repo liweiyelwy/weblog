@@ -1,0 +1,1933 @@
+[ 2016-12-15T10:38:33+08:00 ] ::1 /thinkphp/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001229s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.012622s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.012721s ]
+SQL: show databases [ RunTime:0.0252s ]
+NOTIC: [8] Array to string conversion H:\xampp\htdocs\thinkphp\Application\Home\Controller\IndexController.class.php 第 10 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002556s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002691s ]
+
+[ 2016-12-15T10:38:57+08:00 ] ::1 /thinkphp/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000378s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000467s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000510s ]
+SQL: show databases [ RunTime:0.0141s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002604s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002856s ]
+
+[ 2016-12-15T10:52:39+08:00 ] ::1 /thinkphp/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000289s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000489s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000536s ]
+SQL: show databases [ RunTime:0.0106s ]
+NOTIC: [2] curl_errno(): 31 is not a valid cURL handle resource H:\xampp\htdocs\thinkphp\Application\Common\Common\function.php 第 17 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003144s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003991s ]
+
+[ 2016-12-15T10:53:10+08:00 ] ::1 /thinkphp/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000382s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000530s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000579s ]
+SQL: show databases [ RunTime:0.0106s ]
+NOTIC: [2] curl_errno(): 31 is not a valid cURL handle resource H:\xampp\htdocs\thinkphp\Application\Common\Common\function.php 第 17 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001489s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001812s ]
+
+[ 2016-12-15T10:54:17+08:00 ] ::1 /thinkphp/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000329s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000500s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000544s ]
+SQL: show databases [ RunTime:0.0108s ]
+NOTIC: [2] curl_errno(): 31 is not a valid cURL handle resource H:\xampp\htdocs\thinkphp\Application\Common\Common\function.php 第 17 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000778s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000850s ]
+
+[ 2016-12-15T11:00:34+08:00 ] ::1 /thinkphp/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000354s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000542s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000586s ]
+SQL: show databases [ RunTime:0.0148s ]
+NOTIC: [8] Use of undefined constant WXAPPID - assumed 'WXAPPID' H:\xampp\htdocs\thinkphp\Application\Common\Common\function.php 第 5 行.
+NOTIC: [8] Use of undefined constant WXAPPSECRET - assumed 'WXAPPSECRET' H:\xampp\htdocs\thinkphp\Application\Common\Common\function.php 第 6 行.
+NOTIC: [2] curl_errno(): 31 is not a valid cURL handle resource H:\xampp\htdocs\thinkphp\Application\Common\Common\function.php 第 17 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001409s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001523s ]
+
+[ 2016-12-15T12:01:16+08:00 ] ::1 /thinkphp/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000413s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000696s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000752s ]
+SQL: show databases [ RunTime:0.0112s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000587s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000628s ]
+
+[ 2016-12-15T12:02:04+08:00 ] ::1 /thinkphp/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000338s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000593s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000642s ]
+SQL: show databases [ RunTime:0.0128s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001397s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001481s ]
+
+[ 2016-12-15T12:03:02+08:00 ] ::1 /thinkphp/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000290s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000358s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000399s ]
+SQL: show databases [ RunTime:0.0129s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001383s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001556s ]
+
+[ 2016-12-15T12:03:52+08:00 ] ::1 /thinkphp/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000341s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000449s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000490s ]
+SQL: show databases [ RunTime:0.0135s ]
+NOTIC: [8] Use of undefined constant WX_APPID - assumed 'WX_APPID' H:\xampp\htdocs\thinkphp\Application\Home\Controller\IndexController.class.php 第 14 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001336s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001468s ]
+
+[ 2016-12-15T12:05:09+08:00 ] ::1 /thinkphp/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000363s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000458s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000501s ]
+SQL: show databases [ RunTime:0.0106s ]
+NOTIC: [8] Use of undefined constant WX_APPID - assumed 'WX_APPID' H:\xampp\htdocs\thinkphp\Application\Home\Controller\IndexController.class.php 第 14 行.
+NOTIC: [8] Use of undefined constant WX_APPID - assumed 'WX_APPID' H:\xampp\htdocs\thinkphp\Application\Home\Controller\IndexController.class.php 第 16 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000586s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000630s ]
+
+[ 2016-12-15T12:05:44+08:00 ] ::1 /thinkphp/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000423s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000612s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000673s ]
+SQL: show databases [ RunTime:0.0144s ]
+NOTIC: [8] Use of undefined constant WX_APPID - assumed 'WX_APPID' H:\xampp\htdocs\thinkphp\Application\Home\Controller\IndexController.class.php 第 14 行.
+NOTIC: [8] Use of undefined constant WX_APPID - assumed 'WX_APPID' H:\xampp\htdocs\thinkphp\Application\Home\Controller\IndexController.class.php 第 16 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001868s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001998s ]
+
+[ 2016-12-15T12:05:45+08:00 ] ::1 /thinkphp/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000331s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000492s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000536s ]
+SQL: show databases [ RunTime:0.0137s ]
+NOTIC: [8] Use of undefined constant WX_APPID - assumed 'WX_APPID' H:\xampp\htdocs\thinkphp\Application\Home\Controller\IndexController.class.php 第 14 行.
+NOTIC: [8] Use of undefined constant WX_APPID - assumed 'WX_APPID' H:\xampp\htdocs\thinkphp\Application\Home\Controller\IndexController.class.php 第 16 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001677s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001861s ]
+
+[ 2016-12-15T12:05:47+08:00 ] ::1 /thinkphp/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000339s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000556s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000606s ]
+SQL: show databases [ RunTime:0.0141s ]
+NOTIC: [8] Use of undefined constant WX_APPID - assumed 'WX_APPID' H:\xampp\htdocs\thinkphp\Application\Home\Controller\IndexController.class.php 第 14 行.
+NOTIC: [8] Use of undefined constant WX_APPID - assumed 'WX_APPID' H:\xampp\htdocs\thinkphp\Application\Home\Controller\IndexController.class.php 第 16 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001195s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001302s ]
+
+[ 2016-12-15T12:11:39+08:00 ] ::1 /thinkphp/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000288s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000387s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000423s ]
+SQL: show databases [ RunTime:0.0121s ]
+NOTIC: [8] Use of undefined constant WX_APPID - assumed 'WX_APPID' H:\xampp\htdocs\thinkphp\Application\Home\Controller\IndexController.class.php 第 14 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000646s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000692s ]
+
+[ 2016-12-15T12:12:27+08:00 ] ::1 /thinkphp/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000325s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000535s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000584s ]
+SQL: show databases [ RunTime:0.0142s ]
+NOTIC: [8] Use of undefined constant WX_APPID - assumed 'WX_APPID' H:\xampp\htdocs\thinkphp\Application\Home\Controller\IndexController.class.php 第 14 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001976s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002146s ]
+
+[ 2016-12-15T12:12:29+08:00 ] ::1 /thinkphp/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000263s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000635s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000685s ]
+SQL: show databases [ RunTime:0.0143s ]
+NOTIC: [8] Use of undefined constant WX_APPID - assumed 'WX_APPID' H:\xampp\htdocs\thinkphp\Application\Home\Controller\IndexController.class.php 第 14 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001970s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002165s ]
+
+[ 2016-12-15T12:14:23+08:00 ] ::1 /thinkphp/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000329s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000449s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000492s ]
+SQL: show databases [ RunTime:0.0146s ]
+NOTIC: [8] Use of undefined constant WX_APPID - assumed 'WX_APPID' H:\xampp\htdocs\thinkphp\Application\Common\Common\function.php 第 6 行.
+NOTIC: [8] Use of undefined constant WX_APPSECRET - assumed 'WX_APPSECRET' H:\xampp\htdocs\thinkphp\Application\Common\Common\function.php 第 7 行.
+NOTIC: [2] curl_errno(): 31 is not a valid cURL handle resource H:\xampp\htdocs\thinkphp\Application\Common\Common\function.php 第 18 行.
+NOTIC: [8] Use of undefined constant WX_APPID - assumed 'WX_APPID' H:\xampp\htdocs\thinkphp\Application\Home\Controller\IndexController.class.php 第 14 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001147s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001232s ]
+
+[ 2016-12-15T12:15:10+08:00 ] ::1 /thinkphp/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000276s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000511s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000562s ]
+SQL: show databases [ RunTime:0.0117s ]
+NOTIC: [2] curl_errno(): 31 is not a valid cURL handle resource H:\xampp\htdocs\thinkphp\Application\Common\Common\function.php 第 18 行.
+NOTIC: [8] Use of undefined constant WX_APPID - assumed 'WX_APPID' H:\xampp\htdocs\thinkphp\Application\Home\Controller\IndexController.class.php 第 14 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002528s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002722s ]
+
+[ 2016-12-15T14:15:28+08:00 ] ::1 /thinkphp/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000397s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000646s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000709s ]
+SQL: show databases [ RunTime:0.0145s ]
+INFO: [ view_parse ] --START--
+NOTIC: [2] filemtime(): stat failed for ./Application/Runtime/Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php H:\xampp\htdocs\thinkphp\ThinkPHP\Library\Vendor\Smarty\sysplugins\smarty_resource.php 第 683 行.
+NOTIC: [2] unlink(./Application/Runtime/Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php): No such file or directory H:\xampp\htdocs\thinkphp\ThinkPHP\Library\Vendor\Smarty\sysplugins\smarty_internal_write_file.php 第 49 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.281788s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.281850s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.004518s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004569s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000572s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000610s ]
+
+[ 2016-12-15T14:16:27+08:00 ] ::1 /thinkphp/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000329s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000908s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000975s ]
+SQL: show databases [ RunTime:0.0115s ]
+INFO: [ view_parse ] --START--
+ERR: Syntax Error in template "./Application/Home/View\Index\index.html"  on line 7 "&lt;link rel=&quot;stylesheet&quot; href=&quot;{__}weui-master/dist/style/weui.css&quot;&gt;" unknown tag "__"
+
+[ 2016-12-15T14:16:44+08:00 ] ::1 /thinkphp/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000294s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000432s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000475s ]
+SQL: show databases [ RunTime:0.0099s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.118909s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.119046s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001154s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001267s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001418s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001535s ]
+
+[ 2016-12-15T14:32:31+08:00 ] ::1 /thinkphp/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000451s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000595s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000651s ]
+SQL: show databases [ RunTime:0.0134s ]
+INFO: [ view_parse ] --START--
+ERR: Syntax Error in template "./Application/Home/View\Index\index.html"  on line 42 "{__DIR__}" unknown tag "__DIR__"
+
+[ 2016-12-15T14:32:54+08:00 ] ::1 /thinkphp/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000487s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000749s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000816s ]
+SQL: show databases [ RunTime:0.0139s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined index: __DIR__ H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 69 行.
+NOTIC: [8] Trying to get property of non-object H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 69 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.044365s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.044432s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000377s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000412s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000436s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000473s ]
+
+[ 2016-12-15T14:33:13+08:00 ] ::1 /thinkphp/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000325s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000784s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000859s ]
+SQL: show databases [ RunTime:0.0152s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.023828s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.023878s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000324s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000352s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000370s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000398s ]
+
+[ 2016-12-15T14:34:54+08:00 ] ::1 /thinkphp/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000309s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000451s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000498s ]
+SQL: show databases [ RunTime:0.0131s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined index: URL_ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 69 行.
+NOTIC: [8] Trying to get property of non-object H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 69 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.049155s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.049224s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000445s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000489s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000528s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000574s ]
+
+[ 2016-12-15T14:34:56+08:00 ] ::1 /thinkphp/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000284s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000432s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000474s ]
+SQL: show databases [ RunTime:0.0147s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined index: URL_ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 69 行.
+NOTIC: [8] Trying to get property of non-object H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 69 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009226s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009293s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000185s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000219s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000369s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000406s ]
+
+[ 2016-12-15T14:35:37+08:00 ] ::1 /thinkphp/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000327s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000538s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000585s ]
+SQL: show databases [ RunTime:0.0143s ]
+INFO: [ view_parse ] --START--
+ERR: Syntax Error in template "./Application/Home/View\Index\index.html"  on line 42 "{__CONTROLLER__}" unknown tag "__CONTROLLER__"
+
+[ 2016-12-15T14:35:56+08:00 ] ::1 /thinkphp/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000317s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000364s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000408s ]
+SQL: show databases [ RunTime:0.0160s ]
+INFO: [ view_parse ] --START--
+ERR: Syntax Error in template "./Application/Home/View\Index\index.html"  on line 42 "{__CONTROLLER}" unknown tag "__CONTROLLER"
+
+[ 2016-12-15T14:35:58+08:00 ] ::1 /thinkphp/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000314s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000408s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000458s ]
+SQL: show databases [ RunTime:0.0112s ]
+INFO: [ view_parse ] --START--
+ERR: Syntax Error in template "./Application/Home/View\Index\index.html"  on line 42 "{__CONTROLLER}" unknown tag "__CONTROLLER"
+
+[ 2016-12-15T14:36:16+08:00 ] ::1 /thinkphp/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000296s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000372s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000416s ]
+SQL: show databases [ RunTime:0.0124s ]
+INFO: [ view_parse ] --START--
+ERR: Syntax Error in template "./Application/Home/View\Index\index.html"  on line 42 "${__CONTRsOLLER__}" unknown tag "__CONTRsOLLER__"
+
+[ 2016-12-15T14:36:30+08:00 ] ::1 /thinkphp/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000297s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000364s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000405s ]
+SQL: show databases [ RunTime:0.0154s ]
+INFO: [ view_parse ] --START--
+ERR: Syntax Error in template "./Application/Home/View\Index\index.html"  on line 42 "{__CONTROLLER__}" unknown tag "__CONTROLLER__"
+
+[ 2016-12-15T14:36:44+08:00 ] ::1 /thinkphp/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000292s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000370s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000413s ]
+SQL: show databases [ RunTime:0.0114s ]
+INFO: [ view_parse ] --START--
+ERR: Syntax Error in template "./Application/Home/View\Index\index.html"  on line 42 "${__CONTROLLER__}" unknown tag "__CONTROLLER__"
+
+[ 2016-12-15T14:38:51+08:00 ] ::1 /thinkphp/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000343s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000540s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000590s ]
+SQL: show databases [ RunTime:0.0145s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.151537s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.151739s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001214s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001327s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001422s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001536s ]
+
+[ 2016-12-15T14:39:48+08:00 ] ::1 /thinkphp/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000339s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000563s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000621s ]
+SQL: show databases [ RunTime:0.0108s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.028657s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.028713s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000393s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000430s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000443s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000479s ]
+
+[ 2016-12-15T14:40:05+08:00 ] ::1 /thinkphp/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000292s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000433s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000477s ]
+SQL: show databases [ RunTime:0.0154s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.027257s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.027539s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000654s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000777s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001329s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001445s ]
+
+[ 2016-12-15T14:40:34+08:00 ] ::1 /thinkphp/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000325s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000511s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000562s ]
+SQL: show databases [ RunTime:0.0303s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 70 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.041012s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.041113s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000369s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000405s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000434s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000471s ]
+
+[ 2016-12-15T14:49:13+08:00 ] ::1 /thinkphp/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000335s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000465s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000510s ]
+SQL: show databases [ RunTime:0.0157s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 32 行.
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 71 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.048025s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.048110s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000307s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000335s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000355s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000384s ]
+
+[ 2016-12-15T14:57:39+08:00 ] ::1 /thinkphp/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000492s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000684s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000748s ]
+SQL: show databases [ RunTime:0.0134s ]
+INFO: [ view_parse ] --START--
+ERR: Syntax Error in template "./Application/Home/View\Index\index.html"  on line 44 "{URL}" unknown tag "URL"
+
+[ 2016-12-15T14:58:34+08:00 ] ::1 /thinkphp/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000334s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000454s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000497s ]
+SQL: show databases [ RunTime:0.0136s ]
+INFO: [ view_parse ] --START--
+ERR: Syntax Error in template "./Application/Home/View\Index\index.html"  on line 44 "{URL}" unknown tag "URL"
+
+[ 2016-12-15T14:58:43+08:00 ] ::1 /thinkphp/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000374s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000503s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000553s ]
+SQL: show databases [ RunTime:0.0130s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 32 行.
+NOTIC: [8] Undefined index: URL H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 71 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.062120s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.062225s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000468s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000508s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000533s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000574s ]
+
+[ 2016-12-15T15:00:37+08:00 ] ::1 /thinkphp/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000341s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000716s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000780s ]
+SQL: show databases [ RunTime:0.0111s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 32 行.
+NOTIC: [8] Undefined index: J H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 71 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.029101s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.029151s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000459s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000499s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000480s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000518s ]
+
+[ 2016-12-15T15:01:07+08:00 ] ::1 /thinkphp/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000717s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000518s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000568s ]
+SQL: show databases [ RunTime:0.0143s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 32 行.
+NOTIC: [8] Undefined index: J H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 71 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.044112s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.044211s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000449s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000493s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000534s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000579s ]
+
+[ 2016-12-15T15:01:09+08:00 ] ::1 /thinkphp/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000297s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000405s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000447s ]
+SQL: show databases [ RunTime:0.0135s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 32 行.
+NOTIC: [8] Undefined index: J H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 71 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.025808s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.025987s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002122s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002685s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000930s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001041s ]
+
+[ 2016-12-15T15:32:16+08:00 ] ::1 /thinkphp/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000406s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000532s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000588s ]
+SQL: show databases [ RunTime:0.0103s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 23 行.
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 126 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.029751s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.029813s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000324s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000354s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000403s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000434s ]
+
+[ 2016-12-15T15:37:29+08:00 ] ::1 /thinkphp/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000395s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000624s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000669s ]
+SQL: show databases [ RunTime:0.0140s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 68 行.
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 77 行.
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 86 行.
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 98 行.
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 107 行.
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 116 行.
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 131 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.077630s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.077721s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000450s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000489s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000499s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000541s ]
+
+[ 2016-12-15T16:32:11+08:00 ] ::1 /thinkphp/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000351s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000538s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000596s ]
+SQL: show databases [ RunTime:0.0142s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 68 行.
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 77 行.
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 86 行.
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 98 行.
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 107 行.
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 116 行.
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 131 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.058357s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.058399s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000358s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000387s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000421s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000452s ]
+
+[ 2016-12-15T16:32:39+08:00 ] ::1 /thinkphp/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000446s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000473s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000516s ]
+SQL: show databases [ RunTime:0.0147s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 68 行.
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 77 行.
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 86 行.
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 98 行.
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 107 行.
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 116 行.
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 131 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.067826s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.067912s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000331s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000361s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000424s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000456s ]
+
+[ 2016-12-15T16:32:53+08:00 ] ::1 /thinkphp/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000324s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000666s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000715s ]
+SQL: show databases [ RunTime:0.0113s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 68 行.
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 77 行.
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 86 行.
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 98 行.
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 107 行.
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 116 行.
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 131 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.071861s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.071967s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000346s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000377s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000383s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000414s ]
+
+[ 2016-12-15T16:33:21+08:00 ] ::1 /thinkphp/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000407s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000859s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000949s ]
+SQL: show databases [ RunTime:0.0166s ]
+INFO: [ view_parse ] --START--
+ERR: Syntax Error in template "./Application/Home/View\Index\index.html"  on line 61 "&lt;a href=&quot;{__controller__}/process&quot; class=&quot;weui_grid js_grid&quot; data-id=&quot;test&quot;&gt;" unknown tag "__controller__"
+
+[ 2016-12-15T16:35:40+08:00 ] ::1 /thinkphp/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000480s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001003s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001077s ]
+SQL: show databases [ RunTime:0.0149s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 68 行.
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 77 行.
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 84 行.
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 87 行.
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 99 行.
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 108 行.
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 117 行.
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 132 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.033037s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.033079s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000329s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000358s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000361s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000391s ]
+
+[ 2016-12-15T16:35:46+08:00 ] ::1 /thinkphp/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000340s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000630s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000683s ]
+SQL: show databases [ RunTime:0.0139s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 68 行.
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 77 行.
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 84 行.
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 87 行.
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 99 行.
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 108 行.
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 117 行.
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 132 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007714s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007758s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000274s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000307s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000478s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000515s ]
+
+[ 2016-12-15T16:35:48+08:00 ] ::1 /thinkphp/index.php/Home/Index/process
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000342s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000560s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000613s ]
+INFO: [ view_parse ] --START--
+NOTIC: [2] filemtime(): stat failed for ./Application/Runtime/Cache\5705d7e1ca1f6cc6347485d7eed45d4fc8cf4606.file.process.html.php H:\xampp\htdocs\thinkphp\ThinkPHP\Library\Vendor\Smarty\sysplugins\smarty_resource.php 第 683 行.
+NOTIC: [2] unlink(./Application/Runtime/Cache\5705d7e1ca1f6cc6347485d7eed45d4fc8cf4606.file.process.html.php): No such file or directory H:\xampp\htdocs\thinkphp\ThinkPHP\Library\Vendor\Smarty\sysplugins\smarty_internal_write_file.php 第 49 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.030810s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.030856s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000326s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000355s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000392s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000422s ]
+
+[ 2016-12-15T16:38:13+08:00 ] ::1 /thinkphp/index.php/Home/Index/process
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000370s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000752s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000817s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\5705d7e1ca1f6cc6347485d7eed45d4fc8cf4606.file.process.html.php 第 52 行.
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\5705d7e1ca1f6cc6347485d7eed45d4fc8cf4606.file.process.html.php 第 70 行.
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\5705d7e1ca1f6cc6347485d7eed45d4fc8cf4606.file.process.html.php 第 80 行.
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\5705d7e1ca1f6cc6347485d7eed45d4fc8cf4606.file.process.html.php 第 90 行.
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\5705d7e1ca1f6cc6347485d7eed45d4fc8cf4606.file.process.html.php 第 100 行.
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\5705d7e1ca1f6cc6347485d7eed45d4fc8cf4606.file.process.html.php 第 110 行.
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\5705d7e1ca1f6cc6347485d7eed45d4fc8cf4606.file.process.html.php 第 120 行.
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\5705d7e1ca1f6cc6347485d7eed45d4fc8cf4606.file.process.html.php 第 130 行.
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\5705d7e1ca1f6cc6347485d7eed45d4fc8cf4606.file.process.html.php 第 143 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.044731s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.044777s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000443s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000477s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000444s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000480s ]
+
+[ 2016-12-15T16:43:36+08:00 ] ::1 /thinkphp/index.php/Home/Index/index.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000447s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000669s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000772s ]
+ERR: 非法操作:index.js.map
+
+[ 2016-12-15T16:43:47+08:00 ] ::1 /thinkphp/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000285s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000452s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000494s ]
+SQL: show databases [ RunTime:0.0122s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 68 行.
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 77 行.
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 84 行.
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 87 行.
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 99 行.
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 108 行.
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 117 行.
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 132 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008065s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000268s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000301s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000436s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000474s ]
+
+[ 2016-12-15T16:44:42+08:00 ] ::1 /thinkphp/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000474s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000606s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000666s ]
+SQL: show databases [ RunTime:0.0146s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 68 行.
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 77 行.
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 84 行.
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 87 行.
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 99 行.
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 108 行.
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 117 行.
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 132 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.034513s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.034561s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000399s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000433s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000489s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000539s ]
+
+[ 2016-12-15T16:45:28+08:00 ] ::1 /thinkphp/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000326s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000452s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000494s ]
+SQL: show databases [ RunTime:0.0136s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 68 行.
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 77 行.
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 84 行.
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 87 行.
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 99 行.
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 106 行.
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 109 行.
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 118 行.
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 133 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.066655s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.066706s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000695s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000744s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000614s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000663s ]
+
+[ 2016-12-15T16:45:31+08:00 ] ::1 /thinkphp/index.php/Home/Index/helper
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000319s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000874s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000961s ]
+INFO: [ view_parse ] --START--
+NOTIC: [2] filemtime(): stat failed for ./Application/Runtime/Cache\e4bea6f43245a47c3d7c2012bf862421df488aec.file.helper.html.php H:\xampp\htdocs\thinkphp\ThinkPHP\Library\Vendor\Smarty\sysplugins\smarty_resource.php 第 683 行.
+NOTIC: [2] unlink(./Application/Runtime/Cache\e4bea6f43245a47c3d7c2012bf862421df488aec.file.helper.html.php): No such file or directory H:\xampp\htdocs\thinkphp\ThinkPHP\Library\Vendor\Smarty\sysplugins\smarty_internal_write_file.php 第 49 行.
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\e4bea6f43245a47c3d7c2012bf862421df488aec.file.helper.html.php 第 198 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.041219s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.041268s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000306s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000334s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000430s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000466s ]
+
+[ 2016-12-15T16:46:27+08:00 ] ::1 /thinkphp/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000437s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000472s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000515s ]
+SQL: show databases [ RunTime:0.0116s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 68 行.
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 77 行.
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 84 行.
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 87 行.
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 99 行.
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 106 行.
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 109 行.
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 118 行.
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 133 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.018589s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018686s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000605s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000684s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001343s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001435s ]
+
+[ 2016-12-15T16:46:30+08:00 ] ::1 /thinkphp/index.php/Home/Index/helper
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000390s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000464s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000511s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\e4bea6f43245a47c3d7c2012bf862421df488aec.file.helper.html.php 第 56 行.
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\e4bea6f43245a47c3d7c2012bf862421df488aec.file.helper.html.php 第 199 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.038086s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.038130s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000390s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000422s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000441s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000479s ]
+
+[ 2016-12-15T16:46:30+08:00 ] ::1 /thinkphp/index.php/Home/Index/=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000341s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000681s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000767s ]
+ERR: 非法操作:=
+
+[ 2016-12-15T16:46:34+08:00 ] ::1 /thinkphp/index.php/Home/Index/=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000271s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000587s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000667s ]
+ERR: 非法操作:=
+
+[ 2016-12-15T16:47:01+08:00 ] ::1 /thinkphp/index.php/Home/Index/helper
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000316s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000496s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000560s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\e4bea6f43245a47c3d7c2012bf862421df488aec.file.helper.html.php 第 56 行.
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\e4bea6f43245a47c3d7c2012bf862421df488aec.file.helper.html.php 第 199 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.041099s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.041161s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000447s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000483s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000462s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000505s ]
+
+[ 2016-12-15T16:52:49+08:00 ] ::1 /thinkphp/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000372s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000533s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000577s ]
+SQL: show databases [ RunTime:0.0148s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 68 行.
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 77 行.
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 84 行.
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 87 行.
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 99 行.
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 106 行.
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 109 行.
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 118 行.
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 133 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012086s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012145s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000370s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000405s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000562s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000599s ]
+
+[ 2016-12-15T16:53:37+08:00 ] ::1 /thinkphp/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000325s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000678s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000738s ]
+SQL: show databases [ RunTime:0.0108s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 68 行.
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 77 行.
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 84 行.
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 87 行.
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 99 行.
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 106 行.
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 109 行.
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 116 行.
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 119 行.
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 134 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.081548s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.081661s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000377s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000412s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000428s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000464s ]
+
+[ 2016-12-15T16:53:41+08:00 ] ::1 /thinkphp/index.php/Home/Index/joinus
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000336s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000446s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000494s ]
+INFO: [ view_parse ] --START--
+NOTIC: [2] filemtime(): stat failed for ./Application/Runtime/Cache\9a6aa434328ce3916a0d214cfcaacda5eb25f2c7.file.joinus.html.php H:\xampp\htdocs\thinkphp\ThinkPHP\Library\Vendor\Smarty\sysplugins\smarty_resource.php 第 683 行.
+NOTIC: [2] unlink(./Application/Runtime/Cache\9a6aa434328ce3916a0d214cfcaacda5eb25f2c7.file.joinus.html.php): No such file or directory H:\xampp\htdocs\thinkphp\ThinkPHP\Library\Vendor\Smarty\sysplugins\smarty_internal_write_file.php 第 49 行.
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\9a6aa434328ce3916a0d214cfcaacda5eb25f2c7.file.joinus.html.php 第 56 行.
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\9a6aa434328ce3916a0d214cfcaacda5eb25f2c7.file.joinus.html.php 第 104 行.
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\9a6aa434328ce3916a0d214cfcaacda5eb25f2c7.file.joinus.html.php 第 111 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.029315s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.029360s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000351s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000382s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000396s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000428s ]
+
+[ 2016-12-15T16:53:48+08:00 ] ::1 /thinkphp/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000327s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000511s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000576s ]
+SQL: show databases [ RunTime:0.0137s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 68 行.
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 77 行.
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 84 行.
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 87 行.
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 99 行.
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 106 行.
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 109 行.
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 116 行.
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 119 行.
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 134 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.025050s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.025156s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001020s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001124s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001669s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001767s ]
+
+[ 2016-12-15T16:53:50+08:00 ] ::1 /thinkphp/index.php/Home/Index/helper
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000105s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000553s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000485s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000535s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\e4bea6f43245a47c3d7c2012bf862421df488aec.file.helper.html.php 第 56 行.
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\e4bea6f43245a47c3d7c2012bf862421df488aec.file.helper.html.php 第 199 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007775s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007821s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000272s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000306s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000485s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000531s ]
+
+[ 2016-12-15T16:53:54+08:00 ] ::1 /thinkphp/index.php/Home/Index/process
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000292s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000383s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000429s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\5705d7e1ca1f6cc6347485d7eed45d4fc8cf4606.file.process.html.php 第 52 行.
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\5705d7e1ca1f6cc6347485d7eed45d4fc8cf4606.file.process.html.php 第 70 行.
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\5705d7e1ca1f6cc6347485d7eed45d4fc8cf4606.file.process.html.php 第 80 行.
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\5705d7e1ca1f6cc6347485d7eed45d4fc8cf4606.file.process.html.php 第 90 行.
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\5705d7e1ca1f6cc6347485d7eed45d4fc8cf4606.file.process.html.php 第 100 行.
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\5705d7e1ca1f6cc6347485d7eed45d4fc8cf4606.file.process.html.php 第 110 行.
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\5705d7e1ca1f6cc6347485d7eed45d4fc8cf4606.file.process.html.php 第 120 行.
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\5705d7e1ca1f6cc6347485d7eed45d4fc8cf4606.file.process.html.php 第 130 行.
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\5705d7e1ca1f6cc6347485d7eed45d4fc8cf4606.file.process.html.php 第 143 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007069s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007113s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000186s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000223s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000427s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000470s ]
+
+[ 2016-12-15T16:53:56+08:00 ] ::1 /thinkphp/index.php/Home/Index/joinus
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000340s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000387s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000432s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\9a6aa434328ce3916a0d214cfcaacda5eb25f2c7.file.joinus.html.php 第 56 行.
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\9a6aa434328ce3916a0d214cfcaacda5eb25f2c7.file.joinus.html.php 第 104 行.
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\9a6aa434328ce3916a0d214cfcaacda5eb25f2c7.file.joinus.html.php 第 111 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006680s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006723s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000185s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000217s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000372s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000407s ]
+
+[ 2016-12-15T16:53:58+08:00 ] ::1 /thinkphp/index.php/Home/Index/helper
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000282s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000360s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000402s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\e4bea6f43245a47c3d7c2012bf862421df488aec.file.helper.html.php 第 56 行.
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\e4bea6f43245a47c3d7c2012bf862421df488aec.file.helper.html.php 第 199 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006235s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006276s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000179s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000207s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000356s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000396s ]
+
+[ 2016-12-15T16:54:19+08:00 ] ::1 /thinkphp/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000363s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000555s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000598s ]
+SQL: show databases [ RunTime:0.0172s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 68 行.
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 77 行.
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 84 行.
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 87 行.
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 99 行.
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 106 行.
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 109 行.
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 116 行.
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 119 行.
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 134 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013437s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013499s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000424s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000469s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000588s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000641s ]
+
+[ 2016-12-15T16:54:20+08:00 ] ::1 /thinkphp/index.php/Home/Index/helper
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000404s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000781s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000866s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\e4bea6f43245a47c3d7c2012bf862421df488aec.file.helper.html.php 第 56 行.
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\e4bea6f43245a47c3d7c2012bf862421df488aec.file.helper.html.php 第 199 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017026s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.039217s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001329s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001403s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001115s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001211s ]
+
+[ 2016-12-15T16:54:22+08:00 ] ::1 /thinkphp/index.php/Home/Index/joinus
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000354s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000767s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000845s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\9a6aa434328ce3916a0d214cfcaacda5eb25f2c7.file.joinus.html.php 第 56 行.
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\9a6aa434328ce3916a0d214cfcaacda5eb25f2c7.file.joinus.html.php 第 104 行.
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\9a6aa434328ce3916a0d214cfcaacda5eb25f2c7.file.joinus.html.php 第 111 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010047s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010112s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000326s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000358s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000460s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000494s ]
+
+[ 2016-12-15T16:54:26+08:00 ] ::1 /thinkphp/index.php/Home/Index/process
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000339s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000493s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000539s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\5705d7e1ca1f6cc6347485d7eed45d4fc8cf4606.file.process.html.php 第 52 行.
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\5705d7e1ca1f6cc6347485d7eed45d4fc8cf4606.file.process.html.php 第 70 行.
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\5705d7e1ca1f6cc6347485d7eed45d4fc8cf4606.file.process.html.php 第 80 行.
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\5705d7e1ca1f6cc6347485d7eed45d4fc8cf4606.file.process.html.php 第 90 行.
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\5705d7e1ca1f6cc6347485d7eed45d4fc8cf4606.file.process.html.php 第 100 行.
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\5705d7e1ca1f6cc6347485d7eed45d4fc8cf4606.file.process.html.php 第 110 行.
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\5705d7e1ca1f6cc6347485d7eed45d4fc8cf4606.file.process.html.php 第 120 行.
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\5705d7e1ca1f6cc6347485d7eed45d4fc8cf4606.file.process.html.php 第 130 行.
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\5705d7e1ca1f6cc6347485d7eed45d4fc8cf4606.file.process.html.php 第 143 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009849s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009894s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000343s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000380s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000482s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000517s ]
+
+[ 2016-12-15T16:54:37+08:00 ] ::1 /thinkphp/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000325s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000429s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000472s ]
+SQL: show databases [ RunTime:0.0103s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 68 行.
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 77 行.
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 84 行.
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 87 行.
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 99 行.
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 106 行.
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 109 行.
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 116 行.
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 119 行.
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 134 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007883s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007928s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000183s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000215s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000400s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000451s ]
+
+[ 2016-12-15T16:55:05+08:00 ] ::1 /thinkphp/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000335s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000479s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000522s ]
+SQL: show databases [ RunTime:0.0143s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 68 行.
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 77 行.
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 84 行.
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 87 行.
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 99 行.
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 106 行.
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 109 行.
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 116 行.
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 119 行.
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 134 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007340s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007386s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000281s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000314s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000484s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000521s ]
+
+[ 2016-12-15T16:55:07+08:00 ] ::1 /thinkphp/index.php/Home/Index/helper
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000310s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000475s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000516s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\e4bea6f43245a47c3d7c2012bf862421df488aec.file.helper.html.php 第 56 行.
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\e4bea6f43245a47c3d7c2012bf862421df488aec.file.helper.html.php 第 199 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008330s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008369s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000295s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000325s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000742s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000805s ]
+
+[ 2016-12-15T16:55:09+08:00 ] ::1 /thinkphp/index.php/Home/Index/joinus
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000337s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000519s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000563s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\9a6aa434328ce3916a0d214cfcaacda5eb25f2c7.file.joinus.html.php 第 56 行.
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\9a6aa434328ce3916a0d214cfcaacda5eb25f2c7.file.joinus.html.php 第 104 行.
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\9a6aa434328ce3916a0d214cfcaacda5eb25f2c7.file.joinus.html.php 第 111 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010173s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010221s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000391s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000432s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000608s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000653s ]
+
+[ 2016-12-15T16:55:17+08:00 ] ::1 /thinkphp/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000390s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000622s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000712s ]
+SQL: show databases [ RunTime:0.0108s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 68 行.
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 77 行.
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 84 行.
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 87 行.
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 99 行.
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 106 行.
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 109 行.
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 116 行.
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 119 行.
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 134 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017367s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017455s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000625s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000699s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001619s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001732s ]
+
+[ 2016-12-15T16:56:12+08:00 ] ::1 /thinkphp/index.php/Home/Index/helper
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000370s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000499s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000557s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\e4bea6f43245a47c3d7c2012bf862421df488aec.file.helper.html.php 第 56 行.
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\e4bea6f43245a47c3d7c2012bf862421df488aec.file.helper.html.php 第 199 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007458s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007504s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000272s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000304s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000594s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000657s ]
+
+[ 2016-12-15T16:56:39+08:00 ] ::1 /thinkphp/index.php/Home/Index/joinus
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000306s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000385s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000434s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\9a6aa434328ce3916a0d214cfcaacda5eb25f2c7.file.joinus.html.php 第 56 行.
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\9a6aa434328ce3916a0d214cfcaacda5eb25f2c7.file.joinus.html.php 第 104 行.
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\9a6aa434328ce3916a0d214cfcaacda5eb25f2c7.file.joinus.html.php 第 111 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006825s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006871s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000185s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000219s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000362s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000397s ]
+
+[ 2016-12-15T17:10:26+08:00 ] ::1 /thinkphp/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000317s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000412s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000452s ]
+SQL: show databases [ RunTime:0.0127s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 68 行.
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 77 行.
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 84 行.
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 87 行.
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 99 行.
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 106 行.
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 109 行.
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 116 行.
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 119 行.
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 134 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.081264s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.081365s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001047s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001154s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001511s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001630s ]
+
+[ 2016-12-15T17:10:30+08:00 ] ::1 /thinkphp/index.php/Home/Index/helper
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000431s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000674s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000744s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\e4bea6f43245a47c3d7c2012bf862421df488aec.file.helper.html.php 第 56 行.
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\e4bea6f43245a47c3d7c2012bf862421df488aec.file.helper.html.php 第 199 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.052127s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.052183s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000354s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000386s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000541s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000632s ]
+
+[ 2016-12-15T17:10:34+08:00 ] ::1 /thinkphp/index.php/Home/Index/joinus
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000252s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000653s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000704s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\9a6aa434328ce3916a0d214cfcaacda5eb25f2c7.file.joinus.html.php 第 56 行.
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\9a6aa434328ce3916a0d214cfcaacda5eb25f2c7.file.joinus.html.php 第 104 行.
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\9a6aa434328ce3916a0d214cfcaacda5eb25f2c7.file.joinus.html.php 第 111 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.032673s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.032720s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000323s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000359s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000369s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000407s ]
+
+[ 2016-12-15T17:10:39+08:00 ] ::1 /thinkphp/index.php/Home/Index/process
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000286s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000479s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000531s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\5705d7e1ca1f6cc6347485d7eed45d4fc8cf4606.file.process.html.php 第 52 行.
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\5705d7e1ca1f6cc6347485d7eed45d4fc8cf4606.file.process.html.php 第 70 行.
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\5705d7e1ca1f6cc6347485d7eed45d4fc8cf4606.file.process.html.php 第 80 行.
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\5705d7e1ca1f6cc6347485d7eed45d4fc8cf4606.file.process.html.php 第 90 行.
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\5705d7e1ca1f6cc6347485d7eed45d4fc8cf4606.file.process.html.php 第 100 行.
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\5705d7e1ca1f6cc6347485d7eed45d4fc8cf4606.file.process.html.php 第 110 行.
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\5705d7e1ca1f6cc6347485d7eed45d4fc8cf4606.file.process.html.php 第 120 行.
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\5705d7e1ca1f6cc6347485d7eed45d4fc8cf4606.file.process.html.php 第 130 行.
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\5705d7e1ca1f6cc6347485d7eed45d4fc8cf4606.file.process.html.php 第 143 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007640s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007702s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000311s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000355s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000421s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000457s ]
+
+[ 2016-12-15T17:11:26+08:00 ] ::1 /thinkphp/index.php/Home/Index/process
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000349s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000401s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000442s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\5705d7e1ca1f6cc6347485d7eed45d4fc8cf4606.file.process.html.php 第 52 行.
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\5705d7e1ca1f6cc6347485d7eed45d4fc8cf4606.file.process.html.php 第 70 行.
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\5705d7e1ca1f6cc6347485d7eed45d4fc8cf4606.file.process.html.php 第 80 行.
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\5705d7e1ca1f6cc6347485d7eed45d4fc8cf4606.file.process.html.php 第 90 行.
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\5705d7e1ca1f6cc6347485d7eed45d4fc8cf4606.file.process.html.php 第 100 行.
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\5705d7e1ca1f6cc6347485d7eed45d4fc8cf4606.file.process.html.php 第 110 行.
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\5705d7e1ca1f6cc6347485d7eed45d4fc8cf4606.file.process.html.php 第 120 行.
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\5705d7e1ca1f6cc6347485d7eed45d4fc8cf4606.file.process.html.php 第 130 行.
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\5705d7e1ca1f6cc6347485d7eed45d4fc8cf4606.file.process.html.php 第 143 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007190s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007243s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000349s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000389s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000406s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000437s ]
+
+[ 2016-12-15T17:11:32+08:00 ] ::1 /thinkphp/index.php/Home/Index/joinus
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000304s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000560s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000613s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\9a6aa434328ce3916a0d214cfcaacda5eb25f2c7.file.joinus.html.php 第 56 行.
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\9a6aa434328ce3916a0d214cfcaacda5eb25f2c7.file.joinus.html.php 第 104 行.
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\9a6aa434328ce3916a0d214cfcaacda5eb25f2c7.file.joinus.html.php 第 111 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006358s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006393s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000224s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000260s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000361s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000389s ]
+
+[ 2016-12-15T17:15:48+08:00 ] ::1 /thinkphp/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000365s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000530s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000597s ]
+SQL: show databases [ RunTime:0.0110s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 68 行.
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 77 行.
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 84 行.
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 87 行.
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 99 行.
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 106 行.
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 109 行.
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 116 行.
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 119 行.
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 134 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009581s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009622s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000276s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000306s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000418s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000451s ]
+
+[ 2016-12-15T17:20:47+08:00 ] ::1 /thinkphp/index.php/Home/Index/helper
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000365s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000478s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000527s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\e4bea6f43245a47c3d7c2012bf862421df488aec.file.helper.html.php 第 56 行.
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\e4bea6f43245a47c3d7c2012bf862421df488aec.file.helper.html.php 第 199 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006795s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006835s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000237s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000272s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000412s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000458s ]
+
+[ 2016-12-15T17:49:31+08:00 ] ::1 /thinkphp/index.php/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000393s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000476s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000534s ]
+SQL: show databases [ RunTime:0.0100s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 68 行.
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 77 行.
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 84 行.
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 87 行.
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 99 行.
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 106 行.
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 109 行.
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 116 行.
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 119 行.
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 134 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009489s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009545s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000409s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000461s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000620s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000673s ]
+
+[ 2016-12-15T17:49:34+08:00 ] ::1 /thinkphp/index.php/Home/Index/joinus
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000374s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000397s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000444s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\9a6aa434328ce3916a0d214cfcaacda5eb25f2c7.file.joinus.html.php 第 56 行.
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\9a6aa434328ce3916a0d214cfcaacda5eb25f2c7.file.joinus.html.php 第 104 行.
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\9a6aa434328ce3916a0d214cfcaacda5eb25f2c7.file.joinus.html.php 第 111 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006602s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006639s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000168s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000194s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000341s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000392s ]
+
+[ 2016-12-15T17:49:38+08:00 ] ::1 /thinkphp/index.php/Home/Index/process
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000311s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000372s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000414s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\5705d7e1ca1f6cc6347485d7eed45d4fc8cf4606.file.process.html.php 第 52 行.
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\5705d7e1ca1f6cc6347485d7eed45d4fc8cf4606.file.process.html.php 第 70 行.
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\5705d7e1ca1f6cc6347485d7eed45d4fc8cf4606.file.process.html.php 第 80 行.
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\5705d7e1ca1f6cc6347485d7eed45d4fc8cf4606.file.process.html.php 第 90 行.
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\5705d7e1ca1f6cc6347485d7eed45d4fc8cf4606.file.process.html.php 第 100 行.
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\5705d7e1ca1f6cc6347485d7eed45d4fc8cf4606.file.process.html.php 第 110 行.
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\5705d7e1ca1f6cc6347485d7eed45d4fc8cf4606.file.process.html.php 第 120 行.
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\5705d7e1ca1f6cc6347485d7eed45d4fc8cf4606.file.process.html.php 第 130 行.
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\5705d7e1ca1f6cc6347485d7eed45d4fc8cf4606.file.process.html.php 第 143 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006975s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007020s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000202s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000234s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000429s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000469s ]
+
+[ 2016-12-15T17:49:43+08:00 ] ::1 /thinkphp/index.php/Home/Index/helper
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000326s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000601s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000646s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\e4bea6f43245a47c3d7c2012bf862421df488aec.file.helper.html.php 第 56 行.
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\e4bea6f43245a47c3d7c2012bf862421df488aec.file.helper.html.php 第 199 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.045959s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.046002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000391s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000423s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000477s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000525s ]
+
+[ 2016-12-15T17:49:45+08:00 ] ::1 /thinkphp/index.php/Home/Index/process
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000355s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000735s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000822s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\5705d7e1ca1f6cc6347485d7eed45d4fc8cf4606.file.process.html.php 第 52 行.
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\5705d7e1ca1f6cc6347485d7eed45d4fc8cf4606.file.process.html.php 第 70 行.
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\5705d7e1ca1f6cc6347485d7eed45d4fc8cf4606.file.process.html.php 第 80 行.
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\5705d7e1ca1f6cc6347485d7eed45d4fc8cf4606.file.process.html.php 第 90 行.
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\5705d7e1ca1f6cc6347485d7eed45d4fc8cf4606.file.process.html.php 第 100 行.
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\5705d7e1ca1f6cc6347485d7eed45d4fc8cf4606.file.process.html.php 第 110 行.
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\5705d7e1ca1f6cc6347485d7eed45d4fc8cf4606.file.process.html.php 第 120 行.
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\5705d7e1ca1f6cc6347485d7eed45d4fc8cf4606.file.process.html.php 第 130 行.
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\5705d7e1ca1f6cc6347485d7eed45d4fc8cf4606.file.process.html.php 第 143 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007280s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007321s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000173s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000210s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000334s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000364s ]
+
+[ 2016-12-15T17:49:47+08:00 ] ::1 /thinkphp/index.php/Home/Index/joinus
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000291s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000370s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000414s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\9a6aa434328ce3916a0d214cfcaacda5eb25f2c7.file.joinus.html.php 第 56 行.
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\9a6aa434328ce3916a0d214cfcaacda5eb25f2c7.file.joinus.html.php 第 104 行.
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\9a6aa434328ce3916a0d214cfcaacda5eb25f2c7.file.joinus.html.php 第 111 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007648s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007693s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000208s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000242s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000399s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000443s ]
+
+[ 2016-12-15T18:35:14+08:00 ] ::1 /thinkphp/index.php/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000343s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000523s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000564s ]
+SQL: show databases [ RunTime:0.0172s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 68 行.
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 77 行.
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 84 行.
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 87 行.
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 99 行.
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 106 行.
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 109 行.
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 116 行.
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 119 行.
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\8378b70862d866fede2c1372bd9cfe4821690da8.file.index.html.php 第 134 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.026412s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.026520s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001056s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001144s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001504s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001598s ]
+
+[ 2016-12-15T18:35:25+08:00 ] ::1 /thinkphp/index.php/Home/Index/helper
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000271s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000384s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000420s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\e4bea6f43245a47c3d7c2012bf862421df488aec.file.helper.html.php 第 56 行.
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\e4bea6f43245a47c3d7c2012bf862421df488aec.file.helper.html.php 第 199 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007139s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007189s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000333s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000374s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000549s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000614s ]
+
+[ 2016-12-15T18:35:31+08:00 ] ::1 /thinkphp/index.php/Home/Index/joinus
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000298s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000397s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000452s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\9a6aa434328ce3916a0d214cfcaacda5eb25f2c7.file.joinus.html.php 第 56 行.
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\9a6aa434328ce3916a0d214cfcaacda5eb25f2c7.file.joinus.html.php 第 104 行.
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\9a6aa434328ce3916a0d214cfcaacda5eb25f2c7.file.joinus.html.php 第 111 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006732s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006775s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000190s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000222s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000377s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000413s ]
+
+[ 2016-12-15T18:35:44+08:00 ] ::1 /thinkphp/index.php/Home/Index/process
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000394s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000587s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000633s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\5705d7e1ca1f6cc6347485d7eed45d4fc8cf4606.file.process.html.php 第 52 行.
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\5705d7e1ca1f6cc6347485d7eed45d4fc8cf4606.file.process.html.php 第 70 行.
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\5705d7e1ca1f6cc6347485d7eed45d4fc8cf4606.file.process.html.php 第 80 行.
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\5705d7e1ca1f6cc6347485d7eed45d4fc8cf4606.file.process.html.php 第 90 行.
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\5705d7e1ca1f6cc6347485d7eed45d4fc8cf4606.file.process.html.php 第 100 行.
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\5705d7e1ca1f6cc6347485d7eed45d4fc8cf4606.file.process.html.php 第 110 行.
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\5705d7e1ca1f6cc6347485d7eed45d4fc8cf4606.file.process.html.php 第 120 行.
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\5705d7e1ca1f6cc6347485d7eed45d4fc8cf4606.file.process.html.php 第 130 行.
+NOTIC: [8] Undefined index: ROOT H:\xampp\htdocs\thinkphp\Application\Runtime\Cache\5705d7e1ca1f6cc6347485d7eed45d4fc8cf4606.file.process.html.php 第 143 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008428s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008490s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000347s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000388s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000487s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000517s ]
+

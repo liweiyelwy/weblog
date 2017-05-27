@@ -1,0 +1,306 @@
+[ 2017-04-17T14:30:30+08:00 ] ::1 /weblog/Public/Images/login-bg-1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000374s ]
+ERR: 无法加载模块:Public
+
+[ 2017-04-17T14:31:09+08:00 ] ::1 /weblog/Public/Images/login-bg-1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000282s ]
+ERR: 无法加载模块:Public
+
+[ 2017-04-17T14:31:30+08:00 ] ::1 /weblog/Public/Images/login-bg-1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000309s ]
+ERR: 无法加载模块:Public
+
+[ 2017-04-17T14:32:31+08:00 ] ::1 /weblog/Public/Images/login-bg-1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000307s ]
+ERR: 无法加载模块:Public
+
+[ 2017-04-17T14:33:38+08:00 ] ::1 /weblog/Public/Images/login-bg-1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000329s ]
+ERR: 无法加载模块:Public
+
+[ 2017-04-17T14:43:29+08:00 ] ::1 /weblog/Public/Images/login-bg-1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000335s ]
+ERR: 无法加载模块:Public
+
+[ 2017-04-17T14:59:39+08:00 ] ::1 /weblog/Public/Images/login-bg-1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000312s ]
+ERR: 无法加载模块:Public
+
+[ 2017-04-17T15:26:03+08:00 ] ::1 /weblog/Public/Images/login-bg-1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000358s ]
+ERR: 无法加载模块:Public
+
+[ 2017-04-17T15:31:27+08:00 ] ::1 /weblog/Public/Images/login-bg-1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000279s ]
+ERR: 无法加载模块:Public
+
+[ 2017-04-17T15:41:29+08:00 ] ::1 /weblog/Public/Images/login-bg-1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000310s ]
+ERR: 无法加载模块:Public
+
+[ 2017-04-17T16:03:17+08:00 ] ::1 /weblog/index.php/weblog/index.php/Home/Blog/login.html.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000281s ]
+ERR: 无法加载模块:Weblog
+
+[ 2017-04-17T16:03:21+08:00 ] ::1 /weblog/index.php/weblog/index.php/Home/Blog/login.html.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000270s ]
+ERR: 无法加载模块:Weblog
+
+[ 2017-04-17T16:03:21+08:00 ] ::1 /weblog/index.php/weblog/index.php/Home/Blog/index.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000254s ]
+ERR: 无法加载模块:Weblog
+
+[ 2017-04-17T16:03:29+08:00 ] ::1 /weblog/index.php/weblog/index.php/Home/Blog/login.html.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000346s ]
+ERR: 无法加载模块:Weblog
+
+[ 2017-04-17T16:03:29+08:00 ] ::1 /weblog/index.php/weblog/index.php/Home/Blog/index.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000408s ]
+ERR: 无法加载模块:Weblog
+
+[ 2017-04-17T16:03:45+08:00 ] ::1 /weblog/index.php/weblog/index.php/Home/Blog/un
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000558s ]
+ERR: 无法加载模块:Weblog
+
+[ 2017-04-17T16:03:45+08:00 ] ::1 /weblog/index.php/weblog/index.php/Home/Blog/index.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000380s ]
+ERR: 无法加载模块:Weblog
+
+[ 2017-04-17T16:03:53+08:00 ] ::1 /weblog/index.php/weblog/index.php/Home/Blog/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000600s ]
+ERR: 无法加载模块:Weblog
+
+[ 2017-04-17T16:03:53+08:00 ] ::1 /weblog/index.php/weblog/index.php/Home/Blog/index.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000391s ]
+ERR: 无法加载模块:Weblog
+
+[ 2017-04-17T16:04:11+08:00 ] ::1 /weblog/index.php/weblog/index.php/Home/Blog/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000383s ]
+ERR: 无法加载模块:Weblog
+
+[ 2017-04-17T16:04:11+08:00 ] ::1 /weblog/index.php/weblog/index.php/Home/Blog/index.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000358s ]
+ERR: 无法加载模块:Weblog
+
+[ 2017-04-17T16:04:46+08:00 ] ::1 /weblog/index.php/weblog/index.php/Home/Blog/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000576s ]
+ERR: 无法加载模块:Weblog
+
+[ 2017-04-17T16:04:47+08:00 ] ::1 /weblog/index.php/weblog/index.php/Home/Blog/index.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000573s ]
+ERR: 无法加载模块:Weblog
+
+[ 2017-04-17T16:04:49+08:00 ] ::1 /weblog/index.php/weblog/index.php/Home/Blog
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000526s ]
+ERR: 无法加载模块:Weblog
+
+[ 2017-04-17T16:04:49+08:00 ] ::1 /weblog/index.php/weblog/index.php/Home/index.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000384s ]
+ERR: 无法加载模块:Weblog
+
+[ 2017-04-17T16:04:53+08:00 ] ::1 /weblog/index.php/weblog/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000362s ]
+ERR: 无法加载模块:Weblog
+
+[ 2017-04-17T16:04:53+08:00 ] ::1 /weblog/index.php/weblog/index.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000362s ]
+ERR: 无法加载模块:Weblog
+
+[ 2017-04-17T16:05:37+08:00 ] ::1 /weblog/index.php/weblog/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000364s ]
+ERR: 无法加载模块:Weblog
+
+[ 2017-04-17T16:05:37+08:00 ] ::1 /weblog/index.php/weblog/index.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000893s ]
+ERR: 无法加载模块:Weblog
+
+[ 2017-04-17T16:05:37+08:00 ] ::1 /weblog/index.php/weblog/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000360s ]
+ERR: 无法加载模块:Weblog
+
+[ 2017-04-17T16:05:38+08:00 ] ::1 /weblog/index.php/weblog/index.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000363s ]
+ERR: 无法加载模块:Weblog
+
+[ 2017-04-17T16:05:38+08:00 ] ::1 /weblog/index.php/weblog/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000385s ]
+ERR: 无法加载模块:Weblog
+
+[ 2017-04-17T16:05:38+08:00 ] ::1 /weblog/index.php/weblog/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000363s ]
+ERR: 无法加载模块:Weblog
+
+[ 2017-04-17T16:05:38+08:00 ] ::1 /weblog/index.php/weblog/index.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000368s ]
+ERR: 无法加载模块:Weblog
+
+[ 2017-04-17T16:05:38+08:00 ] ::1 /weblog/index.php/weblog/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000651s ]
+ERR: 无法加载模块:Weblog
+
+[ 2017-04-17T16:05:38+08:00 ] ::1 /weblog/index.php/weblog/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000893s ]
+ERR: 无法加载模块:Weblog
+
+[ 2017-04-17T16:05:38+08:00 ] ::1 /weblog/index.php/weblog/index.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000384s ]
+ERR: 无法加载模块:Weblog
+
+[ 2017-04-17T16:05:38+08:00 ] ::1 /weblog/index.php/weblog/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000378s ]
+ERR: 无法加载模块:Weblog
+
+[ 2017-04-17T16:05:39+08:00 ] ::1 /weblog/index.php/weblog/index.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000378s ]
+ERR: 无法加载模块:Weblog
+
+[ 2017-04-17T16:06:14+08:00 ] ::1 /weblog/index.php/weblog/index.php/Home/Blog/login.html.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000343s ]
+ERR: 无法加载模块:Weblog
+
+[ 2017-04-17T16:06:14+08:00 ] ::1 /weblog/index.php/weblog/index.php/Home/Blog/index.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001009s ]
+ERR: 无法加载模块:Weblog
+
+[ 2017-04-17T16:11:49+08:00 ] ::1 /weblog/Public/Images/login-bg-1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000310s ]
+ERR: 无法加载模块:Public
+
+[ 2017-04-17T16:17:04+08:00 ] ::1 /weblog/Public/Images/login-bg-1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000318s ]
+ERR: 无法加载模块:Public
+
+[ 2017-04-17T16:17:05+08:00 ] ::1 /weblog/Public/Images/login-bg-1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000267s ]
+ERR: 无法加载模块:Public
+
+[ 2017-04-17T16:50:26+08:00 ] ::1 /weblog/Public/Images/login-bg-1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000317s ]
+ERR: 无法加载模块:Public
+
+[ 2017-04-17T16:51:35+08:00 ] ::1 /weblog/Public/Images/login-bg-1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000435s ]
+ERR: 无法加载模块:Public
+
+[ 2017-04-17T16:51:35+08:00 ] ::1 /weblog/Public/Images/login-bg-1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000350s ]
+ERR: 无法加载模块:Public
+
+[ 2017-04-17T16:52:24+08:00 ] ::1 /weblog/Public/Images/login-bg-1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000286s ]
+ERR: 无法加载模块:Public
+
+[ 2017-04-17T16:53:14+08:00 ] ::1 /weblog/Public/Images/login-bg-1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000271s ]
+ERR: 无法加载模块:Public
+
+[ 2017-04-17T16:58:25+08:00 ] ::1 /weblog/Public/Images/login-bg-1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000342s ]
+ERR: 无法加载模块:Public
+
+[ 2017-04-17T17:01:08+08:00 ] ::1 /weblog/Public/Images/login-bg-1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000261s ]
+ERR: 无法加载模块:Public
+

@@ -1,0 +1,276 @@
+[ 2017-01-16T18:05:14+08:00 ] ::1 /thinkphp/index.php/Home/Api
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003621s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001510s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001568s ]
+NOTIC: [8] Undefined index: jsonpCallback C:\xampp\htdocs\thinkphp\Application\Home\Controller\ApiController.class.php 第 22 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001674s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001739s ]
+
+[ 2017-01-16T18:05:38+08:00 ] ::1 /thinkphp/index.php/Home/Api
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000572s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001235s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001287s ]
+NOTIC: [8] Undefined index: jsonpCallback C:\xampp\htdocs\thinkphp\Application\Home\Controller\ApiController.class.php 第 22 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001353s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001399s ]
+
+[ 2017-01-16T18:08:49+08:00 ] ::1 /thinkphp/index.php/Home/Api/index?word=%e6%b3%95%e5%ae%9a%e6%b3%95%e8%a7%84%e8%a7%84%e8%8c%83%e7%9a%84%e6%96%b9%e6%b3%95%e5%af%b9%e6%96%b9%e6%98%af%e7%9a%84%e8%8c%83%e5%be%b7%e8%90%a8%e5%8f%91%e6%89%93%e5%8f%91%e6%96%af%e8%92%82%e8%8a%ac%e6%98%af%e5%90%a6
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000447s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000807s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000845s ]
+NOTIC: [8] Undefined index: jsonpCallback C:\xampp\htdocs\thinkphp\Application\Home\Controller\ApiController.class.php 第 22 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002680s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002821s ]
+
+[ 2017-01-16T18:10:39+08:00 ] ::1 /thinkphp/index.php/Home/Index/get_account?account=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000457s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000582s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000624s ]
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+ [ SQL语句 ] : select * from passport_user where Account = 
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+ [ SQL语句 ] : select * from passport_user where Account = 
+
+[ 2017-01-16T18:10:41+08:00 ] ::1 /thinkphp/index.php/Home/Index/get_account?account=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001645s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000978s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001059s ]
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+ [ SQL语句 ] : select * from passport_user where Account = 
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+ [ SQL语句 ] : select * from passport_user where Account = 
+
+[ 2017-01-16T18:10:42+08:00 ] ::1 /thinkphp/index.php/Home/Index/get_account?account=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000472s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000585s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000628s ]
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+ [ SQL语句 ] : select * from passport_user where Account = 
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+ [ SQL语句 ] : select * from passport_user where Account = 
+
+[ 2017-01-16T18:10:43+08:00 ] ::1 /thinkphp/index.php/Home/Index/get_account?account=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000503s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000944s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001008s ]
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+ [ SQL语句 ] : select * from passport_user where Account = 
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+ [ SQL语句 ] : select * from passport_user where Account = 
+
+[ 2017-01-16T18:18:05+08:00 ] ::1 /thinkphp/index.php/Home/Api/index?word=%E4%B8%B0%E5%AF%8C%E7%9A%84%E8%AE%BD%E5%BE%B7%E8%AF%B5%E5%8A%9F%E9%A5%AD%E6%89%93%E5%8F%91%E7%AC%AC%E4%B8%89%E6%96%B9%E5%A3%AB%E5%A4%A7%E5%A4%AB
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000535s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000982s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001023s ]
+NOTIC: [8] Undefined index: jsonpCallback C:\xampp\htdocs\thinkphp\Application\Home\Controller\ApiController.class.php 第 22 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000935s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000977s ]
+
+[ 2017-01-16T18:18:59+08:00 ] ::1 /thinkphp/index.php/Home/Api/index?word=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000658s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000568s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000610s ]
+NOTIC: [8] Undefined index: jsonpCallback C:\xampp\htdocs\thinkphp\Application\Home\Controller\ApiController.class.php 第 22 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002020s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002121s ]
+
+[ 2017-01-16T18:18:59+08:00 ] ::1 /thinkphp/index.php/Home/Api/index?word=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000401s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001279s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001364s ]
+NOTIC: [8] Undefined index: jsonpCallback C:\xampp\htdocs\thinkphp\Application\Home\Controller\ApiController.class.php 第 22 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000910s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000968s ]
+
+[ 2017-01-16T18:19:11+08:00 ] ::1 /thinkphp/index.php/Home/Api/index?word=%E5%87%A0%E4%B8%AA%E9%9D%9E%E5%AE%98%E6%96%B9%E6%98%AF%E7%9A%84%E8%8C%83%E5%BE%B7%E8%90%A8%E5%8F%91%E7%9A%84%E6%89%80%E5%8F%91%E7%94%9F%E7%9A%84
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000575s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000922s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001008s ]
+NOTIC: [8] Undefined index: jsonpCallback C:\xampp\htdocs\thinkphp\Application\Home\Controller\ApiController.class.php 第 22 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001757s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001875s ]
+
+[ 2017-01-16T18:19:15+08:00 ] ::1 /thinkphp/index.php/Home/Api/index?word=%E5%87%A0%E4%B8%AA%E9%9D%9E%E5%AE%98%E6%96%B9%E6%98%AF%E7%9A%84%E8%8C%83%E5%BE%B7%E8%90%A8%E5%8F%91%E7%9A%84%E6%89%80%E5%8F%91%E7%94%9F%E7%9A%84
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000513s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000708s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000776s ]
+NOTIC: [8] Undefined index: jsonpCallback C:\xampp\htdocs\thinkphp\Application\Home\Controller\ApiController.class.php 第 22 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001654s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001749s ]
+
+[ 2017-01-16T18:19:25+08:00 ] ::1 /thinkphp/index.php/Home/Api/index?word=%E5%87%A0%E4%B8%AA%E9%9D%9E%E5%AE%98%E6%96%B9%E6%98%AF%E7%9A%84%E8%8C%83%E5%BE%B7%E8%90%A8%E5%8F%91%E7%9A%84%E6%89%80%E5%8F%91%E7%94%9F%E7%9A%84
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000347s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000871s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000938s ]
+NOTIC: [8] Undefined index: jsonpCallback C:\xampp\htdocs\thinkphp\Application\Home\Controller\ApiController.class.php 第 22 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001471s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001558s ]
+
+[ 2017-01-16T18:20:22+08:00 ] ::1 /thinkphp/index.php/Home/Api/index?word=%E8%8C%83%E5%BE%B7%E8%90%A8%E8%8C%83%E5%BE%B7%E8%90%A8%E8%8C%83%E5%BE%B7%E8%90%A8%E9%A3%8E%E9%A3%8E%E5%85%89%E5%85%89%E9%9D%9E%E5%AE%98%E6%96%B9%E7%9A%84
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000800s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001391s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001457s ]
+NOTIC: [8] Undefined index: jsonpCallback C:\xampp\htdocs\thinkphp\Application\Home\Controller\ApiController.class.php 第 22 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001173s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001227s ]
+
+[ 2017-01-16T18:20:40+08:00 ] ::1 /thinkphp/index.php/Home/Api/index?word=%E8%8C%83%E5%BE%B7%E8%90%A8%E8%8C%83%E5%BE%B7%E8%90%A8%E8%8C%83%E5%BE%B7%E8%90%A8%E9%A3%8E%E9%A3%8E%E5%85%89%E5%85%89%E9%9D%9E%E5%AE%98%E6%96%B9%E7%9A%84
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000485s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001069s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001164s ]
+NOTIC: [8] Undefined index: jsonpCallback C:\xampp\htdocs\thinkphp\Application\Home\Controller\ApiController.class.php 第 22 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000762s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000809s ]
+
+[ 2017-01-16T18:20:50+08:00 ] ::1 /thinkphp/index.php/Home/Api/index?word=%E5%8F%8D%E5%80%92%E6%98%AF%E5%A4%A7%E5%93%A5%E5%A4%A7%E6%B3%95%E5%AE%98%E7%9A%84%E9%9D%9E%E5%AE%98%E6%96%B9%E5%A4%A7%E5%93%A5%E5%A4%A7%E6%B3%95%E5%AE%98
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000610s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001117s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001212s ]
+NOTIC: [8] Undefined index: jsonpCallback C:\xampp\htdocs\thinkphp\Application\Home\Controller\ApiController.class.php 第 22 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001980s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002086s ]
+
+[ 2017-01-16T18:23:32+08:00 ] ::1 /thinkphp/index.php/Home/Api/index?word=%E5%8F%8D%E5%80%92%E6%98%AF%E5%A4%A7%E5%93%A5%E5%A4%A7%E6%B3%95%E5%AE%98%E7%9A%84%E9%9D%9E%E5%AE%98%E6%96%B9%E5%A4%A7%E5%93%A5%E5%A4%A7%E6%B3%95%E5%AE%98
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002743s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000899s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000957s ]
+NOTIC: [8] Undefined index: jsonpCallback C:\xampp\htdocs\thinkphp\Application\Home\Controller\ApiController.class.php 第 22 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001893s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001997s ]
+
+[ 2017-01-16T18:23:35+08:00 ] ::1 /thinkphp/index.php/Home/Api/index?word=%E5%8F%8D%E5%80%92%E6%98%AF%E5%A4%A7%E5%93%A5%E5%A4%A7%E6%B3%95%E5%AE%98%E7%9A%84%E9%9D%9E%E5%AE%98%E6%96%B9%E5%A4%A7%E5%93%A5%E5%A4%A7%E6%B3%95%E5%AE%98
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000334s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000930s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000994s ]
+NOTIC: [8] Undefined index: jsonpCallback C:\xampp\htdocs\thinkphp\Application\Home\Controller\ApiController.class.php 第 22 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000766s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000813s ]
+
+[ 2017-01-16T18:23:36+08:00 ] ::1 /thinkphp/index.php/Home/Api/index?word=%E5%8F%8D%E5%80%92%E6%98%AF%E5%A4%A7%E5%93%A5%E5%A4%A7%E6%B3%95%E5%AE%98%E7%9A%84%E9%9D%9E%E5%AE%98%E6%96%B9%E5%A4%A7%E5%93%A5%E5%A4%A7%E6%B3%95%E5%AE%98
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000449s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000971s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001051s ]
+NOTIC: [8] Undefined index: jsonpCallback C:\xampp\htdocs\thinkphp\Application\Home\Controller\ApiController.class.php 第 22 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000773s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000834s ]
+
+[ 2017-01-16T18:23:58+08:00 ] ::1 /thinkphp/index.php/Home/Api/index?word=%E5%8F%8D%E5%80%92%E6%98%AF%E5%A4%A7%E5%93%A5%E5%A4%A7%E6%B3%95%E5%AE%98%E7%9A%84%E9%9D%9E%E5%AE%98%E6%96%B9%E5%A4%A7%E5%93%A5%E5%A4%A7%E6%B3%95%E5%AE%98
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002079s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001348s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001412s ]
+NOTIC: [8] Undefined index: jsonpCallback C:\xampp\htdocs\thinkphp\Application\Home\Controller\ApiController.class.php 第 22 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002308s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002382s ]
+
+[ 2017-01-16T18:25:50+08:00 ] ::1 /thinkphp/index.php/Home/Api/index?word=%E5%8F%8D%E5%80%92%E6%98%AF%E5%A4%A7%E5%93%A5%E5%A4%A7%E6%B3%95%E5%AE%98%E7%9A%84%E9%9D%9E%E5%AE%98%E6%96%B9%E5%A4%A7%E5%93%A5%E5%A4%A7%E6%B3%95%E5%AE%98
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000769s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002250s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002328s ]
+NOTIC: [8] Undefined index: jsonpCallback C:\xampp\htdocs\thinkphp\Application\Home\Controller\ApiController.class.php 第 22 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001414s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001468s ]
+
+[ 2017-01-16T18:25:51+08:00 ] ::1 /thinkphp/index.php/Home/Api/index?word=%E5%8F%8D%E5%80%92%E6%98%AF%E5%A4%A7%E5%93%A5%E5%A4%A7%E6%B3%95%E5%AE%98%E7%9A%84%E9%9D%9E%E5%AE%98%E6%96%B9%E5%A4%A7%E5%93%A5%E5%A4%A7%E6%B3%95%E5%AE%98
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000444s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001358s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001420s ]
+NOTIC: [8] Undefined index: jsonpCallback C:\xampp\htdocs\thinkphp\Application\Home\Controller\ApiController.class.php 第 22 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.005374s ]
+INFO: [ app_end ] --END-- [ RunTime:0.005490s ]
+
+[ 2017-01-16T18:25:54+08:00 ] ::1 /thinkphp/index.php/Home/Api/index?word=%E5%8F%8D%E5%80%92%E6%98%AF%E5%A4%A7%E5%93%A5%E5%A4%A7%E6%B3%95%E5%AE%98%E7%9A%84%E9%9D%9E%E5%AE%98%E6%96%B9%E5%A4%A7%E5%93%A5%E5%A4%A7%E6%B3%95%E5%AE%98
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000638s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002018s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002084s ]
+NOTIC: [8] Undefined index: jsonpCallback C:\xampp\htdocs\thinkphp\Application\Home\Controller\ApiController.class.php 第 22 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001792s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001850s ]
+
